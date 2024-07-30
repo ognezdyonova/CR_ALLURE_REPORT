@@ -1,0 +1,1 @@
+{"results":{"id":1,"code":"CR01","description":"Missing or incorrect address on appointment","category":"","type":"EVV","noteRequired":true},"result":"OK","failed":false,"cachedTime":1722341099041}

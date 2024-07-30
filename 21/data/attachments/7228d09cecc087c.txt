@@ -1,0 +1,108 @@
+{
+    "timesheet": {
+        "clientContactId": 353675,
+        "insuranceId": 1393199, //1025305,
+        "referrerId": 288525,
+        "billingId": 288525,
+        "locationId": 288525,
+        "providerSupplierId": 288525,
+        "status": "Converted",
+        "source": "",
+        "diagnosisCodes": [
+            {
+                "diagnosisCodeId": 31329,
+                "position": 1
+            },
+            {
+                "diagnosisCodeId": 21802,
+                "position": 2
+            },
+            {
+                "diagnosisCodeId": 38653,
+                "position": 3
+            }
+        ],
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "providerContactId": 288525,
+                "serviceDate": "2020-04-28T00:00:00+00:00",
+                "startTime": 0,
+                "endTime": 0,
+                "driveTime": 0,
+                "driveMileage": 0,
+                "adminNote": "",
+                "authorizationId": 0,
+                "procedureCodeId": "303311",
+                "serviceLocationId": 0,
+                "rates": [
+                    {
+                        "feeScheduleId": 5380,
+                        "unitsOfService": 0,
+                        "copayAmount": null,
+                        "rateProvider": "0.00",
+                        "rateClient": "25.58",
+                        "rateClientAgreed": "25.58",
+                        "rateProviderDriveHourly": "0.000",
+                        "rateProviderDriveMileage": "0.000",
+                        "rateClientDriveHourly": "0.00",
+                        "rateClientDriveMileage": "0.00"
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    }
+                ],
+                "pointers": [],
+                "notes": [
+                    {
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "description": "",
+                        "isRequired": false,
+                        "single": {
+                            "options": [
+                                "yes"
+                            ],
+                            "index": null
+                        },
+                        "answeredOn": "1900-01-01T00:00:00+00:00",
+                        "answeredBy": 0
+                    }
+                ],
+                "exceptions": [
+                    
+                    {
+                        "exceptionId": 108,
+                        "exception": "TotalTimeZero",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Total time worked is zero",
+                        "exceptionDate": "2020-04-22T20:06:41.9327532+00:00",
+                        "exceptionOverride": true
+                    },
+                    {
+                        "exceptionId": 109,
+                        "exception": "UnitsOfServiceZero",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Units of service are zero",
+                        "exceptionDate": "2020-04-22T20:06:41.9327532+00:00",
+                        "exceptionOverride": true
+                    }
+                ],
+                "serviceLocationAddressId": 0,
+                "resources": [],
+                "signatures": []
+            }
+        ],
+        "exceptions": []
+    }
+}

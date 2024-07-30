@@ -1,0 +1,1 @@
+{"data":null,"errors":["\"queryStringParameters\" must have required property 'countryRegion'"],"meta":{"provider":"azure","providerStatusCode":400}}

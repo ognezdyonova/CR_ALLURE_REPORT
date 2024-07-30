@@ -1,0 +1,22 @@
+{
+  "Policy": {
+    "Name": "edit policy [API] a9nkIH",
+    "TypeId": 1,
+    "CarryoverMonth": 1,
+    "CarryoverDay": 1,
+    "AccrueOnPeriodStart": false,
+    "UsePayPeriods": true,
+    "ProRateAccruals": false,
+    "AccrualPeriodCount": 30,
+    "AccrualPeriodUnit": "string",
+    "BasedOnHoursWorked": true,
+    "Levels": [
+      {
+        "DelayCount": 1,
+        "DelayUnit": "string",
+        "HoursAccrued": 1,
+        "MaxCarryover": 1
+      }
+    ]
+  }
+}

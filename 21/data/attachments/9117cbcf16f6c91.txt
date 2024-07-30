@@ -1,0 +1,1 @@
+{"id":122544,"templateId":0,"columnType":0,"isCustom":false,"isEditable":false,"result":"OK","failed":false,"cachedTime":0}

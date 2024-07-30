@@ -1,0 +1,33 @@
+{
+    "claimSettings": {
+       "FirstName": "fn1",
+        "MiddleName": "K",
+        "LastName": "ln1",
+        "Suffix": "Jr.",
+        "Email": "testfn112343@centralreach.com",
+        "NpiNumber": 1234567890,
+        "TaxId": 123456789,
+        "SocialSecurityNumber": 908678905,
+        "Contact": "ContactTest",
+        "PhoneWork": 1111111111,
+        "PhoneWorkExt": 567,
+        "PhoneFax": 2222222222,
+        "AddressLine1": "11 Vincent Behan Blvd",
+        "AddressLine2": "addrtest2",
+        "City": "Edison",
+        "StateProvince": "NJ",
+        "Country": "United States",
+        "ZipPostalCode": "088371234",
+        "FacilityCode": "03",
+        "Specialty": "221700000N"
+    },
+    "identifierValues": [
+        {
+            "ContactIdentifierId": 11,
+            "Notes": "notestest",
+            "Value": "123testing"
+        }
+       
+    ]
+   
+}

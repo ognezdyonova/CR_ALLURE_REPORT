@@ -1,0 +1,36 @@
+{
+    "draftName": "Office Location 2 - RY8nH",
+    "optimizationType": "FillClientHours",
+    "optimizeBy": "balanced",
+    "startDate": "2024-07-31T16:00:00.000Z",
+    "endDate": "2024-08-04T16:00:00.000Z",
+    "recurrenceEndsOn": "2024-08-11",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 300,
+    "utilizationHours": "AuthorizedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 180
+    },
+    "locationTimeZone": "America/New_York",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595608
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595608
+        ],
+        "selectedContactIds": [],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

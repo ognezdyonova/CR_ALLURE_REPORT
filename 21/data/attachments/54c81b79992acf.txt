@@ -1,0 +1,14 @@
+{
+    "id": 4379,
+    "clientId": 3031214, 
+    "clientName": "Matt Storm",
+    "assessmentCount": 0,
+    "lastAssessmentDate": "",
+    "loaded": true,
+    "loading": false,
+    "questionCount": 0,
+    "assessments": [],
+    "datePretty": "Never",
+    "selectedAssessments": [],
+    "_utcOffsetMinutes": 240
+}

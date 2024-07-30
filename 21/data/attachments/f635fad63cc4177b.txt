@@ -1,0 +1,1 @@
+{"data":{"latitude":26.23572,"longitude":-80.10298,"timeZone":"America/New_York"},"errors":null,"meta":{"provider":"azure","providerStatusCode":200}}

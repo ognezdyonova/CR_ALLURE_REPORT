@@ -1,0 +1,1 @@
+{"data":[{"address":{"addressLine":"93 Tsentralnyi prospekt","locality":"Mykolaivska miska hromada","adminDistrict":"Mykolaiv Oblast","countryRegion":"Ukraine"},"displayAddress":"Tsentralnyi prospekt 93, Mykolaivska miska hromada","position":{"latitude":46.966106,"longitude":31.997866,"timeZone":"Europe/Kyiv"}}],"errors":null,"meta":{"provider":"azure","providerStatusCode":200}}

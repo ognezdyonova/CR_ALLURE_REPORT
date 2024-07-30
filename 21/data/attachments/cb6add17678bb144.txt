@@ -1,0 +1,54 @@
+{
+  "masterId": 350047694,
+  "itemId": 350047695,
+  "dataId": 237442020,
+  "type": "baseline",
+  "value": null,
+  "multiValues": [
+    {
+      "value": 1,
+      "name": 1,
+      "selectedDate": "7/30/2024T13:38:23.111Z",
+      "intervalStart": "",
+      "intervalEnd": "",
+      "active": true,
+      "taskId": "",
+      "dataAdditional": [],
+      "item": 1,
+      "promptsMinus": false,
+      "samplingTime": "",
+      "hasSelectedPrompt": false,
+      "nr": {
+        "id": {{bundleAddDataItemDataNrId}},
+        "name": "NR",
+        "value": "",
+        "setId": "",
+        "prompts": [],
+        "display": "&nbsp;&nbsp;&nbsp;",
+        "nameFormatted": "NR"
+      },
+      "err": {
+        "id": {{bundleAddDataItemDataErrId}},
+        "name": "ERR",
+        "value": "",
+        "setId": "",
+        "prompts": [],
+        "display": "&nbsp;&nbsp;&nbsp;",
+        "nameFormatted": "ERR"
+      },
+      "itemId": {{bundleAddDataLearningItemId}}
+    }
+  ],
+  "dataDate": "7/30/2024 12:00 PM",
+  "comment": null,
+  "dataValueType": "baseline",
+  "skipAutoLabel": false,
+  "sessionId": null,
+  "routineTimeId": null,
+  "isDraft": null,
+  "valueDeltaStream": [],
+  "taskNames": [],
+  "isMultiValued": true,
+  "sourceType": "bundle",
+  "valueType": "baseline"
+}

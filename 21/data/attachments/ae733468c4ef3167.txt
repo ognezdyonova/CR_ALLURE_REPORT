@@ -1,0 +1,33 @@
+{
+    "draftName": "Office Location 1 - YMyJu",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "startDate": "2024-07-31T17:00:00.000Z",
+    "endDate": "2024-07-31T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 180,
+    "optimizeBy": "balanced",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 195,
+        "lengthOfLunch": 45
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595582
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595582
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

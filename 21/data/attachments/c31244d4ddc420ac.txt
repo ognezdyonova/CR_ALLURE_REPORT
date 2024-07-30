@@ -1,0 +1,365 @@
+level: log, messages: Contact: 288525 does not have phoneHome
+level: log, messages: Contact: 288527 does not have middleInitial
+level: log, messages: Contact: 288527 does not have company
+level: log, messages: Contact: 288527 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 288527 does not have profileImageUrl
+level: log, messages: Contact: 288527 does not have phoneCell
+level: log, messages: Contact: 288527 does not have phoneHome
+level: log, messages: Contact: 288527 does not have phoneHome
+level: log, messages: Contact: 288527 does not have phoneWorkExt
+level: log, messages: Contact: 288528 does not have middleInitial
+level: log, messages: Contact: 288528 does not have company
+level: log, messages: Contact: 288528 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 288528 does not have profileImageUrl
+level: log, messages: Contact: 288528 does not have phoneCell
+level: log, messages: Contact: 288528 does not have phoneHome
+level: log, messages: Contact: 288528 does not have phoneHome
+level: log, messages: Contact: 288528 does not have phoneWorkExt
+level: log, messages: Contact: 290310 does not have middleInitial
+level: log, messages: Contact: 290310 does not have company
+level: log, messages: Contact: 290310 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290310 does not have profileImageUrl
+level: log, messages: Contact: 290310 does not have phoneCell
+level: log, messages: Contact: 290310 does not have phoneHome
+level: log, messages: Contact: 290310 does not have phoneHome
+level: log, messages: Contact: 290310 does not have phoneWorkExt
+level: log, messages: Contact: 290333 does not have profileImageUrl
+level: log, messages: Contact: 290333 does not have phoneCell
+level: log, messages: Contact: 290333 does not have phoneHome
+level: log, messages: Contact: 290333 does not have phoneHome
+level: log, messages: Contact: 290333 does not have phoneWorkExt
+level: log, messages: Contact: 290387 does not have middleInitial
+level: log, messages: Contact: 290387 does not have company
+level: log, messages: Contact: 290387 does not have email
+level: log, messages: Contact: 290387 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290387 does not have profileImageUrl
+level: log, messages: Contact: 290387 does not have phoneHome
+level: log, messages: Contact: 290387 does not have phoneWorkExt
+level: log, messages: Contact: 290546 does not have middleInitial
+level: log, messages: Contact: 290546 does not have company
+level: log, messages: Contact: 290546 does not have email
+level: log, messages: Contact: 290546 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290546 does not have profileImageUrl
+level: log, messages: Contact: 290546 does not have phoneHome
+level: log, messages: Contact: 290546 does not have phoneWorkExt
+level: log, messages: Contact: 290548 does not have profileImageUrl
+level: log, messages: Contact: 290548 does not have phoneHome
+level: log, messages: Contact: 290548 does not have phoneWorkExt
+level: log, messages: Contact: 290554 does not have middleInitial
+level: log, messages: Contact: 290554 does not have company
+level: log, messages: Contact: 290554 does not have email
+level: log, messages: Contact: 290554 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290554 does not have profileImageUrl
+level: log, messages: Contact: 290554 does not have phoneHome
+level: log, messages: Contact: 290554 does not have phoneWorkExt
+level: log, messages: Contact: 290555 does not have middleInitial
+level: log, messages: Contact: 290555 does not have company
+level: log, messages: Contact: 290555 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290555 does not have profileImageUrl
+level: log, messages: Contact: 290555 does not have phoneHome
+level: log, messages: Contact: 290657 does not have profileImageUrl
+level: log, messages: Contact: 290657 does not have phoneHome
+level: log, messages: Contact: 290681 does not have middleInitial
+level: log, messages: Contact: 290681 does not have company
+level: log, messages: Contact: 290681 does not have email
+level: log, messages: Contact: 290681 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290681 does not have profileImageUrl
+level: log, messages: Contact: 290681 does not have phoneHome
+level: log, messages: Contact: 290682 does not have middleInitial
+level: log, messages: Contact: 290682 does not have company
+level: log, messages: Contact: 290682 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 290682 does not have profileImageUrl
+level: log, messages: Contact: 290682 does not have phoneHome
+level: log, messages: Contact: 290682 does not have phoneWorkExt
+level: log, messages: Contact: 290832 does not have profileImageUrl
+level: log, messages: Contact: 290832 does not have phoneHome
+level: log, messages: Contact: 293624 does not have profileImageUrl
+level: log, messages: Contact: 293624 does not have phoneHome
+level: log, messages: Contact: 293624 does not have phoneWorkExt
+level: log, messages: Contact: 294791 does not have middleInitial
+level: log, messages: Contact: 294791 does not have company
+level: log, messages: Contact: 294791 does not have email
+level: log, messages: Contact: 294791 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 294791 does not have profileImageUrl
+level: log, messages: Contact: 294791 does not have phoneHome
+level: log, messages: Contact: 294791 does not have phoneWorkExt
+level: log, messages: Contact: 294793 does not have middleInitial
+level: log, messages: Contact: 294793 does not have company
+level: log, messages: Contact: 294793 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 294793 does not have profileImageUrl
+level: log, messages: Contact: 294793 does not have phoneHome
+level: log, messages: Contact: 294793 does not have phoneWorkExt
+level: log, messages: Contact: 317567 does not have middleInitial
+level: log, messages: Contact: 317567 does not have company
+level: log, messages: Contact: 317567 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 317567 does not have profileImageUrl
+level: log, messages: Contact: 317567 does not have phoneCell
+level: log, messages: Contact: 317567 does not have phoneHome
+level: log, messages: Contact: 317567 does not have phoneHome
+level: log, messages: Contact: 317567 does not have phoneWorkExt
+level: log, messages: Contact: 317568 does not have profileImageUrl
+level: log, messages: Contact: 317568 does not have phoneCell
+level: log, messages: Contact: 317568 does not have phoneHome
+level: log, messages: Contact: 317568 does not have phoneHome
+level: log, messages: Contact: 317568 does not have phoneWorkExt
+level: log, messages: Contact: 325508 does not have middleInitial
+level: log, messages: Contact: 325508 does not have company
+level: log, messages: Contact: 325508 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 325508 does not have profileImageUrl
+level: log, messages: Contact: 325508 does not have phoneCell
+level: log, messages: Contact: 325508 does not have phoneHome
+level: log, messages: Contact: 325508 does not have phoneHome
+level: log, messages: Contact: 325508 does not have phoneWorkExt
+level: log, messages: Contact: 328063 does not have profileImageUrl
+level: log, messages: Contact: 328063 does not have phoneCell
+level: log, messages: Contact: 328063 does not have phoneHome
+level: log, messages: Contact: 328063 does not have phoneWorkExt
+level: log, messages: Contact: 343625 does not have middleInitial
+level: log, messages: Contact: 343625 does not have company
+level: log, messages: Contact: 343625 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 343625 does not have profileImageUrl
+level: log, messages: Contact: 343625 does not have phoneCell
+level: log, messages: Contact: 343625 does not have phoneHome
+level: log, messages: Contact: 343625 does not have phoneHome
+level: log, messages: Contact: 343625 does not have phoneWorkExt
+level: log, messages: Contact: 343782 does not have middleInitial
+level: log, messages: Contact: 343782 does not have company
+level: log, messages: Contact: 343782 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 343782 does not have profileImageUrl
+level: log, messages: Contact: 343782 does not have phoneCell
+level: log, messages: Contact: 343782 does not have phoneHome
+level: log, messages: Contact: 343782 does not have phoneHome
+level: log, messages: Contact: 343782 does not have phoneWorkExt
+level: log, messages: Contact: 344093 does not have middleInitial
+level: log, messages: Contact: 344093 does not have company
+level: log, messages: Contact: 344093 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 344093 does not have profileImageUrl
+level: log, messages: Contact: 344093 does not have phoneCell
+level: log, messages: Contact: 344093 does not have phoneHome
+level: log, messages: Contact: 344093 does not have phoneHome
+level: log, messages: Contact: 344093 does not have phoneWorkExt
+level: log, messages: Contact: 350638 does not have profileImageUrl
+level: log, messages: Contact: 350638 does not have phoneCell
+level: log, messages: Contact: 350638 does not have phoneHome
+level: log, messages: Contact: 350638 does not have phoneHome
+level: log, messages: Contact: 350638 does not have phoneWorkExt
+level: log, messages: Contact: 350639 does not have middleInitial
+level: log, messages: Contact: 350639 does not have company
+level: log, messages: Contact: 350639 does not have email
+level: log, messages: Contact: 350639 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 350639 does not have profileImageUrl
+level: log, messages: Contact: 350639 does not have phoneCell
+level: log, messages: Contact: 350639 does not have phoneHome
+level: log, messages: Contact: 350639 does not have phoneHome
+level: log, messages: Contact: 350639 does not have phoneWorkExt
+level: log, messages: Contact: 350723 does not have middleInitial
+level: log, messages: Contact: 350723 does not have company
+level: log, messages: Contact: 350723 does not have email
+level: log, messages: Contact: 350723 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 350723 does not have profileImageUrl
+level: log, messages: Contact: 350723 does not have phoneCell
+level: log, messages: Contact: 350723 does not have phoneHome
+level: log, messages: Contact: 350723 does not have phoneHome
+level: log, messages: Contact: 350723 does not have phoneWorkExt
+level: log, messages: Contact: 350729 does not have middleInitial
+level: log, messages: Contact: 350729 does not have company
+level: log, messages: Contact: 350729 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 350729 does not have profileImageUrl
+level: log, messages: Contact: 350729 does not have phoneCell
+level: log, messages: Contact: 350729 does not have phoneHome
+level: log, messages: Contact: 350729 does not have phoneHome
+level: log, messages: Contact: 350729 does not have phoneWorkExt
+level: log, messages: Contact: 353675 does not have middleInitial
+level: log, messages: Contact: 353675 does not have company
+level: log, messages: Contact: 353675 does not have email
+level: log, messages: Contact: 353675 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 353675 does not have profileImageUrl
+level: log, messages: Contact: 353675 does not have phoneCell
+level: log, messages: Contact: 353675 does not have phoneHome
+level: log, messages: Contact: 353675 does not have phoneHome
+level: log, messages: Contact: 353675 does not have phoneWorkExt
+level: log, messages: Contact: 353677 does not have middleInitial
+level: log, messages: Contact: 353677 does not have company
+level: log, messages: Contact: 353677 does not have email
+level: log, messages: Contact: 353677 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 353677 does not have profileImageUrl
+level: log, messages: Contact: 353677 does not have phoneCell
+level: log, messages: Contact: 353677 does not have phoneHome
+level: log, messages: Contact: 353677 does not have phoneHome
+level: log, messages: Contact: 353677 does not have phoneWorkExt
+level: log, messages: Contact: 355689 does not have middleInitial
+level: log, messages: Contact: 355689 does not have company
+level: log, messages: Contact: 355689 does not have email
+level: log, messages: Contact: 355689 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 355689 does not have profileImageUrl
+level: log, messages: Contact: 355689 does not have phoneCell
+level: log, messages: Contact: 355689 does not have phoneHome
+level: log, messages: Contact: 355689 does not have phoneHome
+level: log, messages: Contact: 355689 does not have phoneWorkExt
+level: log, messages: Contact: 355690 does not have middleInitial
+level: log, messages: Contact: 355690 does not have company
+level: log, messages: Contact: 355690 does not have email
+level: log, messages: Contact: 355690 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 355690 does not have profileImageUrl
+level: log, messages: Contact: 355690 does not have phoneCell
+level: log, messages: Contact: 355690 does not have phoneHome
+level: log, messages: Contact: 355690 does not have phoneHome
+level: log, messages: Contact: 355690 does not have phoneWorkExt
+level: log, messages: Contact: 355703 does not have middleInitial
+level: log, messages: Contact: 355703 does not have company
+level: log, messages: Contact: 355703 does not have email
+level: log, messages: Contact: 355703 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 355703 does not have profileImageUrl
+level: log, messages: Contact: 355703 does not have phoneCell
+level: log, messages: Contact: 355703 does not have phoneHome
+level: log, messages: Contact: 355703 does not have phoneHome
+level: log, messages: Contact: 355703 does not have phoneWorkExt
+level: log, messages: Contact: 355707 does not have middleInitial
+level: log, messages: Contact: 355707 does not have company
+level: log, messages: Contact: 355707 does not have email
+level: log, messages: Contact: 355707 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 355707 does not have profileImageUrl
+level: log, messages: Contact: 355707 does not have phoneCell
+level: log, messages: Contact: 355707 does not have phoneHome
+level: log, messages: Contact: 355707 does not have phoneHome
+level: log, messages: Contact: 355707 does not have phoneWorkExt
+level: log, messages: Contact: 361271 does not have middleInitial
+level: log, messages: Contact: 361271 does not have company
+level: log, messages: Contact: 361271 does not have email
+level: log, messages: Contact: 361271 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 361271 does not have profileImageUrl
+level: log, messages: Contact: 361271 does not have phoneCell
+level: log, messages: Contact: 361271 does not have phoneHome
+level: log, messages: Contact: 361271 does not have phoneHome
+level: log, messages: Contact: 361271 does not have phoneWorkExt
+level: log, messages: Contact: 361275 does not have middleInitial
+level: log, messages: Contact: 361275 does not have company
+level: log, messages: Contact: 361275 does not have email
+level: log, messages: Contact: 361275 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 361275 does not have profileImageUrl
+level: log, messages: Contact: 361275 does not have phoneCell
+level: log, messages: Contact: 361275 does not have phoneHome
+level: log, messages: Contact: 361275 does not have phoneHome
+level: log, messages: Contact: 361275 does not have phoneWorkExt
+level: log, messages: Contact: 362272 does not have middleInitial
+level: log, messages: Contact: 362272 does not have company
+level: log, messages: Contact: 362272 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 362272 does not have profileImageUrl
+level: log, messages: Contact: 362272 does not have phoneCell
+level: log, messages: Contact: 362272 does not have phoneHome
+level: log, messages: Contact: 362272 does not have phoneHome
+level: log, messages: Contact: 362272 does not have phoneWorkExt
+level: log, messages: Contact: 364908 does not have middleInitial
+level: log, messages: Contact: 364908 does not have company
+level: log, messages: Contact: 364908 does not have email
+level: log, messages: Contact: 364908 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 364908 does not have profileImageUrl
+level: log, messages: Contact: 364908 does not have phoneCell
+level: log, messages: Contact: 364908 does not have phoneHome
+level: log, messages: Contact: 364908 does not have phoneHome
+level: log, messages: Contact: 364908 does not have phoneWorkExt
+level: log, messages: Contact: 364914 does not have middleInitial
+level: log, messages: Contact: 364914 does not have company
+level: log, messages: Contact: 364914 does not have email
+level: log, messages: Contact: 364914 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 364914 does not have profileImageUrl
+level: log, messages: Contact: 364914 does not have phoneCell
+level: log, messages: Contact: 364914 does not have phoneHome
+level: log, messages: Contact: 364914 does not have phoneHome
+level: log, messages: Contact: 364914 does not have phoneWorkExt
+level: log, messages: Contact: 365423 does not have middleInitial
+level: log, messages: Contact: 365423 does not have company
+level: log, messages: Contact: 365423 does not have email
+level: log, messages: Contact: 365423 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 365423 does not have profileImageUrl
+level: log, messages: Contact: 365423 does not have phoneCell
+level: log, messages: Contact: 365423 does not have phoneHome
+level: log, messages: Contact: 365423 does not have phoneHome
+level: log, messages: Contact: 365423 does not have phoneWorkExt
+level: log, messages: Contact: 365425 does not have middleInitial
+level: log, messages: Contact: 365425 does not have company
+level: log, messages: Contact: 365425 does not have email
+level: log, messages: Contact: 365425 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 365425 does not have profileImageUrl
+level: log, messages: Contact: 365425 does not have phoneCell
+level: log, messages: Contact: 365425 does not have phoneHome
+level: log, messages: Contact: 365425 does not have phoneHome
+level: log, messages: Contact: 365425 does not have phoneWorkExt
+level: log, messages: Contact: 371495 does not have middleInitial
+level: log, messages: Contact: 371495 does not have company
+level: log, messages: Contact: 371495 does not have email
+level: log, messages: Contact: 371495 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 371495 does not have profileImageUrl
+level: log, messages: Contact: 371495 does not have phoneCell
+level: log, messages: Contact: 371495 does not have phoneHome
+level: log, messages: Contact: 371495 does not have phoneHome
+level: log, messages: Contact: 371495 does not have phoneWorkExt
+level: log, messages: Contact: 371501 does not have middleInitial
+level: log, messages: Contact: 371501 does not have company
+level: log, messages: Contact: 371501 does not have email
+level: log, messages: Contact: 371501 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 371501 does not have profileImageUrl
+level: log, messages: Contact: 371501 does not have phoneCell
+level: log, messages: Contact: 371501 does not have phoneHome
+level: log, messages: Contact: 371501 does not have phoneHome
+level: log, messages: Contact: 371501 does not have phoneWorkExt
+level: log, messages: Contact: 374720 does not have middleInitial
+level: log, messages: Contact: 374720 does not have company
+level: log, messages: Contact: 374720 does not have email
+level: log, messages: Contact: 374720 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 374720 does not have profileImageUrl
+level: log, messages: Contact: 374720 does not have phoneCell
+level: log, messages: Contact: 374720 does not have phoneHome
+level: log, messages: Contact: 374720 does not have phoneWorkExt
+level: log, messages: Contact: 379095 does not have middleInitial
+level: log, messages: Contact: 379095 does not have company
+level: log, messages: Contact: 379095 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 379095 does not have profileImageUrl
+level: log, messages: Contact: 379095 does not have phoneCell
+level: log, messages: Contact: 379095 does not have phoneHome
+level: log, messages: Contact: 379095 does not have phoneHome
+level: log, messages: Contact: 379095 does not have phoneWorkExt
+level: log, messages: Contact: 381997 does not have middleInitial
+level: log, messages: Contact: 381997 does not have company
+level: log, messages: Contact: 381997 does not have email
+level: log, messages: Contact: 381997 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 381997 does not have profileImageUrl
+level: log, messages: Contact: 381997 does not have phoneCell
+level: log, messages: Contact: 381997 does not have phoneHome
+level: log, messages: Contact: 381997 does not have phoneWorkExt
+level: log, messages: Contact: 381999 does not have middleInitial
+level: log, messages: Contact: 381999 does not have company
+level: log, messages: Contact: 381999 does not have email
+level: log, messages: Contact: 381999 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 381999 does not have profileImageUrl
+level: log, messages: Contact: 381999 does not have phoneCell
+level: log, messages: Contact: 381999 does not have phoneHome
+level: log, messages: Contact: 381999 does not have phoneWorkExt
+level: log, messages: Contact: 384445 does not have middleInitial
+level: log, messages: Contact: 384445 does not have company
+level: log, messages: Contact: 384445 does not have email
+level: log, messages: Contact: 384445 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 384445 does not have profileImageUrl
+level: log, messages: Contact: 384445 does not have phoneCell
+level: log, messages: Contact: 384445 does not have phoneHome
+level: log, messages: Contact: 384445 does not have phoneHome
+level: log, messages: Contact: 384445 does not have phoneWorkExt
+level: log, messages: Contact: 384634 does not have middleInitial
+level: log, messages: Contact: 384634 does not have company
+level: log, messages: Contact: 384634 does not have email
+level: log, messages: Contact: 384634 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 384634 does not have profileImageUrl
+level: log, messages: Contact: 384634 does not have phoneCell
+level: log, messages: Contact: 384634 does not have phoneHome
+level: log, messages: Contact: 384634 does not have phoneHome
+level: log, messages: Contact: 384634 does not have phoneWorkExt
+level: log, messages: Contact: 384637 does not have middleInitial
+level: log, messages: Contact: 384637 does not have company
+level: log, messages: Contact: 384637 does not have email
+level: log, messages: Contact: 384637 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact: 384637 does not have profileImageUrl
+level: log, messages: Contact: 384637 does not have phoneCell
+level: log, messages: Contact: 384637 does not have phoneHome
+level: log, messages: Contact: 384637 does not have phoneHome
+level: log, messages: Contact: 384637 does not have phoneWorkExt
+level: log, messages: Status sent for case: TR does not supported

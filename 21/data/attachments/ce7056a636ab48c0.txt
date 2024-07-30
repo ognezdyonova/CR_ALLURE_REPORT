@@ -1,0 +1,2 @@
+level: error, messages: Cannot read properties of undefined (reading 'clientId')
+level: log, messages: Status sent for case: TR does not supported

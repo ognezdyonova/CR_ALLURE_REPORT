@@ -1,0 +1,9 @@
+{
+    "type": "EVENT_UPDATE",
+    "payload": {
+        "eventId": 613294523,
+        "startTime": 32400,
+        "endTime": 39600
+    },
+    "useDynamoDb": true
+}

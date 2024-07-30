@@ -1,0 +1,1 @@
+{"domainTotals":[{"domainId":1,"domainName":"Academic","count":1},{"domainId":2,"domainName":"Adaptive","count":78},{"domainId":17,"domainName":"Aggression","count":1},{"domainId":28,"domainName":"Community","count":4},{"domainId":0,"domainName":"None","count":32}],"result":"OK","failed":false,"cachedTime":1722340982340}

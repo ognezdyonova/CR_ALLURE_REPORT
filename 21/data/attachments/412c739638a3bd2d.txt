@@ -1,0 +1,14 @@
+{
+    "insuranceCompanyId": 18620,
+    "feeScheduleId": 45489,
+    "InsurancePlanId": 22150,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "feeschedules/payors/plans/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

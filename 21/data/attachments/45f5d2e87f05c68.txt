@@ -1,0 +1,8 @@
+{
+    "cropWidth": 309,
+    "cropHeight": 309,
+    "cropX": 48,
+    "cropY": 18,
+    "contactId": 1084143,
+    "_utcOffsetMinutes": 300
+}

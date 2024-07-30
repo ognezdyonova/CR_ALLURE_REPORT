@@ -1,0 +1,3 @@
+level: log, messages: Contact does not have property id
+level: log, messages: Contact does not have property id
+level: log, messages: Status sent for case: TR does not supported

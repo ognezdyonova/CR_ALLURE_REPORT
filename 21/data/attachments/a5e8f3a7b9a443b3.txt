@@ -1,0 +1,1 @@
+{"entryDetails":{"id":-9,"client":0,"org":0,"endTs":0,"endDate":"0001-01-01T00:00:00.0000000Z","startTs":0,"startDate":"0001-01-01T00:00:00.0000000Z"},"overlap":[{"availability":399111,"offset":1},{"availability":399111,"offset":2},{"availability":399111,"offset":3},{"availability":399111,"offset":4},{"availability":399111,"offset":5}],"result":"OK","failed":false,"cachedTime":0}

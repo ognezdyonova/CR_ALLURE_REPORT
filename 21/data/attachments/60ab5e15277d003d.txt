@@ -1,0 +1,11 @@
+{
+    "contactId": "288525",
+    "viewType": "overview",
+    "startDate": "2024-07-30",
+    "endDate": "2024-07-30",
+    "clientNow": "2024-07-30T02:02:50-04:00",
+    "page": 1,
+    "pageSize": 20,
+    "filterType": -1,
+    "_utcOffsetMinutes": 240
+}

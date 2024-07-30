@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:05:22","requesttime":15,"cacheKey":"","cacheDate":"07/30/2024 12:05:22","paymentInfo":{"SlidingScale":true,"Id":24723,"AcceptInsurance":false,"FreeFaceToFaceConsult":false,"AcceptCreditCard":false,"ContactId":288525,"AvgCostMin":55,"Insurances":"","FreePhoneConsult":false,"AvgCostMax":95},"querytime":16,"result":"ok"}

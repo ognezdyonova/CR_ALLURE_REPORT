@@ -1,0 +1,66 @@
+{
+    "employeeViewer": 3031176,
+    "clientOwners": [
+        {
+            "contact": 3031180,
+            "permissions": {
+                "docs": false,
+                "notes": false,
+                "auths": false,
+                "sessions": false,
+                "trees": "none"
+            }
+        },
+        {
+            "contact": 3031182,
+            "permissions": {
+                "docs": false,
+                "notes": false,
+                "auths": false,
+                "sessions": false,
+                "trees": "none"
+            }
+        },
+        {
+            "contact": 3031184,
+            "permissions": {
+                "docs": false,
+                "notes": false,
+                "auths": false,
+                "sessions": false,
+                "trees": "none"
+            }
+        },
+        {
+            "contact": 3031185,
+            "permissions": {
+                "docs": false,
+                "notes": false,
+                "auths": false,
+                "sessions": false,
+                "trees": "none"
+            }
+        },
+        {
+            "contact": 3031186,
+            "permissions": {
+                "docs": false,
+                "notes": false,
+                "auths": false,
+                "sessions": false,
+                "trees": "none"
+            }
+        },
+        {
+            "contact": 3031188,
+            "permissions": {
+                "docs": false,
+                "notes": false,
+                "auths": false,
+                "sessions": false,
+                "trees": "none"
+            }
+        }
+    ],
+    "update": true
+}

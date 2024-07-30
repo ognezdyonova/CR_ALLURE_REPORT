@@ -1,0 +1,1 @@
+{"recordTotals":[{"recordId":2,"recordName":"Educational","count":79},{"recordId":1,"recordName":"Medical","count":4},{"recordId":0,"recordName":"None","count":33}],"result":"OK","failed":false,"cachedTime":1722340988839}

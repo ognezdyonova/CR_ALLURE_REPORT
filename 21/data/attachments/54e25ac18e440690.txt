@@ -1,0 +1,6 @@
+{
+    "filter": "clients",
+    "sortBy": "firstname",
+    "page": 1,
+    "pageSize": 50
+}

@@ -1,0 +1,35 @@
+{
+    "draftName": "Office Location 1 - Toghf",
+    "recurrenceEndsOn":"2024-08-28",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "Existing",
+    "optimizeBy": "allChanges",
+    "startDate": "2024-07-31T17:00:00.000Z",
+    "endDate": "2024-07-31T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "minutesThresholdForLunch": 300,
+        "lengthOfLunch": 30
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595583
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595583
+        ],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

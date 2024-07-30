@@ -1,0 +1,37 @@
+{
+    "draftName": "Office Location 1 - o7Cxu",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "Clinic",
+    "startDate": "2024-07-31T00:00:00.000Z",
+    "endDate": "2024-08-04T00:00:00.000Z",
+    "optimizeBy": "maximumTherapyHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 180
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595612
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595612
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    },
+    "timeBlocksStart": 480,
+    "timeBlocksEnd": 960,
+    "timeBlocksDurations": 90,
+    "queryFields": [
+        "numberOfClients",
+        "numberOfProviders"
+    ]
+}

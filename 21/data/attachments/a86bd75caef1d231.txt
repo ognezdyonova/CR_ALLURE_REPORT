@@ -1,0 +1,20 @@
+{
+    "isSupportTicket": "",
+    "sortBy": "created",
+    "sortDir": "desc",
+    "page": 1,
+    "pageSize": 50,
+    "filter": "open",
+    "taskLabels": "",
+    "contactLabels": "",
+    "clientNow": "2019-04-22T15:27:51+03:00",
+    "_track": {
+        "channel": "tasks",
+        "action": "tasks",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": -180
+}

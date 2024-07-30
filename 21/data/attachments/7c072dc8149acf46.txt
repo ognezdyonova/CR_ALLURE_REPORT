@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"ArgumentException","message":"Could not create client availability without default place of service","errors":[]},"failed":false,"cachedTime":0}

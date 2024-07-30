@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"Start date must be lower or equal to end date and must not be more than 7 days apart","errors":[]},"failed":false,"cachedTime":0}

@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"'OptimizationType' must not be empty.","errors":[{"errorCode":"NotEmpty","fieldName":"OptimizationType","message":"'OptimizationType' must not be empty.","meta":{"PropertyName":"OptimizationType","PropertyValue":""}}]},"failed":false,"cachedTime":0}

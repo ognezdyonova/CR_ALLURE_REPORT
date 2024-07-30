@@ -1,0 +1,18 @@
+{
+  "action": "receivables",
+  "ext": "text",
+  "exportParams": {
+    "includeMode": "both",
+    "calcMode": "serviceDate",
+    "sortMode": "payor",
+    "startDate": "2020-04-11",
+    "endDate": "2022-04-11",
+    "contactLabelIds": [],
+    "procedureCodeLabelIds": [],
+    "billingLabelIds": [],
+    "contactLabelIdsExcluded": [],
+    "procedureCodeLabelIdsExcluded": [],
+    "billingLabelIdsExcluded": [],
+    "exportType": "receivables_text"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "values": [
+    {
+      "masterId": 350047685,
+      "itemId": {{learnDataId}},
+      "dataId": {{learnItemDataId}},
+      "type": "dataprompt",
+      "value": null,
+      "dataDate": "2024-07-30 12:04 PM",
+      "dataValueType": 2,
+      "valueType": 2,
+      "skipAutoLabel": false,
+      "sessionId": {{learnDataNewLearnTreeSessionId}},
+      "isDraft": false,
+      "routineTimeId": null,
+      "valueDeltaStream": [],
+      "multiValues": [
+        {
+          "name": 1,
+          "value": 0,
+          "dataAdditional": [
+            {
+              "id": {{learnDataPromptId0}}, //440560849,
+              "value": 1,
+              "setId": ""
+            }
+          ],
+          "active": true,
+          "authorId": null
+        },
+        {
+          "name": 2,
+          "value": 1,
+          "dataAdditional": [
+            {
+              "id": {{learnDataPromptId1}}, // 440560850,
+              "value": 1,
+              "setId": ""
+            }
+          ],
+          "active": true,
+          "authorId": null
+        },
+        {
+          "name": 3,
+          "value": 1,
+          "dataAdditional": [
+            {
+              "id": {{learnDataPromptId2}}, //440560852,
+              "value": 1,
+              "setId": ""
+            }
+          ],
+          "active": true,
+          "authorId": null
+        }
+      ],
+      "isMultiValued": true
+    }
+  ],
+  "times": []
+}

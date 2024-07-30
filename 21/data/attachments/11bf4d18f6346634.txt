@@ -1,0 +1,55 @@
+{
+    "requests": [
+        {
+            "course": 146873967,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873968,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873969,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873970,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873971,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873972,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873976,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        }
+    ],
+    "_track": {
+        "channel": "scheduling",
+        "action": "manage/events/bulk/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

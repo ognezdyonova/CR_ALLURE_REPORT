@@ -1,0 +1,1 @@
+{"courseId":146873985,"isAllAuthorizedDatesBlackedOut":false,"geolocationValidationError":false,"eventSeriesExceedsDateLimit":false,"result":"OK","failed":false,"cachedTime":0}

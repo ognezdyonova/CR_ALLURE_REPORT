@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'UpdateSessionInfo'","errors":[{"errorCode":"SerializationException","fieldName":"SessionId","message":"'{{learnDataNewLearnTreeSessionId}}' is an Invalid value for 'SessionId'"}]}}

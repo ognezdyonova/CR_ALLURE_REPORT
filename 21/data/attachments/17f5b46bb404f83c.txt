@@ -1,0 +1,302 @@
+{
+    "serviceCode": {
+        "ServiceTypeIds": "1",
+        "id": null,
+        "codeType": "1",
+        "code": "Code nameRmG48",
+        "description": "",
+        "minutesPerUnit": "30",
+        "enforceLevel": "0",
+        "serviceAddress": "2",
+        "serviceLocation": "1",
+        "defaultServiceLocation": "",
+        "procedureInfo": "1",
+        "driveInfo": "1",
+        "serviceNote": "1",
+        "adminNote": "1",
+        "defaultRateName": "",
+        "numCustomRates": "",
+        "numDefaultRates": "",
+        "providerSignature": "2",
+        "clientSignature": "2",
+        "clientSignatureLocation": "1",
+        "modifier1": "",
+        "modifier2": "",
+        "modifier3": "",
+        "modifier4": "",
+        "calcDefaultUnits": 1,
+        "defaultMinutes": "100",
+        "calcType": "1",
+        "requiresAuthorization": "0",
+        "enforceSingleScheduleConversion": true,
+        "requiresScheduleConversion": true,
+        "showClientRates": true,
+        "lockGracePeriod": 8,
+        "restrictEarlyConversion": false,
+        "copyOfId": null,
+        "copyOfCode": null,
+        "copyOfDescription": null,
+        "defaultUnitRounding": "0",
+        "useVisitVerification": true,
+        "selected": "",
+        "active": "",
+        "hovered": "",
+        "feeSchedules": [],
+        "defaultRates": [],
+        "noteTemplates": [],
+        "placesOfService": [
+            {
+                "formatted": "01 - Pharmacy",
+                "code": "01",
+                "id": 1
+            },
+            {
+                "formatted": "02 - Telehealth",
+                "code": "02",
+                "id": 45
+            },
+            {
+                "formatted": "03 - School",
+                "code": "03",
+                "id": 2
+            },
+            {
+                "formatted": "04 - Homeless Shelter",
+                "code": "04",
+                "id": 3
+            },
+            {
+                "formatted": "05 - Indian Health Service Free-standing Facility",
+                "code": "05",
+                "id": 4
+            },
+            {
+                "formatted": "06 - Indian Health Service Provider-based Facility",
+                "code": "06",
+                "id": 5
+            },
+            {
+                "formatted": "07 - Tribal 638 Free-standing Facility",
+                "code": "07",
+                "id": 6
+            },
+            {
+                "formatted": "08 - Tribal 638 Provider-based Facility",
+                "code": "08",
+                "id": 7
+            },
+            {
+                "formatted": "09 - Prison/ Correctional Facility",
+                "code": "09",
+                "id": 8
+            },
+            {
+                "formatted": "11 - Office",
+                "code": "11",
+                "id": 9
+            },
+            {
+                "formatted": "12 - Home",
+                "code": "12",
+                "id": 10
+            },
+            {
+                "formatted": "13 - Assisted Living Facility",
+                "code": "13",
+                "id": 11
+            },
+            {
+                "formatted": "14 - Group Home ",
+                "code": "14",
+                "id": 12
+            },
+            {
+                "formatted": "15 - Mobile Unit",
+                "code": "15",
+                "id": 13
+            },
+            {
+                "formatted": "16 - Temporary Lodging",
+                "code": "16",
+                "id": 14
+            },
+            {
+                "formatted": "17 - Walk-in Retail Health Clinic",
+                "code": "17",
+                "id": 46
+            },
+            {
+                "formatted": "20 - Urgent Care Facility",
+                "code": "20",
+                "id": 15
+            },
+            {
+                "formatted": "21 - Inpatient Hospital",
+                "code": "21",
+                "id": 16
+            },
+            {
+                "formatted": "22 - Outpatient Hospital",
+                "code": "22",
+                "id": 17
+            },
+            {
+                "formatted": "23 - Emergency Room – Hospital",
+                "code": "23",
+                "id": 18
+            },
+            {
+                "formatted": "24 - Ambulatory Surgical Center",
+                "code": "24",
+                "id": 19
+            },
+            {
+                "formatted": "25 - Birthing Center",
+                "code": "25",
+                "id": 20
+            },
+            {
+                "formatted": "26 - Military Treatment Facility",
+                "code": "26",
+                "id": 21
+            },
+            {
+                "formatted": "31 - Skilled Nursing Facility",
+                "code": "31",
+                "id": 22
+            },
+            {
+                "formatted": "32 - Nursing Facility",
+                "code": "32",
+                "id": 23
+            },
+            {
+                "formatted": "33 - Custodial Care Facility",
+                "code": "33",
+                "id": 24
+            },
+            {
+                "formatted": "34 - Hospice",
+                "code": "34",
+                "id": 25
+            },
+            {
+                "formatted": "41 - Ambulance - Land",
+                "code": "41",
+                "id": 26
+            },
+            {
+                "formatted": "42 - Ambulance – Air or Water",
+                "code": "42",
+                "id": 27
+            },
+            {
+                "formatted": "49 - Independent Clinic",
+                "code": "49",
+                "id": 28
+            },
+            {
+                "formatted": "50 - Federally Qualified Health Center",
+                "code": "50",
+                "id": 29
+            },
+            {
+                "formatted": "51 - Inpatient Psychiatric Facility",
+                "code": "51",
+                "id": 30
+            },
+            {
+                "formatted": "52 - Psychiatric Facility-Partial Hospitalization",
+                "code": "52",
+                "id": 31
+            },
+            {
+                "formatted": "53 - Community Mental Health Center",
+                "code": "53",
+                "id": 32
+            },
+            {
+                "formatted": "54 - Intermediate Care Facility/Mentally Retarded",
+                "code": "54",
+                "id": 33
+            },
+            {
+                "formatted": "55 - Residential Substance Abuse Treatment Facility",
+                "code": "55",
+                "id": 34
+            },
+            {
+                "formatted": "56 - Psychiatric Residential Treatment Center",
+                "code": "56",
+                "id": 35
+            },
+            {
+                "formatted": "57 - Non-residential Substance Abuse Treatment Facility",
+                "code": "57",
+                "id": 36
+            },
+            {
+                "formatted": "60 - Mass Immunization Center",
+                "code": "60",
+                "id": 37
+            },
+            {
+                "formatted": "61 - Comprehensive Inpatient Rehabilitation Facility",
+                "code": "61",
+                "id": 38
+            },
+            {
+                "formatted": "62 - Comprehensive Outpatient Rehabilitation Facility",
+                "code": "62",
+                "id": 39
+            },
+            {
+                "formatted": "65 - End-Stage Renal Disease Treatment Facility",
+                "code": "65",
+                "id": 40
+            },
+            {
+                "formatted": "71 - Public Health Clinic",
+                "code": "71",
+                "id": 41
+            },
+            {
+                "formatted": "72 - Rural Health Clinic",
+                "code": "72",
+                "id": 42
+            },
+            {
+                "formatted": "81 - Independent Laboratory",
+                "code": "81",
+                "id": 43
+            },
+            {
+                "formatted": "82 - Community",
+                "code": "82",
+                "id": 48
+            },
+            {
+                "formatted": "99 - Other Place of Service",
+                "code": "99",
+                "id": 44
+            },
+            {
+                "formatted": "GT - Telepractice",
+                "code": "GT",
+                "id": 47
+            }
+        ],
+        "labels": [],
+        "loading": false,
+        "customRateText": "Enforce custom client rate",
+        "customProviderRateText": "Enforce custom provider & client rate",
+        "feeScheduleFiltered": [],
+        "validation": {
+            "code": "Test30",
+            "lockGracePeriod": 8,
+            "errors": []
+        },
+        "placesOfServicePromise": {},
+        "organizationId": 288525
+    }
+}

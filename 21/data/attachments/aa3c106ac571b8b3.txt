@@ -1,0 +1,10 @@
+{
+    "action": "contacts",
+    "ext": "txt",
+    "exportParams": {
+        "sortBy": "firstname",
+        "page": 1,
+        "pageSize": 50,
+        "exportType": "contacts_txt"
+    }
+}

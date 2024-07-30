@@ -1,0 +1,27 @@
+[
+  {
+    "id": {
+      "sessionId": {{learnDataNewLearnTreeSessionId}},
+      "itemId": {{learnDataId}}
+    },
+    "lastActivity": {{learnDataActivityId}},
+    "lastGraphedDataValueId": -1,
+    "type": "prompt",
+    "positive": true,
+    "trials": [
+      {
+        "author": 288525,
+        "value": "NR"
+      },
+      {
+        "author": 288525,
+        "value": "Simultaneous Imitation"
+      },
+      {
+        "author": 288525,
+        "value": "cuss"
+      }
+    ],
+    "date": "2024-07-30T12:04:16.627Z"
+  }
+]

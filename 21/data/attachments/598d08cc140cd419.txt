@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"RecurrenceEndsOn must be 1 week greater than start date and less than 5 weeks from end date","errors":[]},"failed":false,"cachedTime":0}

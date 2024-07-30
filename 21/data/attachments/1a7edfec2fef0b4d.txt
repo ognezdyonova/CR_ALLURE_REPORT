@@ -1,0 +1,15 @@
+{
+    "payPeriodId": 2,
+    "overtimeCalculationPeriod": "daily",
+    "startDayOfWeek": "monday",
+    "semiMonthlyRunStart": 1,
+    "semiMonthlyRunEnd": 15,
+    "exclude": "7509",
+    "excludeHourly": "",
+    "excludeOvertime": "",
+    "excludeDrive": "",
+    "excludeUnits": "",
+    "excludeCalcBonus": "",
+    "biweeklyStartDate": "04-11-2016",
+    "_utcOffsetMinutes": 240
+}

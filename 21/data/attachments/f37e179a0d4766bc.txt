@@ -1,0 +1,7 @@
+{
+    "transactionType": 1,            // 1-Client deposit, 2-Billing entry payment
+    "fundingType": 1,               // Only used for deposits
+    "notes": "Initial deposit",     // Optional
+    "amount": 500.00,               // Amount must be negative for billing payments
+    "billingPaymentId": null        // Only used for billing payments, must not be set on deposits
+}

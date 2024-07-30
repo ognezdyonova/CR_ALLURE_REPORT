@@ -1,0 +1,12 @@
+{
+    "invoiceId": 5922356,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "invoices/invoice/void",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

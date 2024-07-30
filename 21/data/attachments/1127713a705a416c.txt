@@ -1,0 +1,7 @@
+{
+    "labelId": "54789",
+    "name": "new labelKMErM4GtMxO2",
+    "parentId": "54790",
+    "color": "999999|ffffff",
+    "isOrgLabel": false
+}

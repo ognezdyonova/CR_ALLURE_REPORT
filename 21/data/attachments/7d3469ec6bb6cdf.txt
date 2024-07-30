@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Availability for Employee2 - 93tpT",
+    "notes": "",
+    "startDate": "2024-07-31",
+    "endDate": "02/01/9999",
+    "startTs": 28800,
+    "endTs": 64800,
+    "location": 3595619,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 3031409,
+    "_utcOffsetMinutes": 240
+}

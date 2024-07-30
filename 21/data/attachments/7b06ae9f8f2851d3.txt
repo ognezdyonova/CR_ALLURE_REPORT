@@ -1,0 +1,49 @@
+{
+    "requests": [
+        {
+            "course": 146874000,
+            "date": "2024-08-01",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146874001,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146873988,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146874004,
+            "date": "2024-07-31",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146874003,
+            "date": "2024-08-01",
+            "reason": 0,
+            "note": ""
+        },
+        {
+            "course": 146874002,
+            "date": "2024-08-02",
+            "reason": 0,
+            "note": ""
+        }
+    ],
+    "_track": {
+        "channel": "scheduling",
+        "action": "manage/events/bulk/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

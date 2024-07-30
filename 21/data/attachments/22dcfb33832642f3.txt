@@ -1,0 +1,14 @@
+{
+    "tasks": "<tasks><item><id>6287162</id></item></tasks>",
+    "contactId": 288525,
+    "isCompleted": true,
+    "_track": {
+        "channel": "tasks",
+        "action": "tasks/bulk/complete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

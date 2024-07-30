@@ -1,0 +1,5 @@
+{
+	"invoiceIds":["822389"],
+    "minimumPaymentAmount": 50
+
+}

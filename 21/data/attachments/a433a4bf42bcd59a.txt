@@ -1,0 +1,31 @@
+{
+    "clientId": 3031237,
+    "billingEntryId": 224492891,
+    "date": "07/30/2024",
+    "payorId": 7871,
+    "reference": "test",
+    "resourceId": "",
+    "isCopay": true,
+    "notes": "test",
+    "amount": "81.0000",
+    "originalAmount": "",
+    "adjustments": [
+        {
+            "group": "CO",
+            "reason": "101",
+            "amount": "15",
+            "codeSet": "Adjustment-Reason"
+        }
+    ],
+    "paymentType": 1,
+    "paymentStatus": 0,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/entry/payment/add",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

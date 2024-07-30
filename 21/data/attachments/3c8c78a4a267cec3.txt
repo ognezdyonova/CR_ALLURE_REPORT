@@ -1,0 +1,31 @@
+{
+    "isActive": true,
+    "externalSystemId": partnersEmpExtIdS7mHIB,
+    "firstName": "partnersEmpFN7aD1tV",
+    "middleInitial": "M",
+    "lastName": "partnersEmpLNVPTwhF",
+    "chosenName": "partnersEmpCNN9ReYv",
+    "primaryEmail": email5cdpBb@centralreach.com,
+    "title": "Mrs",
+    "gender": "Female",
+    "addressLine1": "3 Applewood Ct",
+    "addressLine2": "address line 2test",
+    "city": "Metuchen",
+    "stateProvince": "NJ",
+    "zipPostalCode": "08843",
+    "phoneHome": "1212121219",
+    "phoneCell": "1313131318",
+    "dateOfBirth": "1990-04-09",
+    "ssn": "908765439",
+    "npiNumber": "9876543219",
+    "employeeType": "FT",
+    "payCodes": [
+        {
+            "name": "Admin",
+            "rate": "12.34"
+        }
+    ],
+    "providerDriveTimeHourlyRate": "5678.45",
+    "providerMileageRate": "16.34",
+    "primaryOfficeLocation": ""
+}

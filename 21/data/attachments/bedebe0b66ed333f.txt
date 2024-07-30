@@ -1,0 +1,20 @@
+{
+    "Action": "string",
+    "Ext": "string",
+    "ExportParams": {
+        "ReportName": "string",
+        "DateRange": {
+            "RelativeRange": "string",
+            "StartDate": "string",
+            "EndDate": "string"
+        },
+        "Params": {},
+        "Page": 0,
+        "PageSize": 0,
+        "Desc": true,
+        "After": "string",
+        "Offset": 0,
+        "Take": 0
+    },
+    "GatewayId": 0
+}

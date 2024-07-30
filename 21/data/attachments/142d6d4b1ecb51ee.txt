@@ -1,0 +1,1 @@
+{"sessions":[],"group":{"name":"REach and teach","creationDate":"2017-01-12T16:19:42.4200000Z","createdBy":288525,"createdByName":"QA Therapy","duration":0,"inSession":false,"isComplete":true,"activity":0,"id":183},"draftsTTLSeconds":7776000,"result":"OK","failed":false,"cachedTime":0}

@@ -1,0 +1,16 @@
+{
+    "progressNext": "false",
+    "labelCurrentPhase": "true",
+    "progressTo": "generalization",
+    "completeGoal": "true",
+    "timeFrame": "3",
+    "phaseChangeLabel": "2",
+    "holdGoal": "true",
+    "calcType": "<",
+    "addPhaseChange": "true",
+    "id": "0",
+    "templateCriterionId": "{{learnCriteriaId}}",
+    "requireTwoProviders": "true",
+    "value": "2",
+    "timeFrameType": "3"
+}

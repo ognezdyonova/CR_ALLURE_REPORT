@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Type definitions should start with a '{', expecting serialized type 'PostCurrentCriterionRequest', got string starting with: //{\"valueType\":\"baseline\",\"labels\":[],\"dataAdditio","errors":[]}}

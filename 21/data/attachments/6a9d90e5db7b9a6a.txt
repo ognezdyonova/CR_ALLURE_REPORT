@@ -1,0 +1,6 @@
+{
+    "name": "new session to user by api",
+    "items": [
+        "350047705"
+    ]
+}

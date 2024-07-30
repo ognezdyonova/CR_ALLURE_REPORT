@@ -1,0 +1,4 @@
+{
+    "applicationSection": "claims.list",
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,11 @@
+{
+  "MasterId": "350046576",
+  "Name": "new dateranges c4ysG",
+  "LeftLabel": "new LeftLabel c6jnqSiOYeVW",
+  "RightLabel": "new RightLabel OVTPKOFfzN7V",
+  "StartDate": "2018-11-16T07:06:39.722Z",
+  "EndDate": "2018-11-16T07:06:39.722Z",
+  "OriginatingDataValueId": 0,
+  "Comment": "new RightLabel b6BXkdJ89PdZZHwV9JSKjOgKpPF01OvrJeKRw7DgKooqryczo1",
+  "Type": "page"
+}

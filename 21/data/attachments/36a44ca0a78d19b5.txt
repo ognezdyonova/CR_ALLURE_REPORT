@@ -1,0 +1,7 @@
+{
+    "ParentId": "0",
+    "labelId": "0",
+    "color": "492146|ffffff",
+    "name": "new resource labelJK2ReJ7hwaBl",
+    "IsOrgLabel": "true"
+}

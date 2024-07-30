@@ -1,0 +1,12 @@
+{
+    "copayPacket": "224492867—10.00",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/entry/copay/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

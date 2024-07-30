@@ -1,0 +1,33 @@
+{
+    "contactId": 1084143,
+    "id": "",
+    "createdBy": "",
+    "createdByName": "",
+    "creationDate": "",
+    "deletedBy": "",
+    "deletedDate": "",
+    "modifiedBy": "",
+    "modifiedByName": "",
+    "dateTaken": "2022-02-01 04:37",
+    "note": "123123",
+    "canEdit": "",
+    "privacy": "2",
+    "hideFromContact": "",
+    "noteInfo": false,
+    "dateTakenInvalid": false,
+    "dateTakenTime": "4:37 AM",
+    "dateTakenDate": "2022-02-01T09:37:31.391Z",
+    "measurementType": "fat",
+    "measurementValue": "123",
+    "measurementUnit": "%",
+    "measurementMethod": "air_displacement",
+    "measurementSite": "arms",
+    "methodInfo": false,
+    "validation": {
+        "dateTakenDate": "2022-02-01T09:37:31.391Z",
+        "measurementValue": "123",
+        "errors": []
+    },
+    "addedMeasurements": [],
+    "_utcOffsetMinutes": 300
+}

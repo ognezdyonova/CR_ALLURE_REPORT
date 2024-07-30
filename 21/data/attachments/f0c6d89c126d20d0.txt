@@ -1,0 +1,1 @@
+{"totals":{"segments":719,"driveTime":40560,"authConvertedMins":1560,"codes":487,"total":719,"mileage":23169.90,"eventMins":180,"authMins":25800,"principal1":1,"principal2":24,"events":719,"segmentMins":86040,"nocodeMins":1800,"nocode":17,"other":0,"units":2254,"present":0,"codeMins":58440,"excused":0,"auths":215},"result":"OK","failed":false,"cachedTime":0}

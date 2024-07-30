@@ -1,0 +1,5 @@
+{
+    "mode": "client",
+    "contactLabelIds": "19197",
+    "level": 1
+}

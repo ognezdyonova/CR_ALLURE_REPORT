@@ -1,0 +1,1 @@
+{"fields":{"color":"93c47d|274e13","ownerContactId":288525,"isDeleted":false,"labelId":24082,"name":"new labelB3LwL","parentLabelId":0},"result":"OK","failed":false,"cachedTime":0}

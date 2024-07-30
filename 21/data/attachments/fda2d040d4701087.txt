@@ -1,0 +1,35 @@
+{
+    "draftName": "Location 1 - lMOoa",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "startDate": "2024-07-31T17:00:00.000Z",
+    "endDate": "2024-08-01T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 60,
+    "optimizeBy": "balanced",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595554
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595554
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": [
+            54791
+        ]
+    }
+}

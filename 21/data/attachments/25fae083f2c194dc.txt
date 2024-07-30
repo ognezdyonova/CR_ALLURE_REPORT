@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:08:25","requesttime":15,"fields":{"description":"","clientRate":"","Id":68419141,"providerName":"Q. Therapy","code":"Code nameqLrMC","clientName":"n/a","client":"","customCodeId":303282,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:08:25","querytime":0,"result":"ok"}

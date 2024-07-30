@@ -1,0 +1,4 @@
+{
+    "sessionId": "{{learnDataNewLearnTreeSessionId}}",
+    "itemId": null
+}

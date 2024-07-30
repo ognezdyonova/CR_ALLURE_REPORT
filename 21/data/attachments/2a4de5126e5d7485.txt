@@ -1,0 +1,1 @@
+{"excludedTimesheetLabelsText":"823","appointmentLabelsText":"641","excludedTimesheetLabels":[823],"includeDriveTime":true,"requireAdminApproval":true,"enableAppointmentCreation":true,"appointmentContactId":288525,"appointmentContactName":"QA Therapy","appointmentLabels":[641],"appointmentServiceCodeId":990,"result":"OK","failed":false,"cachedTime":0}

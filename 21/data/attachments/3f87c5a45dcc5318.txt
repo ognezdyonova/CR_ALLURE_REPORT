@@ -1,0 +1,14 @@
+{
+  "MasterId": "350046522",
+  "ItemId": "31077",
+  "DateTimeOffset": 0,
+  "RequestDate": "2018-12-17T06:44:00.328Z",
+  "RequestId": "string",
+  "Values": [
+    {
+      "ColumnId": 1,
+      "Value": "string",
+      "Id": 1
+    }
+  ]
+}

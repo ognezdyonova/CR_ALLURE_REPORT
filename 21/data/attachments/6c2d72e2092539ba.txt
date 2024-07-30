@@ -1,0 +1,46 @@
+{
+    "employeeViewer": 3031165,
+    "clientOwners": [
+        {
+            "contact": 3031166,
+            "permissions": {
+                "docs": true,
+                "notes": true,
+                "auths": true,
+                "sessions": true,
+                "trees": "write"
+            }
+        },
+        {
+            "contact": 3031167,
+            "permissions": {
+                "docs": true,
+                "notes": true,
+                "auths": true,
+                "sessions": true,
+                "trees": "write"
+            }
+        },
+        {
+            "contact": 3031168,
+            "permissions": {
+                "docs": true,
+                "notes": true,
+                "auths": true,
+                "sessions": true,
+                "trees": "write"
+            }
+        },
+        {
+            "contact": 3031169,
+            "permissions": {
+                "docs": true,
+                "notes": true,
+                "auths": true,
+                "sessions": true,
+                "trees": "write"
+            }
+        }
+    ],
+    "update": false
+}

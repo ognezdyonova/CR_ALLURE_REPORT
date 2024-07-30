@@ -1,0 +1,7 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "eventId": 613294416
+    },
+    "type": "EVENT_DELETE"
+}

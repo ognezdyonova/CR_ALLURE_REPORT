@@ -1,0 +1,27 @@
+{
+  "Principal1": "288525",
+  "Principal2": "288525",
+  "source": "Desktop",
+  "Events": [
+    {
+      "StartTimeSecondsFromMidnight": 21600,
+      "EventLengthInSeconds": 0,
+      "PlaceOfServiceId": 9,
+      "DriveTimeInMinutes": 0,
+      "Mileage": 0,
+      "AppointmentTypeId": 177853,
+      "EventName": "new namemuj8CJ12bL",
+      "EventDescription": "new EventDescriptionVqAf7S4JaN",
+      "EventDate": "2020-09-23T06:56:09.940Z",
+      "Segments": [
+        {
+          "LengthSeconds": 0,
+          "AuthorizationId": 0,
+          "BillingCodeId": 0
+        }
+      ]
+    }
+  ],
+  "CourseLabels": "string",
+  "AdditionalParticipants": {}
+}

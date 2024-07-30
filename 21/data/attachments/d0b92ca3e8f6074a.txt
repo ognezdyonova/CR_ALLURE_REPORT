@@ -1,0 +1,111 @@
+{
+    "id": "11026",
+    "name": "new criteria template QEYci",
+    "description": "new criteria template descriptionbRjOKdhafr4Ub4c",
+    "criteria": [
+        {
+            "id": -1,
+            "valueType": "baseline",
+            "sortOrder": 1,
+            "isOrdered": true,
+            "sessions": "",
+            "prompts": [
+                {
+                    "id": "Full Verbal Model",
+                    "name": "Full Verbal Model"
+                },
+                {
+                    "id": "Partial Verbal Model",
+                    "name": "Partial Verbal Model"
+                },
+                {
+                    "id": "Phonemic Cue",
+                    "name": "Phonemic Cue"
+                },
+                {
+                    "id": "Contextual Cue",
+                    "name": "Contextual Cue"
+                },
+                {
+                    "id": "Simultaneous Imitation",
+                    "name": "Simultaneous Imitation"
+                },
+                {
+                    "id": "Indirect Verbal",
+                    "name": "Indirect Verbal"
+                },
+                {
+                    "id": "Full Physical",
+                    "name": "Full Physical"
+                },
+                {
+                    "id": "Partial Physical",
+                    "name": "Partial Physical"
+                },
+                {
+                    "id": "Touch Cue",
+                    "name": "Touch Cue"
+                },
+                {
+                    "id": "Implied Touch",
+                    "name": "Implied Touch"
+                },
+                {
+                    "id": "Shadow",
+                    "name": "Shadow"
+                },
+                {
+                    "id": "Hand over hand",
+                    "name": "Hand over hand"
+                },
+                {
+                    "id": "Minimal assist",
+                    "name": "Minimal assist"
+                },
+                {
+                    "id": "Moderate assist",
+                    "name": "Moderate Assist"
+                },
+                {
+                    "id": "Max assist",
+                    "name": "Max assist"
+                },
+                {
+                    "id": "Contact guard",
+                    "name": "Contact guard"
+                },
+                {
+                    "id": "Loss of balance",
+                    "name": "Loss of balance"
+                },
+                {
+                    "id": "Environ modification",
+                    "name": "Environ modification"
+                },
+                {
+                    "id": "Standby assist",
+                    "name": "Standby assist"
+                },
+                {
+                    "id": "Increased completion time",
+                    "name": "Increased completion time"
+                }
+            ],
+            "labels": [
+                {
+                    "labelId": 2914,
+                    "labelName": "new bundle label 0XpOjxlkAdzL"
+                },
+                {
+                    "labelId": 2918,
+                    "labelName": "new bundle label 2coryePVTiXo"
+                },
+                {
+                    "labelId": 2909,
+                    "labelName": "label for removing"
+                }
+            ],
+            "targets": []
+        }
+    ]
+}

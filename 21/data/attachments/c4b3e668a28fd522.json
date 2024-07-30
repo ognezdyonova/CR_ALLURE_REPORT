@@ -1,0 +1,16 @@
+{
+    "x-amz-id-2": "KwEPm2phfXR2VcWEUV/xHAy+9aBuQm6yq21odbX2TsrmgJEJ1PO1qZMrR8VwUJKyx/JOEVEDw1M=",
+    "x-amz-request-id": "MMV1HBSEJBPWN5RN",
+    "Date": "Tue, 30 Jul 2024 12:04:40 GMT",
+    "Last-Modified": "Tue, 23 Jul 2024 10:14:03 GMT",
+    "ETag": "\"1b485df65f31b0ec65124576cc9eee7e\"",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-meta-origfilename": "vbmapp_report_7965_7/23/2024 10:14:02 AM",
+    "Content-Disposition": "attachment",
+    "x-amz-meta-sha1hash": "c84cae756c69b4937845e1ceaff8bced515ded0c",
+    "x-amz-version-id": "null",
+    "Accept-Ranges": "bytes",
+    "Content-Type": "application/pdf",
+    "Server": "AmazonS3",
+    "Content-Length": "101519"
+}

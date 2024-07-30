@@ -1,0 +1,8 @@
+{
+    "applicationSection": "contacts",
+    "id": "",
+    "name": "TEST",
+    "isShared": true,
+    "filters": "{\"city\":\"Cincinnati Test\",\"agGridColumns\":\"select,type,id,name,labels,email,city,state,phoneHome,phoneCell,phoneWork,primaryLocation,creationDate\",\"agGridFilters\":{}}",
+    "_utcOffsetMinutes": 300
+}

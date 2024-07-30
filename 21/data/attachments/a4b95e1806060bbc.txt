@@ -1,0 +1,24 @@
+{
+    "permissionId": "1",
+    "targetContactLabelId": null,
+    "targetContactLabelName": "",
+    "targetContactSearchTerm": "3031274",
+    "includeGenericContacts": false,
+    "includeInactiveContacts": false,
+    "shareExistingDocs": true,
+    "shareExistingNotes": true,
+    "shareExistingAuths": true,
+    "shareExistingTrees": true,
+    "shareExistingSessions": true,
+    "shareFutureDocs": true,
+    "shareFutureNotes": true,
+    "shareFutureAuths": true,
+    "shareFutureTrees": true,
+    "shareFutureSessions": true,
+    "targetContactIds": [
+        3031273,
+        3031274
+    ],
+    "sourceContactId": 3031271,
+    "connectType": 2
+}

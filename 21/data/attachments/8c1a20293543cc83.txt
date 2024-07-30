@@ -1,0 +1,16 @@
+{
+    "attestationStatementId": "3003",
+    "billingEntryIds": "0",
+    "savedSignatureId": null,
+    "signType": "client",
+    "signature": "8W2000Z2122232000Y14345665442114355d654431255dbdeb97332175_1N66889a9a764Z798867462311Y2565Z4264620Y56744Z15a695100Y2545Z75",
+    "signatureName": "test",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "timesheets/signatures/apply",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

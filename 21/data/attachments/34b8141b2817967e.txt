@@ -1,0 +1,1 @@
+{"type":{"id":2,"name":"Dental","hasCoverageOptions":true,"costOptions":"Fixed","icon":"smile"},"result":"OK","failed":false,"cachedTime":0}

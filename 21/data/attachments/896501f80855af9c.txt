@@ -1,0 +1,3 @@
+level: log, messages: Item does not have property goalDateInitiated
+level: log, messages: Item does not have property goalDateProgress
+level: log, messages: Status sent for case: TR does not supported

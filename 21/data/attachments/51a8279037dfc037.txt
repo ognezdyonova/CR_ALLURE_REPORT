@@ -1,0 +1,10 @@
+{
+    "credentials": {
+        "nickname": nickNameVkvZtAWS0U,
+        "businessEntityId": 570330,
+        "businessEntityMedicaidId": 659766,
+        "userId": userIDH0mxf7Tfy4,
+        "password": 651306,
+        "state": New_Jersey
+    }
+}

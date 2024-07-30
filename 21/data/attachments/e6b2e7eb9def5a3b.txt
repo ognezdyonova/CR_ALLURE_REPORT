@@ -1,0 +1,32 @@
+{
+    "id": "",
+    "feeScheduleRateId": 768245,
+    "name": "123",
+    "serviceLocationId": 1,
+    "modifier1": "q",
+    "modifier2": "w",
+    "modifier3": "e",
+    "modifier4": "r",
+    "rate": "123",
+    "rateAgreed": "123",
+    "_dirty": true,
+    "isDirty": true,
+    "dirtySubscriptions": [
+    ],
+    "validation": {
+        "name": "123",
+        "rate": "123",
+        "errors": []
+    },
+    "serviceLocations": [
+    ],
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/code/modifiergroup/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

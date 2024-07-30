@@ -1,0 +1,7 @@
+{
+  "Type": "3",
+  "Name": "{{bundleAddDataNewName}}",
+  "Scope": "private",
+  "License": "multi-modify",
+  "Price": 100
+}

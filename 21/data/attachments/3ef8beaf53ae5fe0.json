@@ -1,0 +1,14 @@
+{
+    "Content-Type": "application/json; charset=UTF-8",
+    "Cookie": "{{auth}}; ss-id=if5tMEqc3NSm77e1bNyU; ss-pid=SbnBOdRE6zHvj5Zi9Iot; ss-opt=temp",
+    "X-CrApi-ClientSource": "crmobileapp",
+    "X-ss-id": "288525",
+    "X-CrApi-TimezoneOffset": "-300",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "8f20ee3c-e364-4d68-bbb2-7618eac982bb",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

@@ -1,0 +1,6 @@
+{
+    "module": "billingmanager",
+    "action": "loadbillingstatement",
+    "settings": "{\"theme\":\"Black and White\",\"template\":\"Default\"}",
+    "_utcOffsetMinutes": 300
+}

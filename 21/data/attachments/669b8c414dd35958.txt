@@ -1,0 +1,26 @@
+{
+    "employeeViewer": 3031200,
+    "clientOwners": [
+        {
+            "contact": 3031202,
+            "permissions": {
+                "docs": true,
+                "notes": true,
+                "auths": true,
+                "sessions": true,
+                "trees": "write"
+            }
+        },
+        {
+            "contact": 3031204,
+            "permissions": {
+                "docs": true,
+                "notes": true,
+                "auths": true,
+                "sessions": true,
+                "trees": "write"
+            }
+        }
+    ],
+    "update": false
+}

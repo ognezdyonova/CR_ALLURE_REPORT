@@ -1,0 +1,71 @@
+{
+    "cancelEventsWithoutCoverage": true,
+    "draftType": "balanced",
+    "actions": [
+        {
+            "payload": {
+                "eventId": 613294421,
+                "addressId": 3595525,
+                "timezone": "America/New_York"
+            },
+            "type": "EVENT_UPDATE"
+        },
+        {
+            "payload": {
+                "eventId": 613294422,
+                "providerId": 3031178,
+                "serviceLines": [
+                    {
+                        "serviceCodeId": 303250
+                    }
+                ]
+            },
+            "type": "EVENT_UPDATE"
+        },
+        {
+            "payload": {
+                "draftId": "288525-optimizations-1722341039667|balanced|0",
+                "endTime": 57600
+            },
+            "type": "EVENT_UPDATE"
+        },
+        {
+            "payload": {
+                "eventId": 613294423,
+                "startTime": 37800,
+                "endTime": 41400,
+                "serviceLines": [
+                    {
+                        "serviceCodeId": 303250
+                    }
+                ]
+            },
+            "type": "EVENT_UPDATE"
+        },
+        {
+            "payload": {
+                "eventId": 613294424,
+                "serviceLines": []
+            },
+            "type": "EVENT_UPDATE"
+        },
+        {
+            "payload": {
+                "eventId": 613294425,
+                "date": "2024-08-02",
+                "serviceLines": [
+                    {
+                        "serviceCodeId": 303250
+                    }
+                ]
+            },
+            "type": "EVENT_UPDATE"
+        },
+        {
+            "payload": {
+                "eventId": 613294426
+            },
+            "type": "EVENT_DELETE"
+        }
+    ]
+}

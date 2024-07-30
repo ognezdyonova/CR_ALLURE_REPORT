@@ -1,0 +1,2 @@
+level: log, messages: Schedule does not have property principal2Email
+level: log, messages: Status sent for case: TR does not supported

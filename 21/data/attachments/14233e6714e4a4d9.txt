@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/30/2024 15:06:04","success":true,"defaultTimeslot":900,"requesttime":15,"types":[{"description":"desc test","name":"externalEmployee7AppointmentTypeVI1ujS","id":10447878,"secLength":1800}],"cacheDate":"07/30/2024 12:06:04","querytime":0,"result":"ok"}

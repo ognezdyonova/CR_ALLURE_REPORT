@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"The benefit type for this employee has a status of ineligible (marked ineligible) as of 7/23/2024 and cannot be enrolled.","errors":[]},"failed":false,"cachedTime":0}

@@ -1,0 +1,41 @@
+{
+    "masterId": 350047690,
+    "itemId": 350047696,
+    "formId": 2955835,
+    "questions": [
+        {
+            "id": 1,
+            "formid": "",
+            "name": "New Question",
+            "description": "",
+            "sortorder": 1,
+            "type": "input",
+            "options": "",
+            "isrequired": "",
+            "answertotal": "",
+            "formanswers": [],
+            "formquestionoptions": [],
+            "newQuestion": false,
+            "updateAnswer": false,
+            "newAnswer": "",
+            "newAnswers": [],
+            "nameDisplay": "New Question",
+            "isNameActive": false,
+            "isDescActive": false,
+            "typeHasFocus": false,
+            "activeStatus": "complete-QA",
+            "valid": true,
+            "errorMessage": "",
+            "canMoveUp": false,
+            "canMoveDown": false,
+            "validation": {
+                "name": "New Question",
+                "newAnswer": "",
+                "newAnswers": [],
+                "errors": []
+            },
+            "sortedAnswers": ""
+        }
+    ],
+    "_utcOffsetMinutes": 240
+}

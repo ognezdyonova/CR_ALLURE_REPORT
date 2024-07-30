@@ -1,0 +1,7 @@
+{
+    "principal1": 288525,
+    "principal2": "",
+    "locationId": "",
+    "startDateTime": "2021-12-21 16:00:00",
+    "_utcOffsetMinutes": 300
+}

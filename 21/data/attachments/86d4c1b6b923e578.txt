@@ -1,0 +1,11 @@
+{
+    "codePackets": {
+        "comparisonTypes": "comparison-to-normal",
+        "measurementContexts": "measurement-context",
+        "measurementTypes": "measurement-type",
+        "measurementUnits": "measurement-unit",
+        "outsideTempRanges": "outside-temp-range",
+        "resultOfTests": "result-of-a-test"
+    },
+    "_utcOffsetMinutes": 300
+}

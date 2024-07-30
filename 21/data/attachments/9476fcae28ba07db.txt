@@ -1,0 +1,123 @@
+{
+    "contactId": 3031215,
+    "organizationId": 288525,
+    "company": "",
+    "ssn": "140000000",
+    "fullName": "Employee1 First Name305Rd Employee1 Last NameAmTY4",
+    "firstName": "Employee1 First Name305Rd",
+    "lastName": "Employee1 Last NameAmTY4",
+    "labels": "",
+    "settingsId": "",
+    "payrollCompany": "123",
+    "payrollEmployeeReference": "123",
+    "workersComp": "123",
+    "department": "123",
+    "paycode": "123",
+    "description": "123",
+    "addressId": "",
+    "addressLine1": "La Losa Drive West, Jacksonville, FL 32217",
+    "addressLine2": "London ",
+    "city": "Jacksonville",
+    "zipPostalCode": "32217",
+    "intlRegion": "test",
+    "stateProvince": "FL",
+    "country": "United States",
+    "totalPayTypes": "",
+    "driversLicenseNumber": "tes",
+    "driversLicenseExpirationDate": "12/13/2021",
+    "autoInsuranceNumber": "ert",
+    "autoInsuranceExpirationDate": "12/13/2021",
+    "backgroundCheckCompletionDate": "12/14/2021",
+    "backgroundCheckExpirationDate": "12/14/2021",
+    "educationalCredentialCompletionDate": "12/14/2021",
+    "tbClearanceCompletionDate": "12/14/2021",
+    "medicalClearanceCompletionDate": "12/14/2021",
+    "employmentType": "fulltime",
+    "employmentPosition": "test",
+    "hasBenefits": "1",
+    "hireDate": "12/14/2021",
+    "totalItems": "",
+    "payCodeRates": [
+        {
+            "id": "",
+            "payCodeId": 869,
+            "defaultRate": "30",
+            "payCodeName": "Admin",
+            "deleted": ""
+        },
+        {
+            "id": "",
+            "payCodeId": 867,
+            "defaultRate": "10",
+            "payCodeName": "BCBA",
+            "deleted": ""
+        }
+    ],
+    "payCodes": [
+        {
+            "id": 867,
+            "name": "BCBA"
+        },
+        {
+            "id": 868,
+            "name": "RBT"
+        },
+        {
+            "id": 869,
+            "name": "Admin"
+        },
+        {
+            "id": 871,
+            "name": "OT"
+        },
+        {
+            "id": 872,
+            "name": "Speech"
+        },
+        {
+            "id": 7355,
+            "name": ""
+        }
+    ],
+    "pageSize": 50,
+    "page": 1,
+    "totalPages": "",
+    "canPageDown": "",
+    "canPagePrevious": "",
+    "canPageFirst": "",
+    "canPageUp": "",
+    "canPageNext": "",
+    "canPageLast": "",
+    "supportsPageLast": true,
+    "isMultiPage": "",
+    "isSinglePage": true,
+    "addressMode": "us",
+    "includeDeletedEmploymentHistory": true,
+    "availablePayCodes": [
+        {
+            "id": 868,
+            "name": "RBT"
+        },
+        {
+            "id": 871,
+            "name": "OT"
+        },
+        {
+            "id": 872,
+            "name": "Speech"
+        },
+        {
+            "id": 7355,
+            "name": ""
+        }
+    ],
+    "payCodeVal": "",
+    "validation": {
+        "payrollCompany": "123",
+        "payrollEmployeeReference": "123",
+        "paycode": "123",
+        "description": "123",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

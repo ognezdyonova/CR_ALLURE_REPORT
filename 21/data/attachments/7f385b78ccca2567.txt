@@ -1,0 +1,15 @@
+{
+    "action": "receivable",
+    "ext": "txt",
+    "exportParams": {
+        "exportType": "receivable_txt",
+        "_track": {
+            "channel": "billingmanager",
+            "action": "receivables/export",
+            "source": "Desktop",
+            "latitude": 0,
+            "longitude": 0,
+            "metric": 0
+        }
+    }
+}

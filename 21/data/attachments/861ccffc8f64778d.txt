@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"ValidationException","message":"Validation failed: \r\n -- _contactType: The ContactId specified is not the correct profile type for this request.","errors":[{"errorCode":"Custom","fieldName":"_contactType","message":"The ContactId specified is not the correct profile type for this request.","meta":{}}]},"failed":false,"cachedTime":0}

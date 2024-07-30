@@ -1,0 +1,9 @@
+{
+    "type": "EVENT_UPDATE",
+    "payload": {
+        "draftId": "288525-optimizations-1722341396919|66a8d81b2d627100118a3850",
+        "startTime": 43200,
+        "endTime": 46800
+    },
+    "useDynamoDb": true
+}

@@ -1,0 +1,1 @@
+{"children":[{"id":"fdc38976-d3e2-4cc1-bebd-5a5dc7018833","parentId":"489ed952-5ad6-425b-8ad0-229de73faec2","refType":"invoice","jobType":"import","date":"2022-10-27T15:42:14.4565781Z","status":"failure","successIndicator":false,"rowCsv":2,"contactName":"Test Test","failedColumns":{"ContactForm":"The ContactForm is invalid."}}],"result":"OK","failed":false,"cachedTime":0}

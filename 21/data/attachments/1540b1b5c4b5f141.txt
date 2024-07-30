@@ -1,0 +1,13 @@
+{
+    "clientIds": "353675",
+    "providerIds": "288525",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/invoices",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

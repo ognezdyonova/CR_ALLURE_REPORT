@@ -1,0 +1,9 @@
+{
+    "contactId": 1111842,
+    "gayLesbianExperience": "false",
+    "gender": "All,Male",
+    "ethnicity": "Any",
+    "age": "All",
+    "religion": "Any",
+    "_utcOffsetMinutes": 300
+}

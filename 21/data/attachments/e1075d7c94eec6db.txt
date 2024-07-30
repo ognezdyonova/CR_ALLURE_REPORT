@@ -1,0 +1,13 @@
+{
+    "masterId": 350047690,
+    "itemIds": [
+        350047690
+    ],
+    "withText": true,
+    "withComments": false,
+    "withData": false,
+    "withTestResults": false,
+    "withFormsAsParagraphs": false,
+    "withNotes": false,
+    "utcOffsetMinutes": 300
+}

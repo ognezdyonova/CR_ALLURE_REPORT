@@ -1,0 +1,20 @@
+{
+    "id": "",
+    "name": "Fee schedulev0igh",
+    "description": "Description",
+    "isDefault": "",
+    "isActive": true,
+    "validation": {
+        "name": "Fee schedulev0igh",
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "feeschedules/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": -180
+}

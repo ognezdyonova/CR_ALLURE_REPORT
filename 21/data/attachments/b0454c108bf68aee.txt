@@ -1,0 +1,1 @@
+{"cacheExpires":"07/30/2024 15:05:23","success":true,"querytime":0,"requesttime":62,"cacheKey":"","cacheDate":"07/30/2024 12:05:23","learningTrees":[{"id":4501339,"name":"Template Test"},{"id":350047690,"name":"testAPI learn tree NCo38T"}],"result":"ok"}

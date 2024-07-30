@@ -1,0 +1,4 @@
+{
+	"name":"test new namenD8cr",
+	"isShared": true
+}

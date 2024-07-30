@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Availability for Employee1 - 8nrqj",
+    "notes": "",
+    "startDate": "2024-07-30",
+    "endDate": "02/01/9999",
+    "startTs": 75600,
+    "endTs": 82800,
+    "location": 3595520,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 3031146,
+    "_utcOffsetMinutes": 240
+}

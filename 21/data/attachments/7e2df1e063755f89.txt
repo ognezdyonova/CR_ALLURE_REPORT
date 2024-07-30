@@ -1,0 +1,31 @@
+{
+    "startDate": "2024-07-30T04:00:00.000Z",
+    "endDate": "2024-07-31T03:59:59.999Z",
+    "search": "",
+    "billingCodeId": "",
+    "authorized": "",
+    "authorizationId": "",
+    "authorizationSettingsId": "",
+    "authorizationResourceId": "",
+    "principal1": "",
+    "principal2": "",
+    "payorCompanyId": "",
+    "payorPlanId": "",
+    "convertedStatus": "",
+    "attendance": "",
+    "reason": "",
+    "placeOfService": "",
+    "contactLabels": "",
+    "clientGeneratedDate": "10/05/2020 - 4:28:26 am",
+    "page": 1,
+    "pageSize": 50,
+    "_track": {
+        "channel": "scheduling",
+        "action": "attendance",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

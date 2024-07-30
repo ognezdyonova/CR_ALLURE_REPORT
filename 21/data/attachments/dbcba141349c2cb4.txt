@@ -1,0 +1,11 @@
+{
+    "actions": [
+        {
+            "payload": {
+                "draftId": "288525-optimizations-1722340945293|66a8d66634acad001354f841",
+                "date": "2024-08-01"
+            },
+            "type": "EVENT_UPDATE"
+        }
+    ]
+}

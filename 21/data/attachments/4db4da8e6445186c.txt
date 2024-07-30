@@ -1,0 +1,9 @@
+{
+    "codePackets": {
+        "measurementUnits": "bodycomp-measurement-unit",
+        "measurementTypes": "bodycomp-measurement-type",
+        "measurementSites": "bodycomp-measurement-site",
+        "measurementMethods": "bodycomp-measurement-method"
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,7 @@
+{
+    "contactIdentifierId": "1",
+    "idValue": "123456489",
+    "notes": "",
+    "contactId": "288525",
+    "_utcOffsetMinutes": 240
+}

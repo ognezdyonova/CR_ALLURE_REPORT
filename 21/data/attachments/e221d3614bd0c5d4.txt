@@ -1,0 +1,9 @@
+{
+    "Policies": [
+        {
+            "PolicyTypeId": "581",
+            "PolicyId": "698",
+            "EffectiveDate": "2024-07-30T12:04:24.782Z"
+        }
+    ]
+}

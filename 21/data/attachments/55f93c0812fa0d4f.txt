@@ -1,0 +1,7 @@
+{
+    "reportId": 105,
+    "responses": {
+        "history": 0
+    },
+    "_utcOffsetMinutes": 240
+}

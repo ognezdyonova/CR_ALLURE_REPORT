@@ -1,0 +1,7 @@
+{
+    "id": 56378,
+    "name": "test2",
+    "description": "qwe",
+    "lockOnUpload": false,
+    "_utcOffsetMinutes": 300
+}

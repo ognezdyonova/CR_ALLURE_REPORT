@@ -1,0 +1,32 @@
+{
+    "sort": "",
+    "startDate": "2021-12-01T05:00:00.000Z",
+    "endDate": "2022-01-01T04:59:59.999Z",
+    "search": "",
+    "billingCodeId": "",
+    "authorized": "",
+    "authorizationId": "",
+    "authorizationSettingsId": "",
+    "authorizationResourceId": "",
+    "principal1": "",
+    "principal2": "",
+    "payorCompanyId": "",
+    "payorPlanId": "",
+    "convertedStatus": "",
+    "attendance": "",
+    "reason": "",
+    "placeOfService": "",
+    "contactLabels": "",
+    "clientGeneratedDate": "12/20/2021 - 6:55:51 am",
+    "page": 1,
+    "pageSize": 50,
+    "_track": {
+        "channel": "scheduling",
+        "action": "attendance/export",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

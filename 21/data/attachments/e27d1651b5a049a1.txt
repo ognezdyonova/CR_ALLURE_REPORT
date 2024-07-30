@@ -1,0 +1,9 @@
+{
+    "codePackets": {
+        "immunizationRefusals": "immunization-refusal",
+        "immunizationRoutes": "immunization-route",
+        "immunizationSites": "immunization-site",
+        "immunizationStatuses": "immunization-status"
+    },
+    "_utcOffsetMinutes": 300
+}

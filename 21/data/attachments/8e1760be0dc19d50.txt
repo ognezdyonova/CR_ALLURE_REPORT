@@ -1,0 +1,15 @@
+{
+    "customCodeId": "303280",
+    "feeScheduleId": 5380,
+    "rate": "15",
+    "rateAgreed": "15",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/code/defaultrate/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": -180
+}

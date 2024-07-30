@@ -1,0 +1,7 @@
+{
+    "contactId": 353675,
+    "name": "test",
+    "description": "",
+    "isAuthorization": true,
+    "_utcOffsetMinutes": -180
+}

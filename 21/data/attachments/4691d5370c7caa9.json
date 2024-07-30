@@ -1,0 +1,23 @@
+{
+    "authority": "beta-ent-dev-members.env.centralreach.com",
+    "method": "GET",
+    "path": "/crxapi/scheduling-optimization/jobs/288525-optimizations-1629201701484/drafts/highImpact",
+    "scheme": "https",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json; charset=UTF-8",
+    "referer": "https://beta-ent-dev-members.env.centralreach.com/",
+    "sec-ch-ua-mobile": "?0",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-crapi-clientsource": "members-spa",
+    "x-requested-with": "XMLHttpRequest",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "ebe8672b-199d-4fdd-8dcd-cf0a89cf70bf",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Connection": "keep-alive",
+    "Cookie": "ss-id=1fwJ25dxFS9pobe2mGQH; ss-pid=32PD1fi2PwYuVTIrbdlr; ss-opt=temp"
+}

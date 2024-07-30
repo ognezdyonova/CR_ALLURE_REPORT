@@ -1,0 +1,1 @@
+{"plans":[{"id":2,"companyId":1,"name":"Assurant Affordable Health Access Plan B"},{"id":3,"companyId":1,"name":"Assurant Affordable Health Access Plan C"},{"id":4,"companyId":1,"name":"CoreMed"},{"id":5,"companyId":1,"name":"PPO"},{"id":6,"companyId":1,"name":"Short Term"},{"id":7,"companyId":1,"name":"Individual Plan"}],"result":"OK","failed":false,"cachedTime":0}

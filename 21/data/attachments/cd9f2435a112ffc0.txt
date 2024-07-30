@@ -1,0 +1,36 @@
+{
+    "resourceId": 175363553,
+    "enableValidation": true,
+    "validationType": 1,
+    "managerId": -1,
+    "manager": "",
+    "implementerId": -1,
+    "implementer": "",
+    "insuranceCompany": {
+        "id": 2385464,
+        "companyName": "Primary: . > - (Labeled: 11111111)",
+        "isExpired": 0,
+        "firstDayOfWeek": 1
+    },
+    "insuranceCompanyId": 2385464,
+    "firstDayOfWeek": 1,
+    "startDate": "11/01/2021 00:00:00",
+    "endDate": "11/20/2024 00:00:00",
+    "templateId": 12951,
+    "authorizationNumber": "",
+    "billingId": -1,
+    "billing": "",
+    "referrerId": -1,
+    "referrer": "",
+    "locationId": -1,
+    "location": "",
+    "providerSupplierId": -1,
+    "providerSupplier": "",
+    "validation": {
+        "insuranceCompanyId": 2385464,
+        "startDate": "11/01/2021 00:00:00",
+        "endDate": "11/20/2024 00:00:00",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

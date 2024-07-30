@@ -1,0 +1,6 @@
+{
+    "masterIds": "350047690",
+    "canEdit": true,
+    "contactId": 3031214,
+    "_utcOffsetMinutes": 300
+}

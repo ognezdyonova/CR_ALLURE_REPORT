@@ -1,0 +1,6 @@
+{
+    "valueType":"baseline",
+    "labels":[],
+    "dataAdditional":[],
+    "isOrdered":true
+    }

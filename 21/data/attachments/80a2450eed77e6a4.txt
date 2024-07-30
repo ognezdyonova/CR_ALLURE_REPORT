@@ -1,0 +1,15 @@
+{
+    "clientId": "353675",
+    "billingEntryIds": "224492867",
+    "startDate": "2021-10-17T00:00:00.0000000",
+    "endDate": "2021-12-01T00:00:00.0000000",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/invoices/custom",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

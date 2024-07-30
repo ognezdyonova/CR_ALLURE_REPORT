@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/30/2024 15:04:18","success":true,"defaultTimeslot":7200,"requesttime":16,"types":[{"description":"","name":"Appointment-types nameIRahQ","id":10447875,"secLength":3600},{"description":"","name":"generic","id":715544,"secLength":3600}],"cacheDate":"07/30/2024 12:04:18","querytime":0,"result":"ok"}

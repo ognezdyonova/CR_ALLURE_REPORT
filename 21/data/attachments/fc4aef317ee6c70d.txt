@@ -1,0 +1,66 @@
+{
+    "active": true,
+    "date": "07/30/2024",
+    "paymentType": 6,
+    "resourceId": "",
+    "reference": "test",
+    "notes": "test",
+    "running": false,
+    "bypassVisible": false,
+    "bypassChecked": false,
+    "skipGateway": false,
+    "calcTypeText": "Zero",
+    "amountsTotal": "666.72",
+    "totals": {
+        "Mileage": 45.7,
+        "CopayAmount": 0,
+        "ClientId": "",
+        "AmountOwedAgreed": 666.72,
+        "TimeWorkedInHours": 2,
+        "ClientChargesTotal": 666.72,
+        "ClientChargesTotalAgreed": 666.72,
+        "AmountOwed": 666.72,
+        "DriveTimeInHours": 1,
+        "AmountPaid": 0
+    },
+    "notesEditor": {},
+    "validation": {
+        "date": "07/30/2024",
+        "paymentType": 6,
+        "reference": "test",
+        "errors": []
+    },
+    "clientPayments": {
+        "353675": {
+            "224492891": {
+                "amount": "666.72",
+                "isCopay": false,
+                "notes": "test23424234",
+                "adjustments": [
+                    {
+                        "group": "CR",
+                        "reason": "117",
+                        "amount": "10",
+                        "codeSet": "Adjustment-Reason"
+                    },
+                    {
+                        "group": "CO",
+                        "reason": "110",
+                        "amount": "1",
+                        "codeSet": "Adjustment-Reason"
+                    }
+                ]
+            },
+            "payorId": 7871
+        }
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/payments/bulk/client/apply",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

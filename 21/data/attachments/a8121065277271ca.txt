@@ -1,0 +1,324 @@
+{
+    "last": "Garcia",
+    "first": "Nicole",
+    "middle": "",
+    "suffix": "",
+    "dob": "",
+    "sex": "",
+    "ssn": "",
+    "address": "111 Kitty Cat Way",
+    "address2": "",
+    "city": "RPB",
+    "state": "DE",
+    "zip": "12332",
+    "country": "",
+    "contact": "",
+    "tel": "",
+    "telExt": "",
+    "fax": "",
+    "email": "",
+    "contactId": 290554,
+    "secondaryIds": {
+        "maxIds": 5,
+        "ids": [
+            {
+                "id": "532785685",
+                "idQual": "EI",
+                "editing": false,
+                "idQualLookup": [
+                    {
+                        "code": "",
+                        "description": "Choose..."
+                    },
+                    {
+                        "code": "0B",
+                        "description": "0B - State License Number"
+                    },
+                    {
+                        "code": "1A",
+                        "description": "1A - Blue Cross Provider Number"
+                    },
+                    {
+                        "code": "1B",
+                        "description": "1B - Blue Shield Provider Number"
+                    },
+                    {
+                        "code": "1C",
+                        "description": "1C - Medicare Provider Number"
+                    },
+                    {
+                        "code": "1D",
+                        "description": "1D - Medicaid Provider Number"
+                    },
+                    {
+                        "code": "1G",
+                        "description": "1G - Provider UPIN Number"
+                    },
+                    {
+                        "code": "1H",
+                        "description": "1H - CHAMPUS ID"
+                    },
+                    {
+                        "code": "1J",
+                        "description": "1J - Facility ID Number"
+                    },
+                    {
+                        "code": "B3",
+                        "description": "B3 - PPO Number"
+                    },
+                    {
+                        "code": "BQ",
+                        "description": "BQ - HMO Number"
+                    },
+                    {
+                        "code": "EI",
+                        "description": "EI - Employer ID"
+                    },
+                    {
+                        "code": "FH",
+                        "description": "FH - Clinic Number"
+                    },
+                    {
+                        "code": "G2",
+                        "description": "G2 - Provider Commercial Number"
+                    },
+                    {
+                        "code": "G3",
+                        "description": "G3 - Predetermination of Benefits ID"
+                    },
+                    {
+                        "code": "G5",
+                        "description": "G5 - Provider Site Number"
+                    },
+                    {
+                        "code": "LU",
+                        "description": "LU - Location Number"
+                    },
+                    {
+                        "code": "N5",
+                        "description": "N5 - Plan Network Number"
+                    },
+                    {
+                        "code": "SY",
+                        "description": "SY - Social Security Number"
+                    },
+                    {
+                        "code": "TJ",
+                        "description": "TJ - Federal taxpayer's Identification Number"
+                    },
+                    {
+                        "code": "X4",
+                        "description": "X4 - Clinical Laboratory Improvement Amendment Number"
+                    },
+                    {
+                        "code": "X5",
+                        "description": "X5 - State Industrial Accident Provider Number"
+                    }
+                ],
+                "idQualDescription": "EI - Employer ID",
+                "validation": {
+                    "id": "532785685",
+                    "idQual": "EI",
+                    "errors": []
+                }
+            },
+            {
+                "id": "",
+                "idQual": "",
+                "editing": true,
+                "idQualLookup": [
+                    {
+                        "code": "",
+                        "description": "Choose..."
+                    },
+                    {
+                        "code": "0B",
+                        "description": "0B - State License Number"
+                    },
+                    {
+                        "code": "1A",
+                        "description": "1A - Blue Cross Provider Number"
+                    },
+                    {
+                        "code": "1B",
+                        "description": "1B - Blue Shield Provider Number"
+                    },
+                    {
+                        "code": "1C",
+                        "description": "1C - Medicare Provider Number"
+                    },
+                    {
+                        "code": "1D",
+                        "description": "1D - Medicaid Provider Number"
+                    },
+                    {
+                        "code": "1G",
+                        "description": "1G - Provider UPIN Number"
+                    },
+                    {
+                        "code": "1H",
+                        "description": "1H - CHAMPUS ID"
+                    },
+                    {
+                        "code": "1J",
+                        "description": "1J - Facility ID Number"
+                    },
+                    {
+                        "code": "B3",
+                        "description": "B3 - PPO Number"
+                    },
+                    {
+                        "code": "BQ",
+                        "description": "BQ - HMO Number"
+                    },
+                    {
+                        "code": "EI",
+                        "description": "EI - Employer ID"
+                    },
+                    {
+                        "code": "FH",
+                        "description": "FH - Clinic Number"
+                    },
+                    {
+                        "code": "G2",
+                        "description": "G2 - Provider Commercial Number"
+                    },
+                    {
+                        "code": "G3",
+                        "description": "G3 - Predetermination of Benefits ID"
+                    },
+                    {
+                        "code": "G5",
+                        "description": "G5 - Provider Site Number"
+                    },
+                    {
+                        "code": "LU",
+                        "description": "LU - Location Number"
+                    },
+                    {
+                        "code": "N5",
+                        "description": "N5 - Plan Network Number"
+                    },
+                    {
+                        "code": "SY",
+                        "description": "SY - Social Security Number"
+                    },
+                    {
+                        "code": "TJ",
+                        "description": "TJ - Federal taxpayer's Identification Number"
+                    },
+                    {
+                        "code": "X4",
+                        "description": "X4 - Clinical Laboratory Improvement Amendment Number"
+                    },
+                    {
+                        "code": "X5",
+                        "description": "X5 - State Industrial Accident Provider Number"
+                    }
+                ],
+                "idQualDescription": "Choose...",
+                "validation": {
+                    "id": "",
+                    "idQual": "",
+                    "errors": [
+                        "Qualifier is required",
+                        "Id is required"
+                    ]
+                }
+            }
+        ],
+        "idQualLookup": [
+            {
+                "code": "",
+                "description": "Choose..."
+            },
+            {
+                "code": "0B",
+                "description": "0B - State License Number"
+            },
+            {
+                "code": "1A",
+                "description": "1A - Blue Cross Provider Number"
+            },
+            {
+                "code": "1B",
+                "description": "1B - Blue Shield Provider Number"
+            },
+            {
+                "code": "1C",
+                "description": "1C - Medicare Provider Number"
+            },
+            {
+                "code": "1D",
+                "description": "1D - Medicaid Provider Number"
+            },
+            {
+                "code": "1G",
+                "description": "1G - Provider UPIN Number"
+            },
+            {
+                "code": "1H",
+                "description": "1H - CHAMPUS ID"
+            },
+            {
+                "code": "1J",
+                "description": "1J - Facility ID Number"
+            },
+            {
+                "code": "B3",
+                "description": "B3 - PPO Number"
+            },
+            {
+                "code": "BQ",
+                "description": "BQ - HMO Number"
+            },
+            {
+                "code": "EI",
+                "description": "EI - Employer ID"
+            },
+            {
+                "code": "FH",
+                "description": "FH - Clinic Number"
+            },
+            {
+                "code": "G2",
+                "description": "G2 - Provider Commercial Number"
+            },
+            {
+                "code": "G3",
+                "description": "G3 - Predetermination of Benefits ID"
+            },
+            {
+                "code": "G5",
+                "description": "G5 - Provider Site Number"
+            },
+            {
+                "code": "LU",
+                "description": "LU - Location Number"
+            },
+            {
+                "code": "N5",
+                "description": "N5 - Plan Network Number"
+            },
+            {
+                "code": "SY",
+                "description": "SY - Social Security Number"
+            },
+            {
+                "code": "TJ",
+                "description": "TJ - Federal taxpayer's Identification Number"
+            },
+            {
+                "code": "X4",
+                "description": "X4 - Clinical Laboratory Improvement Amendment Number"
+            },
+            {
+                "code": "X5",
+                "description": "X5 - State Industrial Accident Provider Number"
+            }
+        ]
+    },
+    "isSecondaryMapping": false,
+    "zipWithDash": "12332",
+    "_utcOffsetMinutes": 240
+}

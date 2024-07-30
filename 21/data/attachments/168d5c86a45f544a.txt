@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:09:04","requesttime":16,"fields":{"description":"","clientRate":"","Id":68419155,"providerName":"E. Game","code":"Code namelTp8D","clientName":"n/a","client":"","customCodeId":303296,"providerRate":100.00,"provider":355690},"cacheKey":"","cacheDate":"07/30/2024 12:09:04","querytime":15,"result":"ok"}

@@ -1,0 +1,1 @@
+{"cacheExpires":"07/30/2024 15:04:59","success":true,"measurementUnitDistanceTypes":[{"Code":"kilometers","Description":"kilometers"},{"Code":"miles","Description":"miles"}],"requesttime":0,"cacheKey":"","cacheDate":"07/30/2024 12:04:59","querytime":0,"result":"ok"}

@@ -1,0 +1,19 @@
+{
+    "requests": [
+        {
+            "course": 146874044,
+            "date": "2024-08-02",
+            "reason": 0,
+            "note": ""
+        }
+    ],
+    "_track": {
+        "channel": "scheduling",
+        "action": "manage/events/bulk/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,15 @@
+{
+    "x-amz-id-2": "wH2JfcQmsmcxQMXnCF5miRumiUqfqSU2IyHYEv9WQnYnPK8yP2AS7nGYR+6ZmdvoPa7kX0RSnnA=",
+    "x-amz-request-id": "56ESYC3PVV8VGB4N",
+    "Date": "Tue, 30 Jul 2024 12:05:27 GMT",
+    "Last-Modified": "Tue, 30 Jul 2024 12:05:26 GMT",
+    "ETag": "\"563387843004e84b456aa1e8322070a5\"",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-meta-width": "850",
+    "x-amz-meta-height": "1100",
+    "x-amz-version-id": "null",
+    "Accept-Ranges": "bytes",
+    "Content-Type": "image/png",
+    "Server": "AmazonS3",
+    "Content-Length": "22182"
+}

@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/30/2024 15:05:35","success":true,"groups":[],"template":{"Organization":288525,"Id":56378,"DeletedDate":"","Description":"222222222222222","Name":"1111111111111111","DeletedBy":"","LockOnUpload":false},"types":[],"requesttime":32,"cacheDate":"07/30/2024 12:05:35","querytime":0,"result":"ok"}

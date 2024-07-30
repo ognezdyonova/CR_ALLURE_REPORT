@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:08:27","requesttime":15,"fields":{"description":"","clientRate":"","Id":68419142,"providerName":"Q. Therapy","code":"Code name7foMB","clientName":"n/a","client":"","customCodeId":303283,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:08:27","querytime":16,"result":"ok"}

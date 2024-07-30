@@ -1,0 +1,19 @@
+{
+    "paymentReference": "Test",
+    "page": 1,
+    "pageSize": 100,
+    "startDate": "2024-07-30",
+    "endDate": "2024-08-29",
+    "payorId": 7871,
+    "payorType": 2,
+    "paymentTypeIds": 1,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments/expand",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

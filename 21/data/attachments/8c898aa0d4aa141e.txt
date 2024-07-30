@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Availability for Employee2 - MK3v2",
+    "notes": "",
+    "startDate": "2024-07-30",
+    "endDate": "02/01/9999",
+    "startTs": 21600,
+    "endTs": 79200,
+    "location": 3595602,
+    "visibility": "0",
+    "types": "",
+    "days": "1,2,4,5",
+    "providerId": 3031351,
+    "_utcOffsetMinutes": 240
+}

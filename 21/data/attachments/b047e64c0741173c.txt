@@ -1,0 +1,16 @@
+{
+    "voidStatus": "",
+    "startDate": "2021-11-03",
+    "endDate": "2024-07-30",
+    "page": 1,
+    "pageSize": 50,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "invoices",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,12 @@
+{
+    "data": "<customrates><items><customrate><id>0</id></customrate></items></customrates>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/customrates/bulk/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Forbidden","message":"This appointment can not be converted. Please ensure that both principals on the appointment are in network with each other.","errors":[]},"failed":false,"cachedTime":0}

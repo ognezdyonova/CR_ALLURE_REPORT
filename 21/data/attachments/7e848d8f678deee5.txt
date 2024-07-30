@@ -1,0 +1,1 @@
+{"policies":[{"policyTypeId":581,"policyId":698,"effectiveDate":"2024-07-23T00:00:00.0000000+00:00"}],"result":"OK","failed":false,"cachedTime":0}

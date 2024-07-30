@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"'Signature' must not be empty.","errors":[{"errorCode":"NotEmpty","fieldName":"Timesheet.Segments[0].Signatures[0].Signature","message":"'Signature' must not be empty.","meta":{"PropertyName":"Signature","PropertyValue":"","CollectionIndex":"0"}}]},"failed":false,"cachedTime":0}

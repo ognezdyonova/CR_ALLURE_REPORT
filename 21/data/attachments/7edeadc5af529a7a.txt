@@ -1,0 +1,7 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "draftId": "288525-optimizations-1722341170950|66a8d73a34acad001354f85b"
+    },
+    "type": "EVENT_DELETE"
+}

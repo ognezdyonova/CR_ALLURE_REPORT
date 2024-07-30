@@ -1,0 +1,11 @@
+{
+    "resourceId": 175363549,
+    "typeId": 6,
+    "isMedicalRecord": false,
+    "name": "test12",
+    "description": "Blank authorization placeholder document 3",
+    "preventSeek": false,
+    "type": "file",
+    "id": 175363549,
+    "_utcOffsetMinutes": 300
+}

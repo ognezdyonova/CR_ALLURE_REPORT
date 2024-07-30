@@ -1,0 +1,15 @@
+{
+    "course": 146873986,
+    "date": "2024-07-31",
+    "justThis": false,
+    "userTimeZone": "America/New_York",
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/preview",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

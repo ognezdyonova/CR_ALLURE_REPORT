@@ -1,0 +1,29 @@
+{
+    "op": "addcourse",
+    "startDate": "2024-07-31",
+    "startTime": 38700,
+    "endTime": 39600,
+    "principal1": 3031410,
+    "principal2": 3031417,
+    "participants": "",
+    "billing": "<a><s><l>900</l><c>0</c><a>0</a></s></a>",
+    "eventLabels": "",
+    "courseLabels": "",
+    "hidden": false,
+    "placeOfServiceId": "",
+    "timeZone": "America/New_York",
+    "userTimeZone": "America/New_York",
+    "name": "Appointment 6",
+    "locationId": 3595619,
+    "qualificationWarningsOverridden": false,
+    "feeScheduleRateIds": [],
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

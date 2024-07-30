@@ -1,0 +1,17 @@
+{
+  "masterId": 350047692,
+  "itemId": 350047693,
+  "name": "Branch Name",
+  "description": "Branch Description",
+  "allowComments": true,
+  "type": "datapercent",
+  "template": "",
+  "noteName": "",
+  "autoProgress": false,
+  "addToSessionId": null,
+  "removeAfterMet": null,
+  "baselineInformation": "111",
+  "programGoal": "222",
+  "masteryCriteria": "333",
+  "generalizationCriteria": "444"
+}

@@ -1,0 +1,70 @@
+{
+    "timesheet": {
+        "organizationContactId": "288525",
+        "insuranceId": "2384284",
+        "managerId": "0",
+        "locationId": "288525",
+        "status": "draft",
+        "source": "",
+        "creationDate": "2024-07-30T12:07:30.0590183Z",
+        "diagnosisCodes": [],
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "timesheetSegmentId": "0",
+                "organizationContactId": "288525",
+                "providerContactId": "288525",
+                "schedulingSegmentId": "767110676",
+                "serviceDateScheduled": "2024-07-30T00:00:00.0000000Z",
+                "serviceDate": "2024-07-30T00:00:00.0000000Z",
+                "startTimeScheduled": "63000",
+                "startTimeOriginal": "null",
+                "startTime": "63000",
+                "endTimeScheduled": "70200",
+                "endTimeOriginal": "null",
+                "endTime": "70200",
+                "driveTimeScheduled": "80",
+                "driveTime": "80",
+                "driveMileageScheduled": "45.7",
+                "driveMileage": "45.7",
+                "procedureCodeIdScheduled": "66865",
+                "procedureCodeId": "66865",
+                "serviceNote": "This is testing draft TimesheetsFoi6o",
+                "serviceNotePublic": "false",
+                "adminNote": "",
+                "serviceLocationIdScheduled": "null",
+                "serviceLocationId": "null",
+                "serviceLocationAddressIdScheduled": "null",
+                "serviceLocationAddressId": "null",
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false,
+                "rates": [
+                    {
+                        "unitsOfService": "1",
+                        "copayAmount": 0,
+                        "rateProvider": "100",
+                        "rateClient": "2.58",
+                        "rateClientAgreed": "25.58",
+                        "rateProviderDriveHourly": "0",
+                        "rateClientDriveHourly": "52",
+                        "rateProviderDriveMileage": "0",
+                        "rateClientDriveMileage": "52"
+                    }
+                ],
+                "modifiers": [],
+                "pointers": [
+                    {
+                        "pointer": "1"
+                    }
+                ],
+                "signatures": [],
+                "resources": [],
+                "notes": [],
+                "exceptions": []
+            }
+        ]
+        
+    }
+}

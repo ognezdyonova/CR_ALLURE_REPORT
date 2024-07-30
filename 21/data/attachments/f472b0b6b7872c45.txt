@@ -1,0 +1,6 @@
+{
+    "codePackets": {
+        "mealTypes": "meal-type"
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,32 @@
+{
+    "op": "updatecourse",
+    "course": 146873975,
+    "date": "2024-07-30",
+    "note": "",
+    "startTime": 64800,
+    "endTime": 68400,
+    "principal1": 288525,
+    "principal2": 288525,
+    "participants": "",
+    "billing": "<a><s><l>3600</l><c>0</c><a>0</a></s></a>",
+    "placeOfServiceId": 1,
+    "timeZone": "America/Chicago",
+    "userTimeZone": "America/New_York",
+    "endDate": "2024-07-30",
+    "interval": 1,
+    "period": 1,
+    "rules": "1",
+    "oldRepeatSummary": "daily 12/20/2021 through 12/29/2021",
+    "newRepeatSummary": "daily 12/20/2021 through 12/29/2021",
+    "qualificationWarningsOverridden": false,
+    "feeScheduleRateIds": [],
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

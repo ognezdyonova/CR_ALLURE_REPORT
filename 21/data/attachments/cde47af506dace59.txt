@@ -1,0 +1,11 @@
+{
+    "reportId": 26,
+    "paramValues": "-1,-1",
+    "isDynamic": true,
+    "responses": {
+        "items": 0
+    },
+    "exportSynch": true,
+    "isExport": true,
+    "_utcOffsetMinutes": 240
+}

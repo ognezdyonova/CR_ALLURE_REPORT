@@ -1,0 +1,5 @@
+level: log, messages: system does not have property statusCodeInfo
+level: log, messages: system does not have property statusReason
+level: log, messages: system does not have property statusCodeInfo
+level: log, messages: system does not have property statusReason
+level: log, messages: Status sent for case: TR does not supported

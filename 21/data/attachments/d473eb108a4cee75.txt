@@ -1,0 +1,14 @@
+{
+    "templateId": 10256,
+    "dependency": "1",
+    "data": "<servicecodes><items><servicecode><id>67034</id></servicecode></items></servicecodes>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/notetemplates/bulk/add",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

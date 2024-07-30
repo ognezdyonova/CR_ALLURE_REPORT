@@ -1,0 +1,41 @@
+{
+    "draftName": "Office Location 6 - uWaTw",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "EmployeeCancellationCoverage",
+    "startDate": "2024-07-31T00:00:00",
+    "endDate": "2024-08-01T23:59:59",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595596
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595596
+        ],
+        "includeGenerics": false
+    },
+    "employeeCancellationDetails": [
+        {
+            "providerId": 3031340,
+            "startDateTime": "2024-07-31T00:00:00",
+            "endDateTime": "2024-08-01T23:59:59",
+            "isAllDay": true,
+            "reasonId": 1,
+            "additionalNotes": "API test",
+            "coverageLabels": [],
+            "includeLabelIds": [],
+            "excludeLabelIds": []
+        }
+    ]
+}

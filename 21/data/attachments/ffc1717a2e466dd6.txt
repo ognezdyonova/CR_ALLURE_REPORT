@@ -1,0 +1,97 @@
+{
+    "timesheet": {
+        "status": "Draft",
+        "organizationContactId": 288525,
+        "insuranceId": 1025305,
+        "providerSupplierId": 288525,
+        "billingId": 288525,
+        "referrerId": 288525,
+        "locationId": 288525,
+        "segments": [
+            {
+                "timesheetSegmentId": 0,
+                "organizationContactId": 288525,
+                "providerContactId": 288525,
+                "schedulingSegmentId": "767110693",
+                "serviceDateScheduled": "2020-04-01T00:00:00.0000000Z",
+                "serviceDate": "2020-04-01T00:00:00+00:00",
+                "startTimeScheduled": 37800,
+                "startTime": 37800,
+                "endTimeScheduled": 38700,
+                "endTime": 38700,
+                "driveTime": 0,
+                "driveMileage": 0,
+                "procedureCodeIdScheduled": 148687,
+                "procedureCodeId": 148687,
+                "serviceNote": "",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "serviceLocationIdScheduled": 10,
+                "serviceLocationId": 10,
+                "serviceLocationAddressIdScheduled": 475137,
+                "serviceLocationAddressId": 475137,
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false,
+                "rates": [
+                    {
+                        "feeScheduleId": null,
+                        "unitsOfService": 1,
+                        "copayAmount": null,
+                        "rateProvider": 15,
+                        "rateClient": 25,
+                        "rateClientAgreed": 25,
+                        "rateProviderDriveHourly": 0,
+                        "rateProviderDriveMileage": 0,
+                        "rateClientDriveHourly": 0,
+                        "rateClientDriveMileage": 0
+                    }
+                ],
+                "modifiers": [],
+                "pointers": [
+                    {
+                        "pointer": "1"
+                    },
+                    {
+                        "pointer": "2"
+                    },
+                    {
+                        "pointer": "3"
+                    }
+                ],
+                "signatures": [],
+                "resources": [],
+                "notes": [
+                    {
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "isRequired": false,
+                        "single": {
+                            "options": [
+                                "yes"
+                            ]
+                        },
+                        "answeredOn": "1900-01-01T00:00:00+00:00",
+                        "answeredBy": 0
+                    }
+                ],
+                "exceptions": [],
+                "authorizationId": null
+            }
+        ],
+        "diagnosisCodes": [
+            {
+                "diagnosisCodeId": 31329,
+                "position": 1
+            },
+            {
+                "diagnosisCodeId": 21802,
+                "position": 2
+            },
+            {
+                "diagnosisCodeId": 38653,
+                "position": 3
+            }
+        ]
+    }
+}

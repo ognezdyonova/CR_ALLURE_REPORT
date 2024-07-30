@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"Must have at least one provider cancellation detail.","errors":[{"errorCode":"NotEmpty","fieldName":"EmployeeCancellationDetails","message":"Must have at least one provider cancellation detail.","meta":{"PropertyName":"EmployeeCancellationDetails"}}]},"failed":false,"cachedTime":0}

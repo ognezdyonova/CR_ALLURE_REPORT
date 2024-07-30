@@ -1,0 +1,6 @@
+{
+    "providerId": "288525",
+    "apptWithId": "288525",
+    "date": "2024-07-30",
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,5 @@
+{
+    "authorizationId": 20234570,
+    "settingsId": 9069244,
+    "_utcOffsetMinutes": 300
+}

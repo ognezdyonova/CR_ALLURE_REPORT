@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Predicate","message":"OptimizeBy should be defined","errors":[{"errorCode":"Predicate","fieldName":"OptimizeBy","message":"OptimizeBy should be defined","meta":{"PropertyName":"OptimizeBy","PropertyValue":"test"}}]},"failed":false,"cachedTime":0}

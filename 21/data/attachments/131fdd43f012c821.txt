@@ -1,0 +1,1 @@
+{"assessments":[{"AssessorId":288525,"AssessmentDate":"07/23/2024 05:00:00","Id":7965,"AnswerCount":1,"Assessor":"QA Therapy","Status":1}],"success":true,"cacheExpires":"07/30/2024 15:03:47","requesttime":15,"cacheKey":"","cacheDate":"07/30/2024 12:03:47","querytime":0,"result":"ok"}

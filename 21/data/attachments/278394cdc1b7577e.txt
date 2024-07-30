@@ -1,0 +1,16 @@
+{
+    "action": "productivity",
+    "ext": "csv",
+    "exportParams": {
+        "groupLevel": 0,
+        "startDate": "2023-12-01T",
+        "endDate": "2024-01-01T",
+        "contactLabelIds": [],
+        "procedureCodeLabelIds": [],
+        "billingLabelIds": [],
+        "contactLabelIdsExcluded": [],
+        "procedureCodeLabelIdsExcluded": [],
+        "billingLabelIdsExcluded": [],
+        "exportType": "productivity_csv"
+    }
+}

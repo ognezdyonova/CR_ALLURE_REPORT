@@ -1,0 +1,7 @@
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Status sent for case: TR does not supported

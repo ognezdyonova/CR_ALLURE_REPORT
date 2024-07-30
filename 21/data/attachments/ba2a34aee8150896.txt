@@ -1,0 +1,50 @@
+{
+  "payorType": "1",
+  "payorNickname": "primaryname1",
+  "Notes": "primarynotes1",
+  "Insurance": {
+    "companyId": "123456", 
+    "planId":"54321",
+    "coverageFrom": "", 
+    "coverageTo": "2029-10-18",
+    "coPayType": "d", 
+    "coPayAmount": "5.67",
+    "coPayFrequency": "weeklys",
+    "status": "7", 
+    "insuranceContactPhone": "1111111111",
+    "insuranceContactPerson": "contactpersontest",
+    "groupNumber": "gnumbertest",
+    "groupName": "gnametest",
+
+    "SubscriberInfo": {
+      "FirstName": "SFN1", 
+      "MiddleInitial": "K", 
+      "LastName": "SLN1", 
+      "BirthDate": "1990-09-03", 
+      "Gender": "fe",
+      "SSN": "1234567891",
+      "SubscriberId": "S13131313",
+      "Address": "", 
+      "AddressLine2": "addr2test", 
+      "City": "", 
+      "State": "", 
+      "Zip": ""
+    },
+    
+    "PatientInfo": {
+      "FirstName": "", 
+      "MiddleInitial": "Z",
+      "LastName": "", 
+      "RelationType": "other relationships", 
+      "BirthDate": "", 
+      "Gender": "me", 
+      "SubscriberId": "S12345678",
+      "Address": "", 
+      "AddressLine2": "sazsfsf",
+      "City": "", 
+      "State": "", 
+      "Zip": "" 
+    }
+    
+  }
+}

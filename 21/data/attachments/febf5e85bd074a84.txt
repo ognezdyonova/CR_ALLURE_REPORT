@@ -1,0 +1,7 @@
+{
+    "codePackets": {
+        "measurementUnits": "bodydim-measurement-unit",
+        "measurementSites": "bodydim-measurement-site"
+    },
+    "_utcOffsetMinutes": 300
+}

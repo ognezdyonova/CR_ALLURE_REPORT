@@ -1,0 +1,23 @@
+{
+    "location": {
+        "locationId": false,
+        "principal": "288525",
+        "name": "Test",
+        "addressLine1": "Test",
+        "addressLine2": "Test",
+        "city": "Test",
+        "stateProvince": "Test",
+        "zipPostalCode": "123456",
+        "country": "Algeria",
+        "latitude": "",
+        "longitude": "",
+        "_track": {
+            "channel": "scheduling",
+            "action": "address/add",
+            "source": "Desktop",
+            "latitude": 0,
+            "longitude": 0,
+            "metric": 0
+        }
+    }
+}

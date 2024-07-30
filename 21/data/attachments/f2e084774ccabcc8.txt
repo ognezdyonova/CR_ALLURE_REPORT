@@ -1,0 +1,9 @@
+{
+    "sortBy": "voidedOn",
+    "showVoided": "true",
+    "page": 1,
+    "pageSize": 100,
+    "startDate": "2024-07-30",
+    "endDate": "2024-08-29",
+    "_utcOffsetMinutes": 300
+}

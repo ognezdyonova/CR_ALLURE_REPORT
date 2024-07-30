@@ -1,0 +1,9 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "draftId": "288525-optimizations-1722341170950|66a8d73a34acad001354f85a",
+        "addressId": 3595543,
+        "timezone": "America/Los_Angeles"
+    },
+    "type": "EVENT_UPDATE"
+}

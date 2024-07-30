@@ -1,0 +1,17 @@
+{
+    "clientId": "",
+    "providerId": 3031240,
+    "clientHourlyRate": "",
+    "clientMileageRate": "",
+    "providerHourlyRate": "10",
+    "providerMileageRate": "11",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "driverates/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

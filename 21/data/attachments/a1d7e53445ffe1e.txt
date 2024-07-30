@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Predicate","message":"Date must be greater than 1/1/1753","errors":[{"errorCode":"Predicate","fieldName":"Timesheet.Segments[0].ServiceDateScheduled","message":"Date must be greater than 1/1/1753","meta":{"PropertyName":"ServiceDateScheduled","PropertyValue":"1752-01-21","CollectionIndex":"0"}}]},"failed":false,"cachedTime":0}

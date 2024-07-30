@@ -1,0 +1,14 @@
+{
+    "entryId": "",
+    "name": "test",
+    "notes": "",
+    "startDate": "2020-09-24",
+    "endDate": "2020-05-04",
+    "startTs": 32400,
+    "endTs": 61200,
+    "days": "1,2,3,4,5",
+    "placeOfService": 1,
+    "orgId": 288525,
+    "clientId": 3031216,
+    "_utcOffsetMinutes": 240
+}

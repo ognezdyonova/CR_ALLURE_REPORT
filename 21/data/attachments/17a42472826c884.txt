@@ -1,0 +1,7 @@
+{
+                   "filter":"clients",
+                   "search":"test",
+                   "sortBy":"firstname",
+                   "page":1,
+                   "pageSize":50
+                }

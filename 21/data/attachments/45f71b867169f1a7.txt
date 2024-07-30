@@ -1,0 +1,14 @@
+{
+    "counters": [
+        {
+            "name": "SiteRequests",
+            "dataPoints": [
+                {
+                    "utc": "2019-01-22 22:01:00",
+                    "utcTimestamp": 1548133260,
+                    "value": 9999
+                }
+            ]
+        }
+    ]
+}

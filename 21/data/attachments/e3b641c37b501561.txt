@@ -1,0 +1,80 @@
+{
+    "timesheet": {
+        "clientContactId": "3031238",
+        "insuranceId": 0,
+        "referrerId": "288525",
+        "billingId": "288525",
+        "locationId": "288525",
+        "providerSupplierId": "288525",
+        "status": "Converted",
+        "source": "",
+        "diagnosisCodes": [],
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "providerContactId": "288525",
+                "serviceDate": "2024-07-30",
+                "startTime": 0,
+                "endTime": 0,
+                "driveTime": 0,
+                "driveMileage": 0,
+                "adminNote": "",
+                "authorizationId": null,
+                "procedureCodeId": "303257",
+                "serviceLocationId": 0,
+                "rates": [
+                    {
+                        "feeScheduleId": 0,
+                        "unitsOfService": 0,
+                        "copayAmount": null,
+                        "rateProvider": "0.00",
+                        "rateClient": "0.00",
+                        "rateClientAgreed": "0.00",
+                        "rateProviderDriveHourly": "0.000",
+                        "rateProviderDriveMileage": "0.000",
+                        "rateClientDriveHourly": "0.00",
+                        "rateClientDriveMileage": "0.00"
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    }
+                ],
+                "pointers": [],
+                "notes": [],
+                "exceptions": [
+                    {
+                        "exceptionId": 108,
+                        "exception": "TotalTimeZero",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Total time worked is zero",
+                        "exceptionDate": "2024-07-30",
+                        "exceptionOverride": true
+                    },
+                    {
+                        "exceptionId": 109,
+                        "exception": "UnitsOfServiceZero",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Units of service are zero",
+                        "exceptionDate": "2024-07-30",
+                        "exceptionOverride": true
+                    }
+                ],
+                "resources": [],
+                "signatures": []
+            }
+        ],
+        "exceptions": [],
+        "isPendingConversion": false
+    }
+}

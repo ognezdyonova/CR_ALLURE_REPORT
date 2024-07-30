@@ -1,0 +1,1 @@
+{"totalAssetCount":87,"totalAssetValue":0.00,"recurringCostAssetCount":0,"totalCountByType":{"Furniture":87},"totalValueByType":{"Furniture":0.00},"result":"OK","failed":false,"cachedTime":0}

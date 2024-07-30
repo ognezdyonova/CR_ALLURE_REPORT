@@ -1,0 +1,8 @@
+{
+    "startDate": "2021-11-13",
+    "endDate": "2021-12-13",
+    "page": 1,
+    "pageSize": 50,
+    "pageIndex": 1,
+    "_utcOffsetMinutes": 300
+}

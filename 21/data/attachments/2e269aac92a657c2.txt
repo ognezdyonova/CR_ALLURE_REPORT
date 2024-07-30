@@ -1,0 +1,117 @@
+{
+    "timesheet": {
+        "timesheetId": "1616",
+        "organizationContactId": "288525",
+        "schedulingEventId": "613294470",
+        "schedulingCourseId": "146874043",
+        "clientContactId": "353675",
+        "insuranceId": "2384284",
+        "referrerId": "288525",
+        "managerId": "null",
+        "billingId": "288525",
+        "locationId": "288525",
+        "providerSupplierId": "288525",
+        "status": "draft",
+        "source": "mobile",
+        "rowVersion": "AAAAAAA+IKE=",
+        "creationDate": "2024-07-30T12:07:37.8530000Z",
+        "diagnosisCodes": [
+        	{
+                "diagnosisCodeId": 38653
+            },
+            {
+                "diagnosisCodeId": 21802
+            },
+            {
+                "diagnosisCodeId": 31329
+            }
+            ],
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "timesheetSegmentId": "1991",
+                "organizationContactId": "288525",
+                "providerContactId": "288525",
+                "schedulingSegmentId": "767110677",
+                "serviceDateScheduled": "2024-07-30T00:00:00.0000000Z",
+                "serviceDate": "2024-07-30T00:00:00.0000000Z",
+                "startTimeScheduled": "18000",
+                "startTimeOriginal": "null",
+                "startTime": "18000",
+                "endTimeScheduled": "25200",
+                "endTimeOriginal": "null",
+                "endTime": "25200",
+                "driveTimeScheduled": "80",
+                "driveTime": "80",
+                "driveMileageScheduled": "80",
+                "driveMileage": "45.7",
+                "procedureCodeIdScheduled": "303268",
+                "procedureCodeId": "303268",
+                "serviceNote": "This is testing draft Timesheets - change",
+                "serviceNotePublic": "false",
+                "adminNote": "",
+                "serviceLocationIdScheduled": "10",
+                "serviceLocationId": "10",
+                "serviceLocationAddressIdScheduled": "null",
+                "serviceLocationAddressId": "null",
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false,
+                "rates": [
+                	{
+                        "feeScheduleId": 5373,
+                        "unitsOfService": "4",
+                        "copayAmount": 0,
+                        "rateProvider": "100",
+                        "rateClient": "25.58",
+                        "rateClientAgreed": "25.58",
+                        "rateProviderDriveHourly": "0",
+                        "rateClientDriveHourly": "52",
+                        "rateProviderDriveMileage": "0",
+                        "rateClientDriveMileage": "52"
+                    }
+                    ],
+                "modifiers": [],
+                "pointers": [
+                	{
+                        "pointer": "1"
+                    }
+                    ],
+                "signatures": [
+                	{
+                        "signatureIP": "123.45.67.89",
+                        "signatureSource": "mobile",
+                        "signatureName": "Provider Name",
+                        "signatureType": "provider",
+                        "signatureDate": "2024-07-30T00:00:00.0000000Z",
+                        "signatureContactId": "288525",
+                        "signature": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPg0KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjIiIGhlaWdodD0iMiI+DQo8L3N2Zz4="
+                    },
+                	{
+                		"signatureIP": "123.45.67.89",
+                        "signatureSource": "mobile",
+                        "signatureName": "Client Name",
+                        "signatureType": "client",
+                        "signatureDate": "2024-07-30T00:00:00.0000000Z",
+                        "signatureContactId": "353675",
+                        "signature": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPg0KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjIiIGhlaWdodD0iMiI+DQo8L3N2Zz4="
+          	}  ],
+                "resources": [],
+                "notes": [
+                	{
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "isRequired": false,
+                        "answeredBy": 0,
+                        "answeredOn": "1900-01-01T00:00:00.0000000Z",
+                        "single": {
+                            "options": [
+                                "yes"
+                            ]
+                        }
+                    }
+                	]
+            }
+        ]
+    }
+}

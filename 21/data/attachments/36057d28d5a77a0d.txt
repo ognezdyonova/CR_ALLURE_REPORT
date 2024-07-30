@@ -1,0 +1,13 @@
+{
+    "insuranceCompanyId": 18620,
+    "feeScheduleId": 45489,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "feeschedules/payors/add",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

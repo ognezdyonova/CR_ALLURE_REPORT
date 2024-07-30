@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'ClearBillingEntrySignatureRequest'","errors":[{"errorCode":"SerializationException","fieldName":"BillingEntryId","message":"'{{billingRecordId}}' is an Invalid value for 'BillingEntryId'"}]}}

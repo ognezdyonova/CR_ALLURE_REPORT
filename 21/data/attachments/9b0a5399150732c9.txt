@@ -1,0 +1,9 @@
+{
+    "codePackets": {
+        "allergyTypes": "allergy-type",
+        "allergyReactionTypes": "allergy-reaction",
+        "allergyOnsetTypes": "allergy-onset",
+        "allergySeverityTypes": "allergy-severity"
+    },
+    "_utcOffsetMinutes": 300
+}

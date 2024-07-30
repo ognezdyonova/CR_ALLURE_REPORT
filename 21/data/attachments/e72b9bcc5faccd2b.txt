@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Predicate","message":"Invalid request body","errors":[{"errorCode":"Predicate","fieldName":"OptimizationType","message":"Invalid request body","meta":{"PropertyName":"OptimizationType","PropertyValue":"Test"}}]},"failed":false,"cachedTime":0}

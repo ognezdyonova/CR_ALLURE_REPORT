@@ -1,0 +1,10 @@
+{
+	 "Course": {
+            "organizationId": "288525",
+            "principal1": "288525",
+            "principal2": "3021494",
+            "Billing": "<a><s><l>900</l><c>0</c><a>0</a></s></a>",
+            "StartTime": 28800 ,
+            "StartDate": "2024-7-30"
+        }
+}

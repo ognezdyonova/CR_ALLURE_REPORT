@@ -1,0 +1,22 @@
+{
+    "id": -1,
+    "name": "Name tIXiC",
+    "description": "",
+    "contactType": 20,
+    "formType": "Client",
+    "isPublic": true,
+    "applyContactLabels": "",
+    "assignServiceCodesWithLabels": "",
+    "assignPermissionGroups": "",
+    "sharing": [],
+    "notifyContacts": "",
+    "giveLearningTrees": "",
+    "taskTemplates": [],
+    "files": [],
+    "fields": [],
+    "emailSubject": "",
+    "emailBody": "",
+    "sendWelcomeEmail": false,
+    "postSubmitRedirectURL": "",
+    "_utcOffsetMinutes": -120
+}

@@ -1,0 +1,4 @@
+{
+    "providerId": "288525",
+    "_utcOffsetMinutes": -180
+}

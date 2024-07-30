@@ -1,0 +1,1 @@
+{"filters":{"contactName":""},"contactLabelIds":[],"results":[{"employeeId":288525,"employeeName":"QA Therapy","approvedRequestCount":53,"deniedRequestCount":117,"pendingRequestCount":40,"pendingRequestCountByType":" new policy [API]  1CHKyd (29), Test (11)"}],"result":"OK","failed":false,"cachedTime":0}

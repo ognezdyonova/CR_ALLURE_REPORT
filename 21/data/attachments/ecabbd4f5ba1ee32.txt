@@ -1,0 +1,33 @@
+{
+    "draftName": "Office Location 2 - tJwva",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "startDate": "2024-07-31T06:00:00.000Z",
+    "endDate": "2024-08-01T06:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": "maximumTherapyHours",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595565
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595565
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

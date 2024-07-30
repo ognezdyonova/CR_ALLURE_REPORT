@@ -1,0 +1,12 @@
+{
+    "billingEntryIds": "96479941",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/payments/bulk",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

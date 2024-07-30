@@ -1,0 +1,10 @@
+{
+    "Filters": {
+        "StartDate": "2024-05-01T07:00:43.399Z",
+        "EndDate": "2024-07-30T07:00:43.399Z",
+        "principal1": 288525,
+        "showActive": true,
+        "showCancelled": false,
+        "showDeleted": false
+    }
+}

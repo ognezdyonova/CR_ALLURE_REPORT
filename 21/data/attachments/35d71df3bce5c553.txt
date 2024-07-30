@@ -1,0 +1,9 @@
+{
+    "contactId": -1,
+    "module": "claims",
+    "record": "511345",
+    "dateType": 5,
+    "pageSize": 50,
+    "pageIndex": 1,
+    "_utcOffsetMinutes": 240
+}

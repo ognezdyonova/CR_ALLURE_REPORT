@@ -1,0 +1,21 @@
+{
+    "authority": "beta-ent-dev-members.env.centralreach.com",
+    "method": "POST",
+    "path": "/crxapi/scheduling-optimization/jobs/{{optimizationGenericsJobId}}/publish",
+    "scheme": "https",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json; charset=UTF-8",
+    "origin": "https://beta-ent-dev-members.env.centralreach.com",
+    "referer": "https://beta-ent-dev-members.env.centralreach.com/",
+    "x-crapi-clientsource": "members-spa",
+    "x-requested-with": "XMLHttpRequest",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "a22cef4b-b95b-41d3-a3be-eab1e27dfc32",
+    "Host": "beta-ent-dev-members.env.centralreach.com",
+    "Connection": "keep-alive",
+    "Content-Length": "980",
+    "Cookie": "crud={\"switched\":false,\"type\":572,\"id\":288525,\"isx\":false}; crsd=Q55mkDUQd1E94UcT8XDWu9GDWLKETOsEmM6XVdh2vOkTvIIyEzunZeKfu9UDa2Buytn5AuyZCLFB2ci/l3dIORkiMBMAqhieqjgHJ3iXIrqWP+GrGpgv1KpcohimQWW60hcNlaOuYygxJl7XbmKYx0gSJDX44bBgE7yCMhM7p2U37ctJ847RrjEmXtduYpjHhDTgViWf69rPjk8pxp24y90f1KQMTFrpoM1secCVeL+fs3RIxjNnNKfEEA7mqWh8MbSGfasfFSYkU3CyTY9JxBO8gjITO6dlyPKMSUv7vI7z43+7kYaa3vsRFZxtO5eRxoh/VRSnSZOe481t4xBuxT7LPtIixhRMuO0RcaAhKrMQLIfI2NnV24jWtkP6dNxwt/NTrbtRRkY=; uiver=24.9.0-alpha.408; 253103=da0s+mTBH+4ZBhc2zYMmoJzSbZBS7IJKNw984vQ91hQbHtHdmDFc3t3jERTaZ+udRA/0bNhKg1dbsVwzW9MpAgpAXFV+pyy7Yvf5W8USYCsifBniY3wo1zGLjTgErX5vEwLV7gAmqRDkbxaRlZwoMtYj/sO6+qrjJWA9mJWi6rAv3DGB; TS01dc4fc6=01394d2f372397c35d844803322cbade7978efc5608765c7ff2fe2e0ba99fea639b52b0155cb12188446a7639b75bdaed3f2bd8bde"
+}

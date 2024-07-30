@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'GetScheduleEventTimerBySegment'","errors":[{"errorCode":"SerializationException","fieldName":"SegmentId","message":"'{{scheduleEventsSegmentId}}' is an Invalid value for 'SegmentId'"}]}}

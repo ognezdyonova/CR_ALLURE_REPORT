@@ -1,0 +1,7 @@
+{
+    "item": {
+        "id": 0,
+        "name": "Group namebQ0Ml",
+        "description": "Test"
+    }
+}

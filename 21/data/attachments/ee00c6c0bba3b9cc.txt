@@ -1,0 +1,22 @@
+{
+    "type": "user",
+    "url": "https://beta-ent-dev-members.env.centralreach.com/#account",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36",
+    "cookie": "_hjid=1eaf5668-af04-40c5-976d-c40365cfdf8e; _ga=GA1.2.1081154516.1622529575; _uetvid=204245d0c2a411ebbbb2b77969101632; tzoffset=300; uiver=7.10.0-beta76; _gid=GA1.2.687129453.1642570653; crud={\"type\":572,\"id\":288525,\"isx\":false}; _hjSessionUser_2265350=eyJpZCI6IjNjMTc1ZjE1LWIwOWYtNTkxYy05N2JjLWY4NmVmNzY4ZmZlNCIsImNyZWF0ZWQiOjE2NDI1ODMwMzA1NDUsImV4aXN0aW5nIjp0cnVlfQ==; _hjSession_2265350=eyJpZCI6IjgxYWIyYTBkLTcxYjctNDk1Mi1hYTZjLWU4ZDI2Zjc3NTkwMyIsImNyZWF0ZWQiOjE2NDI1ODMwMzA1NTYsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=1; last-activity=1642583648281",
+    "name": "TEST",
+    "description": "TEST",
+    "dueDate": "2022-01-19T22:00:00.000Z",
+    "supportType": "General",
+    "supportModule": "other",
+    "supportIsAdmin": true,
+    "supportEscalateToCrStaff": false,
+    "rawFields": {
+        "undefined": "",
+        "sel-support-ticket-type": "General",
+        "sel-support-modules": "other",
+        "inp-support-name": "TEST",
+        "tbx-support-desc": "TEST",
+        "btn-new-ticket": ""
+    },
+    "_utcOffsetMinutes": 300
+}

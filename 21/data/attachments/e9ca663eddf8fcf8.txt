@@ -1,0 +1,8 @@
+{
+    "errorCorrection": "",
+    "intermixTrials": "",
+    "sessionId": "258925",
+    "easy": 2,
+    "hard": 1,
+    "printWithClientName": false
+}

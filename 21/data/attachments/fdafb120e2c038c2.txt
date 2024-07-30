@@ -1,0 +1,11 @@
+{
+    "contactId": 3031215,
+    "search": "",
+    "page": 1,
+    "pageSize": 50,
+    "relatedClientId": "",
+    "relatedServiceCodeId": "",
+    "payType": "",
+    "includeDeletedExpired": false,
+    "_utcOffsetMinutes": 300
+}

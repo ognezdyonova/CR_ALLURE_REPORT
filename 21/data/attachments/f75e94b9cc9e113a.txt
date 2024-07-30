@@ -1,0 +1,4 @@
+{
+    "applicationSection": "scheduling.manage",
+    "_utcOffsetMinutes": 240
+}

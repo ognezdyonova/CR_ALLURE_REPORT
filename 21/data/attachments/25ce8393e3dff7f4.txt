@@ -1,0 +1,13 @@
+{
+    "id": "",
+    "name": "Appointment-types name3EUqV",
+    "description": "",
+    "hours": "1",
+    "minutes": "0",
+    "secLength": 3600,
+    "validation": {
+        "name": "Appointment-types name3EUqV",
+        "secLength": 3600,
+        "errors": []
+    }
+}

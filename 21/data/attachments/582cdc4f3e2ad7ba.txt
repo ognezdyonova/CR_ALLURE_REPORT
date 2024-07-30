@@ -1,0 +1,1 @@
+{"payerOptions":[],"InsurancePlanId":2220,"querytime":0,"cacheDate":"07/30/2024 12:03:04","result":"ok","success":true,"requesttime":16,"InsuranceCompanyName":"AAA Michigan","InsurancePlanName":"Standard","AddressOnFile":false,"formattedAddress":"","cacheKey":"","cacheExpires":"07/30/2024 15:03:04"}

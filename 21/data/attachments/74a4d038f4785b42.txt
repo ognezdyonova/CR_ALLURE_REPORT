@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"ValidationException","message":"Validation failed: \r\n -- : Claim settings do not exist for this contact.","errors":[{"errorCode":"Custom","fieldName":"","message":"Claim settings do not exist for this contact.","meta":{}}]},"failed":false,"cachedTime":0}

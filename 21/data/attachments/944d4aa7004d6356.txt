@@ -1,0 +1,9 @@
+{
+    "claimIds": "511345",
+    "type": "cms-1500",
+    "gatewayId": -1,
+    "gatewayName": "CMS 1500 (PDF)",
+    "ignoreError": true,
+    "sendToGateway": false,
+    "combined": true
+}

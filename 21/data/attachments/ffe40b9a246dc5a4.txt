@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"Provider cancellation detail at position 0 has start/end date out of range. All cancellation dates must be within the date range of the provider cancellation schedule","errors":[]},"failed":false,"cachedTime":0}

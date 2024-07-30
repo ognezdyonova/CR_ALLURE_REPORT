@@ -1,0 +1,5 @@
+{
+  "cancelReasonId": {{partnersCancelReasonId}},
+  "cancelReasonText": "test cancel reason text"
+
+}

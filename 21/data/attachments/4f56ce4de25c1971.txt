@@ -1,0 +1,28 @@
+{
+    "draftName": "Office",
+    "optimizationType": "Existing",
+    "optimizeBy": "highImpact",
+    "startDate": "2024-07-31T16:00:00.000Z",
+    "endDate": "2024-08-01T16:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595518
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595518
+        ],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

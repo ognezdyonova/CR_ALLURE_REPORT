@@ -1,0 +1,15 @@
+{
+    "shareSourceId": 1084143,
+    "shareTargetId": 1026079,
+    "shareExistingDocs": true,
+    "shareFutureDocs": true,
+    "shareExistingNotes": true,
+    "shareFutureNotes": true,
+    "shareExistingAuths": true,
+    "shareFutureAuths": true,
+    "shareExistingTrees": true,
+    "shareFutureTrees": true,
+    "shareExistingSessions": true,
+    "shareFutureSessions": true,
+    "_utcOffsetMinutes": 300
+}

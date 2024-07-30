@@ -1,0 +1,14 @@
+{
+    "authority": "beta-ent-dev-members.env.centralreach.com",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json; charset=UTF-8",
+    "x-api-key": "{{apiKeyPartners}}",
+    "Authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IkQ0NzU4Rjc3MDQyQkMxQTUwRkRGOERCNTU3NEZCQ0JBMkZCMTU3RDdSUzI1NiIsIng1dCI6IjFIV1Bkd1Fyd2FVUDM0MjFWMC04dWkteFY5YyIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2xvZ2luLWRldi5lbnYuY2VudHJhbHJlYWNoLmNvbSIsIm5iZiI6MTcyMjM0MTA2OSwiaWF0IjoxNzIyMzQxMDY5LCJleHAiOjE3MjIzNDQ2NjksInNjb3BlIjpbImNyLWFwaSJdLCJjbGllbnRfaWQiOiJlMjhlOGM3ZmMzMzg0NTlhOWVhZGYzMDNiOTI3Yzc4OCIsInN1YiI6IjQ0NDQzN2UyLTk1MWQtNDIzOS04YjZhLTNlMzBlZjA4OTExMyIsInVzZXJpZCI6IjQ0NDQzN2UyLTk1MWQtNDIzOS04YjZhLTNlMzBlZjA4OTExMyIsIm9yZ2lkIjoiNjI1NzVhNGItMjYwZS00NjFiLTlkYTUtNzk1MzM0NTEzN2NhIiwianRpIjoiRDYyRTFCQzMwNUQxQkM3MkI3NDE2RjE4NzdFNEI3QTIifQ.C2oH9Fnymp7PINlcpjtSdE96n3u1zaCiOZnYPfp_pGc6cpH6_JoE6DOST_XDgqNT8sG-pYZ1vHZBcZOcoiw3W-ZjUqHbe8-jEnmqN7q5ryOZagrRcoOX26gl5fPTigf6-68c25zIHqpHVtTDyxk5xS6Tug8HKbjbDz2SEY29KUNcF32S2Uso4Y41q0Tvn-gR7Og_q-lXoswMQsd3FfteJd1Y6TJHsxxUWyTsBCFCbFlRyTMK11ukpuKehSjZSA1i2hblr5XKAeOdwNJt0pphlBcF8Bbw8Y3hBGoAzzCiJO3l3-tEoYnZb2EyQVSEiU7co3IbpRwKHSBsbyRAi7Tikw",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "29fe06f4-b9d2-4cc5-81e4-95ebbb665afe",
+    "Host": "{{urlpartners}}",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

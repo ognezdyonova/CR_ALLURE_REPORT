@@ -1,0 +1,7 @@
+{
+    "fieldId": 3017780,
+    "fieldName": "autoInsuranceNumber",
+    "tableName": "Contacts",
+    "resourceId": 175363452,
+    "_utcOffsetMinutes": 240
+}

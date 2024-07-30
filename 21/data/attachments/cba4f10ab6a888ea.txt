@@ -1,0 +1,5 @@
+{
+    "itemId":{{learnDataBundlesItemId}},
+    "comment":"This is comment on the session",
+    "sessionId":{{learnDataNewLearnTreeSessionId}}
+}

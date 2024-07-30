@@ -1,0 +1,6 @@
+{
+    "contactId": 3007155,
+    "contactType": "C",
+    "resourceIds": 175363549,
+    "_utcOffsetMinutes": 300
+}

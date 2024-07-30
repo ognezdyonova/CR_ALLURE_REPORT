@@ -1,0 +1,12 @@
+{
+    "Item": {
+        "Id": 0,
+        "OrganizationId": 0,
+        "Name": "new namezcrNv",
+        "Description": "new description42tAT",
+        "IsTemplate": true,
+        "NumContacts": 0,
+        "IsCurrentUserAdmin": true,
+        "IsOrgDefaultGroup": true
+    }
+}

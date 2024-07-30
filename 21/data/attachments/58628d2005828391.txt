@@ -1,0 +1,36 @@
+{
+    "draftName": "Office Location 2 - I5dRB",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "recurrenceEndsOn": "2024-09-01",
+    "startDate": "2024-07-31T00:00:00.000Z",
+    "endDate": "2024-08-04T00:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": "balanced",
+    "utilizationHours": "AuthorizedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 180
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595615
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595615
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": [
+            54545
+        ]
+    }
+}

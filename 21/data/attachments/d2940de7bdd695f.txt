@@ -1,0 +1,36 @@
+{
+    "action": "list",
+    "ext": "csv",
+    "exportParams": {
+        "page": 1,
+        "pageSize": 12,
+        "search": "",
+        "filters": {
+            "startDate": "2024-05-01T00:00:00.000Z",
+            "endDate": "2024-07-30T00:00:00.000Z",
+            "contacts": [
+                "288525"
+            ],
+            "contactLabels": [],
+            "authorized": null,
+            "authorizationSettingsId": null,
+            "authorizationResourceId": null,
+            "billingCodeId": null,
+            "principal1": null,
+            "principal2": null,
+            "convertedStatus": null,
+            "providerStatus": null,
+            "clientStatus": null,
+            "showDeleted": null,
+            "showCancelled": null,
+            "showActive": null,
+            "reason": null,
+            "attendance": null,
+            "eventLabels": [],
+            "codeLabels": [],
+            "payor": null,
+            "availability": true
+        },
+        "exportType": "list_csv"
+    }
+}

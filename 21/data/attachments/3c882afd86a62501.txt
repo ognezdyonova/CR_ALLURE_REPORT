@@ -1,0 +1,33 @@
+{
+    "draftName": "Office Location 1 - OnFBW",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "startDate": "2024-07-31T17:00:00.000Z",
+    "endDate": "2024-07-31T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 180,
+    "optimizeBy": "balanced",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 300,
+        "lengthOfLunch": 30
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595579
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595579
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

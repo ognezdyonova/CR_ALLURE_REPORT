@@ -1,0 +1,9 @@
+{
+    "Label": {
+        "ParentId": "0",
+        "labelId": "88",
+        "color": "492146|ffffff",
+        "name": "new namecGvafIbwVG",
+        "IsDeleted": "true"
+    }
+}

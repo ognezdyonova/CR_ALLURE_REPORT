@@ -1,0 +1,9 @@
+{
+  "Type": "1",
+  "Name": "new bundle",
+  "Scope": "private",
+  //"License": "multi-modify",
+  //"Price": 100
+  "assignedTo": 3031183
+
+}

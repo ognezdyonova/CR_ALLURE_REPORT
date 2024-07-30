@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'ResolveItemComment'","errors":[{"errorCode":"SerializationException","fieldName":"Id","message":"'{{learnDataSessionCommentId}}' is an Invalid value for 'Id'"}]}}

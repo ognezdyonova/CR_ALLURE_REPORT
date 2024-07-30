@@ -1,0 +1,28 @@
+{
+    "id": "",
+    "assignedToContactId": 288525,
+    "assignedToContactIdType": "C",
+    "dueDate": "2024/07/30T12:00:00.000Z",
+    "name": "test",
+    "description": "",
+    "labelIds": "",
+    "templateId": 0,
+    "templateName": "",
+    "templateTasks": [],
+    "billingEntries": "224492867",
+    "resources": "",
+    "claims": "",
+    "reconTransactions": "",
+    "taskCount": 1,
+    "visibility": 0,
+    "attachmentIds": "",
+    "_track": {
+        "channel": "tasks",
+        "action": "task/add",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

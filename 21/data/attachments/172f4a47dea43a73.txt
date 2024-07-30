@@ -1,0 +1,6 @@
+{
+    "codePackets": {
+        "measurementTypes": "measurement-unit-weight"
+    },
+    "_utcOffsetMinutes": 300
+}

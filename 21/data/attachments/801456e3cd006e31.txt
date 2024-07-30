@@ -1,0 +1,7 @@
+{
+    "contactId": "288525",
+    "activityTypeId": -1,
+    "page": 1,
+    "pageSize": 20,
+    "_utcOffsetMinutes": 240
+}

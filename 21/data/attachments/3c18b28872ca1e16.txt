@@ -1,0 +1,49 @@
+{
+    "id": null,
+    "name": "new vision plan qnyhuMsT",
+    "typeId": 3,
+    "startDate": "2020-02-18T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "description": "new description WYFOwyBDza945q38fj9w2BPeh",
+    "url": "https://test.com",
+    "benefitGroups": [],
+    "coverageOptions": [
+        {
+            "coverageType": "Employee",
+            "coverageAmount": "79"
+        },
+        {
+            "coverageType": "EmployeeAndSpouse",
+            "coverageAmount": "79"
+        },
+        {
+            "coverageType": "EmployeeAndChild",
+            "coverageAmount": "79"
+        },
+        {
+            "coverageType": "EmployeeAndChildren",
+            "coverageAmount": "79"
+        },
+        {
+            "coverageType": "EmployeeAndFamily",
+            "coverageAmount": "79"
+        },
+        {
+            "coverageType": "FamilyOnly",
+            "coverageAmount": "79"
+        },
+        {
+            "coverageType": "TwoParty",
+            "coverageAmount": "79"
+        }
+    ],
+    "reimbursementInterval": null,
+    "reimbursementAmount": 0,
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "name": true,
+        "startDate": true,
+        "endDate": true,
+        "reimbursementAmount": true
+    }
+}

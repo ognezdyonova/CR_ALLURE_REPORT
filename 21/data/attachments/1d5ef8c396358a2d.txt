@@ -1,0 +1,6 @@
+{
+    "isDeleted": true,
+    "commentId": 1553738,
+    "isSupportTicket": false,
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,13 @@
+{
+    "Content-type": "application/json; charset=UTF-8",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "scheme": "https",
+    "path": "/api/?scheduling.deletemultipleevents",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "937a67e1-0c15-472d-81ca-a18524b622b3",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "ss-id=9QUJGBTnDXln3D0tAJOw; ss-pid=6fEaaSG7BnwycmrokBB3; ss-opt=temp"
+}

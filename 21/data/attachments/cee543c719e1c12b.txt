@@ -1,0 +1,29 @@
+{
+    "op": "addcourse",
+    "startDate": "2024-07-31",
+    "startTime": 32400,
+    "endTime": 34200,
+    "principal1": 3031352,
+    "principal2": 3031354,
+    "participants": "",
+    "billing": "<a><s><l>1800</l><c></c><a></a></s></a>",
+    "eventLabels": "",
+    "courseLabels": "",
+    "hidden": false,
+    "placeOfServiceId": "",
+    "timeZone": "America/Los_Angeles",
+    "userTimeZone": "America/Los_Angeles",
+    "name": "Appointment 1",
+    "locationId": 3595605,
+    "qualificationWarningsOverridden": false,
+    "feeScheduleRateIds": [],
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

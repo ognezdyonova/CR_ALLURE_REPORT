@@ -1,0 +1,12 @@
+{
+    "data": "<defaultrates><items><defaultrate><id>0</id></defaultrate></items></defaultrates>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/defaultrates/rates/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,12 @@
+{
+    "useAgreedView": true,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "settings/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

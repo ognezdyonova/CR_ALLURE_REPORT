@@ -1,0 +1,4 @@
+{
+    "DialogId": "",
+    "OpponentUserIds": "[288525, 355689]"
+}

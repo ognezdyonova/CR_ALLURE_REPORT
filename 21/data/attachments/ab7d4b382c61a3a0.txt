@@ -1,0 +1,13 @@
+{
+    "ids": 6287162,
+    "_track": {
+        "channel": "tasks",
+        "action": "task/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "isSupportTicket": false,
+    "_utcOffsetMinutes": 240
+}

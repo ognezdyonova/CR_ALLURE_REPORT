@@ -1,0 +1,12 @@
+{
+  "masterId": 350047686,
+  "itemId": 350047687,
+  "dateInitiated": "2024-07-30",
+  "status": "0",
+  "assessmentId": "",
+  "domainId": "",
+  "responsibilityId": "",
+  "saveAll": false,
+  "skip": "",
+  "selectedFunctionIds": ""
+}

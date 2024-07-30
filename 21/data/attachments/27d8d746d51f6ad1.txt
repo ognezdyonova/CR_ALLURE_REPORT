@@ -1,0 +1,111 @@
+{
+  "criteria": [
+    {
+      "valueType": "baseline",
+      "labels": [],
+      "prompts": [],
+      "targets": [
+        {
+          "calcType": ">",
+          "timeFrame": 1,
+          "timeFrameType": 2,
+          "value": 80,
+          "addPhaseChange": true,
+          "progressNext": false,
+          "completeGoal": false,
+          "progressTo": "next",
+          "phaseChangeLabel": "",
+          "labelCurrentPhase": true,
+          "holdBranch": false,
+          "requireTwoProviders": false
+        }
+      ]
+    },
+    {
+      "valueType": "data",
+      "labels": [],
+      "prompts": [
+        "Simultaneous Imitation"
+      ],
+      "targets": [
+        {
+          "calcType": ">",
+          "timeFrame": 1,
+          "timeFrameType": 2,
+          "value": 80,
+          "addPhaseChange": true,
+          "progressNext": false,
+          "completeGoal": false,
+          "progressTo": "next",
+          "phaseChangeLabel": "Simultaneous Imitation,Contextual Cue,cuss",
+          "labelCurrentPhase": true,
+          "holdBranch": false,
+          "requireTwoProviders": false
+        }
+      ]
+    },
+    {
+      "valueType": "data",
+      "labels": [],
+      "prompts": [],
+      "targets": [
+        {
+          "calcType": ">",
+          "timeFrame": 1,
+          "timeFrameType": 2,
+          "value": 80,
+          "addPhaseChange": true,
+          "progressNext": false,
+          "completeGoal": true,
+          "progressTo": "next",
+          "phaseChangeLabel": "Independent",
+          "labelCurrentPhase": true,
+          "holdBranch": false,
+          "requireTwoProviders": false
+        }
+      ]
+    },
+    {
+      "valueType": "generalization",
+      "labels": [],
+      "prompts": [],
+      "targets": [
+        {
+          "calcType": ">",
+          "timeFrame": 1,
+          "timeFrameType": 2,
+          "value": 80,
+          "addPhaseChange": true,
+          "progressNext": false,
+          "completeGoal": true,
+          "progressTo": "next",
+          "phaseChangeLabel": "",
+          "labelCurrentPhase": true,
+          "holdBranch": false,
+          "requireTwoProviders": false
+        }
+      ]
+    },
+    {
+      "valueType": "maintenance",
+      "labels": [],
+      "prompts": [],
+      "targets": [
+        {
+          "calcType": ">",
+          "timeFrame": 1,
+          "timeFrameType": 2,
+          "value": 80,
+          "addPhaseChange": true,
+          "progressNext": false,
+          "completeGoal": true,
+          "progressTo": "next",
+          "phaseChangeLabel": "",
+          "labelCurrentPhase": true,
+          "holdBranch": false,
+          "requireTwoProviders": false
+        }
+      ]
+    }
+  ]
+}

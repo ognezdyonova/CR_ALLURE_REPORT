@@ -1,0 +1,6 @@
+{
+    "resourceId": "175363549",
+    "insuranceCompanyId": 7871,
+    "insurancePlanId": 7872,
+    "_utcOffsetMinutes": 300
+}

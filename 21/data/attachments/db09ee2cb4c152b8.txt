@@ -1,0 +1,5 @@
+{
+    "columnType": "3",
+    "id": "122544",
+    "name": "Antecedent"
+}

@@ -1,0 +1,63 @@
+{
+    "ContactBasics": {
+        "id": "3031306",
+        "typeId": 20,
+        "isActive": true,
+        "isClient": 1,
+        "isMe": 0,
+        "isEmployee": false,
+        "firstName": "EmployeeFirstNameVAWH2",
+        "middleInitial": "1",
+        "lastName": "EmployeeLastNamemJqPu",
+        "maritalStatus": "Single",
+        "birthDateDay": "1",
+        "birthDateMonth": "1",
+        "birthDateYear": "2020",
+        "company": "Central Reach",
+        "email": "emailzSZKf@centralreach.com",
+        "guardianFirstName": "",
+        "guardianLastName": "",
+        "gender": "Male",
+        "lastLoginDate": "",
+        "npiNumber": "",
+        "socialSecurityNumber": "",
+        "occupation": "",
+        "postFix": "123456, 123456, 123456, 123456, 123456",
+        "taxId": "",
+        "title": "Dr.",
+        "website": "",
+        "type": "",
+        "credential0": "123456",
+        "credential1": "123456",
+        "credential2": "123456",
+        "credential3": "123456",
+        "credential4": "123456",
+        "guarantorFirstName": "Guardian First Name",
+        "guarantorLastName": "Guardian Last Name",
+        "isGuarantorSameAsGuardian": false,
+        "terminationDate": "2024-07-30",
+        "externalSystemId": "",
+        "formChooserModalIsOpen": false,
+        "loading": false,
+        "contactId": "3031306",
+        "statusHide": 0,
+        "basicsValidation": {
+            "firstName": "EmployeeFirstNameVAWH2",
+            "lastName": "EmployeeLastNamemJqPu",
+            "email": "emailzSZKf@centralreach.com",
+            "terminationDate": "2024-07-30",
+            "validation": {
+                "firstName": "EmployeeFirstNameVAWH2",
+                "lastName": "EmployeeLastNamemJqPu",
+                "email": "emailzSZKf@centralreach.com",
+                "terminationDate": "2024-07-30",
+                "errors": []
+            }
+        },
+        "contactFormsVm": {
+            "newContactForms": []
+        },
+        "guardianFirstNameLabel": "Guardian First Name",
+        "guardianLastNameLabel": "Guardian Last Name"
+    }
+}

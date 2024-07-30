@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"Invalid request body","errors":[{"errorCode":"NotEmpty","fieldName":"EndDate","message":"Invalid request body","meta":{"PropertyName":"EndDate","PropertyValue":""}}]},"failed":false,"cachedTime":0}

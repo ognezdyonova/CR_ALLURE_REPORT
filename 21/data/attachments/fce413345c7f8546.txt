@@ -1,0 +1,1 @@
+{"results":[{"color":"93c47d|274e13","ownerContactId":288525,"isDeleted":false,"labelId":24083,"name":"new labeldzTPq","parentLabelId":0},{"color":"492146|ffffff","ownerContactId":288525,"isDeleted":false,"labelId":6971,"name":"test label","parentLabelId":23114}],"result":"OK","failed":false,"cachedTime":1722340955294}

@@ -1,0 +1,7 @@
+{
+    "labelId": "5804",
+    "name": "edited message labelH0ljI8GT7yRZ",
+    "parentId": "5805",
+    "color": "999999|ffffff",
+    "isOrgLabel": false
+}

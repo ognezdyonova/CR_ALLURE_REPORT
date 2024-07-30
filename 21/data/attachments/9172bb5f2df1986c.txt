@@ -1,0 +1,49 @@
+{
+    "id": null,
+    "name": "new suplemental health plan 7mQOPDXz",
+    "typeId": 5,
+    "startDate": "2018-12-18T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "description": "new description smedm9Bq49ao66t1bEGk7JCe8",
+    "url": "https://test.com",
+    "benefitGroups": [],
+    "coverageOptions": [
+        {
+            "coverageType": "Employee",
+            "coverageAmount": "44"
+        },
+        {
+            "coverageType": "EmployeeAndSpouse",
+            "coverageAmount": "44"
+        },
+        {
+            "coverageType": "EmployeeAndChild",
+            "coverageAmount": "44"
+        },
+        {
+            "coverageType": "EmployeeAndChildren",
+            "coverageAmount": "44"
+        },
+        {
+            "coverageType": "EmployeeAndFamily",
+            "coverageAmount": "44"
+        },
+        {
+            "coverageType": "FamilyOnly",
+            "coverageAmount": "44"
+        },
+        {
+            "coverageType": "TwoParty",
+            "coverageAmount": "44"
+        }
+    ],
+    "reimbursementInterval": null,
+    "reimbursementAmount": 0,
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "name": true,
+        "startDate": true,
+        "endDate": true,
+        "reimbursementAmount": true
+    }
+}

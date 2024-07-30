@@ -1,0 +1,22 @@
+{
+    "id": "",
+    "name": "test name",
+    "companyName": "test company name",
+    "startMonth": "1",
+    "startYear": "1999",
+    "endYear": "",
+    "description": "test description",
+    "startDate": "1/1/1999",
+    "endDate": "",
+    "validation": {
+        "name": "test name",
+        "companyName": "test company name",
+        "startMonth": "1",
+        "startYear": "1999",
+        "endYear": "",
+        "description": "test description",
+        "errors": []
+    },
+    "contactId": 1111842,
+    "_utcOffsetMinutes": 300
+}

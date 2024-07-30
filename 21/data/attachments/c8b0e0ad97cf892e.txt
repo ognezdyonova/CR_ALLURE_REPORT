@@ -1,0 +1,6 @@
+{
+    "taskId": 6287162,
+    "isFavorite": true,
+    "isSupportTicket": false,
+    "_utcOffsetMinutes": 300
+}

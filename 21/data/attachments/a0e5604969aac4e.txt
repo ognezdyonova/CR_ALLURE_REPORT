@@ -1,0 +1,45 @@
+{
+    "id": "",
+    "customCodeId": "303306",
+    "code": "",
+    "description": "",
+    "client": "",
+    "provider": 288525,
+    "clientRate": "",
+    "providerRate": "100",
+    "clientName": "",
+    "providerName": "QA Therapy (Employee ID: 288525)",
+    "codeName": "2.04.2020/2",
+    "selected": "",
+    "active": "",
+    "hovered": "",
+    "_dirty": true,
+    "isDirty": true,
+    "dirtySubscriptions": [
+        {
+            "da": "",
+            "Hb": false
+        },
+        {
+            "da": "100",
+            "Hb": false
+        }
+    ],
+    "newCustomRateAlreadyExists": false,
+    "validation": {
+        "client": "",
+        "provider": 288525,
+        "clientRate": "",
+        "providerRate": "100",
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/code/customrate/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": -180
+}

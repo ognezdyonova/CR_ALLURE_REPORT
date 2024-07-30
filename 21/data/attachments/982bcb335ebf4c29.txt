@@ -1,0 +1,12 @@
+{
+  "masterId": 350046579,
+  "itemId": {{learnDataNewLearnTreeItemId}},
+  "dateInitiated": "2024-07-30",
+  "status": "0",
+  "assessmentId": "",
+  "domainId": "",
+  "responsibilityId": "",
+  "saveAll": false,
+  "skip": "",
+  "selectedFunctionIds": ""
+}

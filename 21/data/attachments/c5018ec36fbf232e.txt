@@ -1,0 +1,9 @@
+{
+  "contact": 3031311,
+  "side": "owner",
+  "oneType": "client",
+  "manyType": "employee",
+  "contacts": [
+    3031296
+  ]
+}

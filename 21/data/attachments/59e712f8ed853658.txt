@@ -1,0 +1,10 @@
+{
+    "historyEntriesGroupedDetails": [],
+    "payType": "Salary",
+    "employeeId": 290681,
+    "expanded": false,
+    "": 1923.08,
+    "eachWeekendValue": [],
+    "historyId": "110416",
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,24 @@
+{
+    "request": {
+        "__validationConfigured": true,
+        "policyTypeId": "813",
+        "note": "",
+        "days": [
+            {
+                "date": "2024-07-30T12:04:26.000Z",
+                "__validationConfigured": true,
+                "hours": 8,
+                "startTimeHoursFromMidnight": 1,
+                "timeZone": "America/New_York",
+                "validationModifiedTracker": {
+                    "hours": true,
+                    "startTimeHoursFromMidnight": true
+                }
+            }
+        ],
+        "requiredApprovers": [],
+        "validationModifiedTracker": {
+            "policyTypeId": true
+        }
+    }
+}

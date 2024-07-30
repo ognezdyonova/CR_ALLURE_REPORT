@@ -1,0 +1,61 @@
+{
+    "ContactBasics": {
+        "id": "3031302",
+        "typeId": 20,
+        "isActive": true,
+        "isClient": 1,
+        "isMe": 0,
+        "isEmployee": false,
+        "firstName": "ClientFirstNamejJhPy",
+        "middleInitial": "",
+        "lastName": "ClientLastNameNQb5j",
+        "maritalStatus": "",
+        "birthDateDay": "",
+        "birthDateMonth": "",
+        "birthDateYear": "",
+        "company": "",
+        "email": "emailGxGl2@centralreach.com",
+        "guardianFirstName": "GuardianFirstNamex6Nzi",
+        "guardianLastName": "GuardianLastName2buFe",
+        "gender": "",
+        "lastLoginDate": "",
+        "npiNumber": "",
+        "socialSecurityNumber": "",
+        "occupation": "",
+        "postFix": "",
+        "taxId": "",
+        "title": "",
+        "website": "",
+        "type": "",
+        "credential0": "",
+        "credential1": "",
+        "credential2": "",
+        "credential3": "",
+        "credential4": "",
+        "guarantorFirstName": "",
+        "guarantorLastName": "",
+        "isGuarantorSameAsGuardian": true,
+        "terminationDate": "",
+        "externalSystemId": "",
+        "formChooserModalIsOpen": false,
+        "loading": false,
+        "contactId": "3031302",
+        "statusHide": 0,
+        "basicsValidation": {
+            "firstName": "Test",
+            "lastName": "Test",
+            "email": "",
+            "validation": {
+                "firstName": "Test",
+                "lastName": "Test",
+                "email": "",
+                "errors": []
+            }
+        },
+        "contactFormsVm": {
+            "newContactForms": []
+        },
+        "guardianFirstNameLabel": "Parent/Guardian First Name",
+        "guardianLastNameLabel": "Parent/Guardian Last Name"
+    }
+}

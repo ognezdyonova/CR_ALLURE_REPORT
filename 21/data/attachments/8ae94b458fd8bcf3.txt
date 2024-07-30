@@ -1,0 +1,19 @@
+{
+    "Action": "string",
+    "Ext": "string",
+    "ExportParams": {
+        "TemplateId": 0,
+        "TemplateTypeIds": "string",
+        "ContactLabelIds": "string",
+        "ContactType": "string",
+        "ContactId": 0,
+        "UseResourceFormat": true,
+        "ExpiresDate": "string",
+        "EffectiveDate": "string",
+        "Sort": "string",
+        "Export": true,
+        "Page": 0,
+        "PageSize": 0
+    },
+    "GatewayId": 0
+}

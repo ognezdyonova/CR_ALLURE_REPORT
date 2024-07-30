@@ -1,0 +1,21 @@
+{
+	"Channel":"resources",
+	"action":"upload",
+	"fileName":"Name.jpg",
+	"contentLength": 1,
+	"contentType":"image/jpeg",
+	"Metadata":
+	{
+		"channelId":"resources",
+		"action":"upload",
+		"typeId":6,
+		"contactId":"288525",
+		"isPrivate":false,
+		"preventSeek":false,
+		"isMedicalRecord":false,
+		"fileName":"Name",
+		"description":"ngchbgcnvb\n",
+		"originModule":"resources",
+		"originAction":"upload"
+     }
+} 

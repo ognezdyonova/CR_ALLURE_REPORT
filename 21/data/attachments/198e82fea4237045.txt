@@ -1,0 +1,22 @@
+{
+    "id": -1,
+    "name": "Name jIo2b",
+    "description": "",
+    "contactType": 572,
+    "formType": "Employee",
+    "isPublic": false,
+    "applyContactLabels": "",
+    "assignServiceCodesWithLabels": "",
+    "assignPermissionGroups": "",
+    "sharing": [],
+    "notifyContacts": "",
+    "giveLearningTrees": "",
+    "taskTemplates": [],
+    "files": [],
+    "fields": [],
+    "emailSubject": "",
+    "emailBody": "",
+    "sendWelcomeEmail": true,
+    "postSubmitRedirectURL": "",
+    "_utcOffsetMinutes": -120
+}

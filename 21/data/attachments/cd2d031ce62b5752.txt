@@ -1,0 +1,23 @@
+{
+    "item": {
+        "contactInsuranceCompanyId": "2385452",
+        "insuranceCoverageId": -1,
+        "verifiedForProviderFullName": "",
+        "createdByFullName": "",
+        "eligibilityStatusInfo": "",
+        "requestDate": "",
+        "responseDate": "",
+        "edi_271EligibilityStatusCode": "",
+        "edi_271EligibilityStatusInfo": "",
+        "verificationFailureReasonCode": "",
+        "verificationFailureReasonInfo": "",
+        "__validationConfigured": true,
+        "verifiedForDate": "2020-03-26T00:00:00+02:00",
+        "eligibilityStatusCode": "201",
+        "coverageDetails": "",
+        "loaded": false,
+        "validationModifiedTracker": {
+            "verifiedForDate": true
+        }
+    }
+}

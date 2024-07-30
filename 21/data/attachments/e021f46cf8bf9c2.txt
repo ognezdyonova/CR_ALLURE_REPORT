@@ -1,0 +1,8 @@
+{
+    "effectiveDate": "2024-7-30T09:43:41.962Z",
+    "comment": "test comment",
+    "employeePays": null,
+    "employerPays": null,
+    "employeePaysAsPercentage": false,
+    "employerPaysAsPercentage": false
+}

@@ -1,0 +1,1 @@
+{"id":2385461,"copayAmount":3.00,"copayAmountType":0,"copayFrequency":0,"payorName":"None > None","isCreditCard":false,"result":"OK","failed":false,"cachedTime":0}

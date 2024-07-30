@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Availability for Employee1 - Ogvu1",
+    "notes": "",
+    "startDate": "2024-07-30",
+    "endDate": "02/01/9999",
+    "startTs": 32400,
+    "endTs": 61200,
+    "location": 3595593,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 3031360,
+    "_utcOffsetMinutes": 240
+}

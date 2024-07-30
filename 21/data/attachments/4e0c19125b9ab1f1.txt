@@ -1,0 +1,15 @@
+{
+  "employeeOwner": 1111842,
+  "employeeViewers": [
+    {
+      "contact": 1112207,
+      "permissions": {
+        "docs": true,
+        "notes": true,
+        "sessions": true,
+        "trees": "read"
+      }
+    }
+  ],
+  "update": false
+}

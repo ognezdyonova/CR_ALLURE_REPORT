@@ -1,0 +1,6 @@
+level: log, messages: Session does not have property completedDate
+level: log, messages: Session does not have property lastAccessed
+level: log, messages: Session does not have property lastUpdated
+level: log, messages: Session does not have property lastUpdatedBy
+level: log, messages: Session does not have property activityStart
+level: log, messages: Status sent for case: TR does not supported

@@ -1,0 +1,12 @@
+{
+    "Items": [
+        {
+            "id": "33",
+            "name": "Access",
+            "description": "Basic access to the billing module for creating timesheets",
+            "moduleId": "47",
+            "module": "Billing",
+            "selected": true
+        }
+    ]
+}

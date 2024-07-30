@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'LoadClientAvailabilityRequest'","errors":[{"errorCode":"SerializationException","fieldName":"ClientId","message":"'455354644324523452345235432452345' is an Invalid value for 'ClientId'"}]}}

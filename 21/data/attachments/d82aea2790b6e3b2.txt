@@ -1,0 +1,49 @@
+{
+    "id": null,
+    "name": "new dental plan ErhHPMEu",
+    "typeId": 2,
+    "startDate": "2020-03-18T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "description": "new description NddpHvsL2RI4yQWKJiVMHBAJg",
+    "url": "https://test.com",
+    "benefitGroups": [],
+    "coverageOptions": [
+        {
+            "coverageType": "Employee",
+            "coverageAmount": "41"
+        },
+        {
+            "coverageType": "EmployeeAndSpouse",
+            "coverageAmount": "41"
+        },
+        {
+            "coverageType": "EmployeeAndChild",
+            "coverageAmount": "41"
+        },
+        {
+            "coverageType": "EmployeeAndChildren",
+            "coverageAmount": "41"
+        },
+        {
+            "coverageType": "EmployeeAndFamily",
+            "coverageAmount": "41"
+        },
+        {
+            "coverageType": "FamilyOnly",
+            "coverageAmount": "41"
+        },
+        {
+            "coverageType": "TwoParty",
+            "coverageAmount": "41"
+        }
+    ],
+    "reimbursementInterval": null,
+    "reimbursementAmount": 0,
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "name": true,
+        "startDate": true,
+        "endDate": true,
+        "reimbursementAmount": true
+    }
+}

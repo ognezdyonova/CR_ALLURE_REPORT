@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 14:21:10","requesttime":15,"fields":{"Id":76786,"Color":"999999|ffffff","CurrentUserId":288525,"ParentLabelId":"","Name":"testAPI GeCFz"},"cacheKey":"","cacheDate":"07/30/2024 11:21:10","querytime":16,"result":"ok"}

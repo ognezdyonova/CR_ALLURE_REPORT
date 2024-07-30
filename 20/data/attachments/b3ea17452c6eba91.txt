@@ -1,0 +1,1 @@
+{"id":7171,"accountId":304,"name":"test xL3sw","startDate":"2019-04-24T00:00:00.0000000Z","endDate":"2019-04-25T00:00:00.0000000Z","result":"OK","failed":false,"cachedTime":0}

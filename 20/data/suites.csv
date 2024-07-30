@@ -1,0 +1,140 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 30 11:21:14 UTC 2024","Tue Jul 30 11:21:15 UTC 2024","231","/recon","/transactions","batches","","","pre-requestBillingmanager",""
+"passed","Tue Jul 30 11:21:19 UTC 2024","Tue Jul 30 11:21:19 UTC 2024","237","/recon","/transactions","","","","testGetReconTransactionsResponse",""
+"passed","Tue Jul 30 11:21:15 UTC 2024","Tue Jul 30 11:21:15 UTC 2024","207","/recon","/transactions","batches","","","testSetLabelToTransactionById",""
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","215","/recon","/batches","","","","testReconBatchesLookupResponse",""
+"passed","Tue Jul 30 11:21:10 UTC 2024","Tue Jul 30 11:21:10 UTC 2024","244","/recon","/transactions","/labels","","","pre-request Add Label",""
+"passed","Tue Jul 30 11:21:12 UTC 2024","Tue Jul 30 11:21:12 UTC 2024","285","/recon","/transactions","batches","","","testPostNewReconBatchesResponse",""
+"passed","Tue Jul 30 11:21:16 UTC 2024","Tue Jul 30 11:21:17 UTC 2024","232","/recon","/transactions","batches","","","pre-requestBillingmanager",""
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:10 UTC 2024","212","/recon","/transactions","/candidates","","","testGetReconTransactionsCandidates",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","246","/recon","/accounts","","","","testPostReconAccounts",""
+"passed","Tue Jul 30 11:21:18 UTC 2024","Tue Jul 30 11:21:18 UTC 2024","209","/recon","/transactions","batches","","","testDeleteReconBatchesResponse",""
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","140","/abctemplate","","","","","testDeleteNewTemplateColumn",""
+"passed","Tue Jul 30 11:21:13 UTC 2024","Tue Jul 30 11:21:13 UTC 2024","215","/recon","/transactions","batches","","","testPutEditTransactionById",""
+"passed","Tue Jul 30 11:21:17 UTC 2024","Tue Jul 30 11:21:18 UTC 2024","214","/recon","/transactions","batches","","","testRemoveLabelInTransactionById",""
+"passed","Tue Jul 30 11:21:16 UTC 2024","Tue Jul 30 11:21:16 UTC 2024","197","/recon","/transactions","batches","","","pre-requestTestReconTransaction",""
+"passed","Tue Jul 30 11:21:07 UTC 2024","Tue Jul 30 11:21:07 UTC 2024","109","/abctemplate","","","","","testPostShareTemplateById",""
+"passed","Tue Jul 30 11:21:15 UTC 2024","Tue Jul 30 11:21:15 UTC 2024","213","/recon","/transactions","batches","","","testPostNewManualsTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:07 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","652","Auth","","","","","authOldAPI",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","239","/recon","/accounts","","","","testReconAccounts",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","434","/abctemplate","","","","","testGetAllTemplates","Get the list of all ABC Templates - 
+UI - Learn -> Settings -> ABC Data Creator"
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","220","/recon","/accounts","","","","testPutEditReconAccountByAccountId",""
+"passed","Tue Jul 30 11:21:15 UTC 2024","Tue Jul 30 11:21:15 UTC 2024","243","/recon","/transactions","batches","","","testGetManualsTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:18 UTC 2024","Tue Jul 30 11:21:18 UTC 2024","214","/recon","/transactions","batches","","","pre-requestTestRecon",""
+"passed","Tue Jul 30 11:21:19 UTC 2024","Tue Jul 30 11:21:19 UTC 2024","226","/recon","/transactions","","","","testReconTransactionExportAsync",""
+"passed","Tue Jul 30 11:21:17 UTC 2024","Tue Jul 30 11:21:17 UTC 2024","224","/recon","/transactions","batches","","","testDeleteLabelBulkToTransactionById",""
+"passed","Tue Jul 30 11:21:18 UTC 2024","Tue Jul 30 11:21:19 UTC 2024","225","/recon","/transactions","batches","","","pre-requestTestRecon",""
+"passed","Tue Jul 30 11:21:10 UTC 2024","Tue Jul 30 11:21:11 UTC 2024","222","/recon","/transactions","/labels","","","testReconTransactionsLabels",""
+"passed","Tue Jul 30 11:21:07 UTC 2024","Tue Jul 30 11:21:07 UTC 2024","154","/abctemplate","","","","","testPutTemplates","
+### Update ABC Template
+
+This endpoint allows the user to update an ABC template.
+
+#### Request Body
+- Description (string, optional): The description of the template.
+- id (string, required): The ID of the template.
+- Name (string, optional): The name of the template.
+
+#### Response
+The response is in the JSON format and follows the schema below:
+
+```json
+{
+    ""type"": ""object"",
+    ""properties"": {
+        ""id"": {
+            ""type"": ""number""
+        },
+        ""createdBy"": {
+            ""type"": ""number""
+        },
+        ""isDeleted"": {
+            ""type"": ""boolean""
+        },
+        ""isGlobal"": {
+            ""type"": ""boolean""
+        },
+        ""result"": {
+            ""type"": ""string""
+        },
+        ""failed"": {
+            ""type"": ""boolean""
+        },
+        ""cachedTime"": {
+            ""type"": ""number""
+        }
+    }
+}
+```
+"
+"passed","Tue Jul 30 11:21:07 UTC 2024","Tue Jul 30 11:21:07 UTC 2024","123","/abctemplate","","","","","testGetTemplateById",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","340","Auth","","","","","testGetToken",""
+"passed","Tue Jul 30 11:21:12 UTC 2024","Tue Jul 30 11:21:13 UTC 2024","477","/recon","/transactions","batches","","","pre-requestResources",""
+"passed","Tue Jul 30 11:21:05 UTC 2024","Tue Jul 30 11:21:06 UTC 2024","517","Auth","","","","","auth",""
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","211","/recon","/accounts","","","","testRemoveEditedReconAccountByAccountId",""
+"passed","Tue Jul 30 11:21:11 UTC 2024","Tue Jul 30 11:21:11 UTC 2024","208","/recon","/transactions","/labels","","","testDeleteReconTransactionsLabels",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","180","/abctemplate","","","","","testDeleteOptionToTemplate",""
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","161","/abctemplate","","","","","testDeleteTemplateById",""
+"passed","Tue Jul 30 11:21:12 UTC 2024","Tue Jul 30 11:21:12 UTC 2024","206","/recon","/transactions","batches","","","testPostReconTransactions",""
+"passed","Tue Jul 30 11:21:12 UTC 2024","Tue Jul 30 11:21:12 UTC 2024","206","/recon","/transactions","batches","","","testPutEditReconBatchesResponse",""
+"passed","Tue Jul 30 11:21:06 UTC 2024","Tue Jul 30 11:21:07 UTC 2024","858","Auth","","","","","testGetToken",""
+"passed","Tue Jul 30 11:21:12 UTC 2024","Tue Jul 30 11:21:12 UTC 2024","176","/recon","/transactions","batches","","","pre-request GET Accounts",""
+"passed","Tue Jul 30 11:21:15 UTC 2024","Tue Jul 30 11:21:16 UTC 2024","241","/recon","/transactions","batches","","","testUnreconcileManualItemTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:13 UTC 2024","Tue Jul 30 11:21:13 UTC 2024","204","/recon","/transactions","batches","","","testPostResourseToTransactionById",""
+"passed","Tue Jul 30 11:21:18 UTC 2024","Tue Jul 30 11:21:18 UTC 2024","207","/recon","/transactions","batches","","","testDeleteTransactionById",""
+"passed","Tue Jul 30 11:21:17 UTC 2024","Tue Jul 30 11:21:17 UTC 2024","282","/recon","/transactions","batches","","","testGetResourcesTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:07 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","112","/abctemplate","","","","","testAddNewTemplateColumn",""
+"passed","Tue Jul 30 11:21:17 UTC 2024","Tue Jul 30 11:21:17 UTC 2024","320","/recon","/transactions","batches","","","pre-requestBillingmanager",""
+"passed","Tue Jul 30 11:21:11 UTC 2024","Tue Jul 30 11:21:11 UTC 2024","227","/recon","/transactions","/labels","","","testReconTransactionsLabelsBulk",""
+"passed","Tue Jul 30 11:21:14 UTC 2024","Tue Jul 30 11:21:14 UTC 2024","221","/recon","/transactions","batches","","","testPostReconReconcileResponse",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","164","/abctemplate","","","","","testDeleteFunctionToOptionOfTemplate",""
+"passed","Tue Jul 30 11:21:14 UTC 2024","Tue Jul 30 11:21:14 UTC 2024","207","/recon","/transactions","batches","","","testGetPaymentsTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:14 UTC 2024","Tue Jul 30 11:21:14 UTC 2024","203","/recon","/transactions","batches","","","testGetTasksTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:19 UTC 2024","Tue Jul 30 11:21:20 UTC 2024","217","/recon","/transactions","","","","testReconUnreconcile",""
+"passed","Tue Jul 30 11:21:19 UTC 2024","Tue Jul 30 11:21:19 UTC 2024","207","/recon","/transactions","","","","testReconTransactionsManualsUnreconcile",""
+"passed","Tue Jul 30 11:21:09 UTC 2024","Tue Jul 30 11:21:09 UTC 2024","212","/recon","/batches","","","","testReconBatches",""
+"passed","Tue Jul 30 11:21:18 UTC 2024","Tue Jul 30 11:21:18 UTC 2024","205","/recon","/transactions","batches","","","testReconTransactionsResourcesId",""
+"passed","Tue Jul 30 11:21:06 UTC 2024","Tue Jul 30 11:21:07 UTC 2024","659","Auth","","","","","auth",""
+"passed","Tue Jul 30 11:21:13 UTC 2024","Tue Jul 30 11:21:14 UTC 2024","214","/recon","/transactions","batches","","","testGetTransactionByIdResponse",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","119","/abctemplate","","","","","testPutFunctionToOptionOfTemplate",""
+"passed","Tue Jul 30 11:21:14 UTC 2024","Tue Jul 30 11:21:14 UTC 2024","262","/recon","/transactions","batches","","","pre-requestReconTransaction",""
+"passed","Tue Jul 30 11:21:11 UTC 2024","Tue Jul 30 11:21:11 UTC 2024","223","/recon","/transactions","/labels","","","pre-request Delete Label",""
+"passed","Tue Jul 30 11:21:06 UTC 2024","Tue Jul 30 11:21:06 UTC 2024","450","Auth","","","","","authOldAPI",""
+"passed","Tue Jul 30 11:21:07 UTC 2024","Tue Jul 30 11:21:07 UTC 2024","134","/abctemplate","","","","","testPostCopyTemplateById","This HTTP POST request is used to copy a specific template identified by the `abctemplateTemplateId` parameter. The request should be sent to https://{{url}}/abctemplate/{{abctemplateTemplateId}}/copy.
+
+### Request
+
+The request body should be of form-data type and should include the necessary parameters for copying the template.
+
+### Response
+
+The response to this request is in JSON format with the following schema:
+
+``` json
+{
+  ""type"": ""object"",
+  ""properties"": {
+    ""id"": {
+      ""type"": ""number""
+    },
+    ""result"": {
+      ""type"": ""string""
+    },
+    ""failed"": {
+      ""type"": ""boolean""
+    },
+    ""cachedTime"": {
+      ""type"": ""number""
+    }
+  }
+}
+
+ ```
+
+The response includes the `id` of the copied template, a `result` message, a `failed` status, and the `cachedTime`."
+"passed","Tue Jul 30 11:21:11 UTC 2024","Tue Jul 30 11:21:12 UTC 2024","242","/recon","/transactions","batches","","","testGetReconBatchesResponse",""
+"passed","Tue Jul 30 11:21:16 UTC 2024","Tue Jul 30 11:21:16 UTC 2024","269","/recon","/transactions","batches","","","testSetLabelBulkToTransactionById",""
+"passed","Tue Jul 30 11:21:16 UTC 2024","Tue Jul 30 11:21:16 UTC 2024","233","/recon","/transactions","batches","","","pre-requestBillingmanager",""
+"passed","Tue Jul 30 11:21:10 UTC 2024","Tue Jul 30 11:21:10 UTC 2024","500","/recon","/transactions","/labels","","","pre-request GetTransactions",""
+"passed","Tue Jul 30 11:21:08 UTC 2024","Tue Jul 30 11:21:08 UTC 2024","113","/abctemplate","","","","","testPutOptionToTemplate",""

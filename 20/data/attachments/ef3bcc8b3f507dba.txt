@@ -1,0 +1,18 @@
+{
+    "id": "",
+    "batchId": "7171",
+    "description": "description BJth3",
+    "reference": "Test",
+    "transactionDate": "2019-04-24",
+    "depositDate": "2019-04-24",
+    "payer": "payer jBLdM",
+    "amount": "95",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments/transactions/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

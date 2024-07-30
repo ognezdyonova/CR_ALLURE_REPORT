@@ -1,0 +1,10 @@
+{
+  "BatchId": "7171",
+  "DepositDate": "2019-02-22",
+  "TransactionDate": "2019-02-22",
+  "Payer": "string",
+  "Description": "string",
+  "Reference": "string",
+  "Amount": 1,
+  "IsManual": true
+}

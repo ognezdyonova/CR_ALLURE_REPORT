@@ -1,0 +1,16 @@
+{
+    "startDate": "07/30/2024",
+    "endDate": "07/30/2024",
+    "rate": "123",
+    "rateAgreed": "123",
+    "data": "<defaultrates><items><defaultrate><id>71147</id></defaultrate></items></defaultrates>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/defaultrates/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

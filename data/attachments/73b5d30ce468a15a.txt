@@ -1,0 +1,1 @@
+{"disciplineTotals":[{"disciplineId":1,"disciplineName":"Applied Behavior Analysis","count":3},{"disciplineId":7,"disciplineName":"Early Intervention","count":78},{"disciplineId":0,"disciplineName":"None","count":31},{"disciplineId":4,"disciplineName":"Physical Therapy","count":4}],"result":"OK","failed":false,"cachedTime":1722340976102}

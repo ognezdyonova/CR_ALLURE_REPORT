@@ -1,0 +1,10 @@
+{
+    "page": 1,
+    "pageSize": 100,
+    "startDate": "2024-07-30",
+    "endDate": "2024-08-29",
+    "references": "<references><item><payor>7871</payor><payortype>2</payortype><paymenttype>1</paymenttype><reference>Test</reference></item></references>",
+    "add": "",
+    "remove": "",
+    "_utcOffsetMinutes": 300
+}

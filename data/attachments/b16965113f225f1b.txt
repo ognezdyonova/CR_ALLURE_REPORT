@@ -1,0 +1,8 @@
+{
+    "codePackets": {
+        "medicineDosages": "medicine-dosage",
+        "medicineHowTakens": "medicine-howtaken",
+        "medicineStrengths": "medicine-strength"
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,11 @@
+{
+    "feeScheduleRateIds": [768244],
+    "credentialGroups": [{
+            "displayOrder": 0,
+            "certifications": [{
+                    "certificateId": 1448
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "masterId":350047685,
+    "itemId":"{{learnDataBundlesItemId}}",
+    "_utcOffsetMinutes":240
+    }

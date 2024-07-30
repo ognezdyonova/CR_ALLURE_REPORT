@@ -1,0 +1,101 @@
+{
+    "timesheet": {
+        "clientContactId": 353675,
+        "insuranceId": 1025305,
+        "referrerId": 288525,
+        "billingId": 288525,
+        "locationId": 288525,
+        "providerSupplierId": 288525,
+        "status": "Converted",
+        "source": "",
+        "diagnosisCodes": [
+            {
+                "diagnosisCodeId": 31329,
+                "position": 1
+            },
+            {
+                "diagnosisCodeId": 21802,
+                "position": 2
+            },
+            {
+                "diagnosisCodeId": 38653,
+                "position": 3
+            }
+        ],
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "providerContactId": 288525,
+                "serviceDate": "2020-04-02T00:00:00+00:00",
+                "startTime": 0,
+                "endTime": 0,
+                "driveTime": 0,
+                "driveMileage": 0,
+                "adminNote": "",
+                "authorizationId": null,
+                "procedureCodeId": "303287",
+                "rates": [
+                    {
+                        "feeScheduleId": 5380,
+                        "unitsOfService": 0,
+                        "copayAmount": null,
+                        "rateProvider": "100.00",
+                        "rateClient": "25.58",
+                        "rateClientAgreed": "25.58",
+                        "rateProviderDriveHourly": "0.000",
+                        "rateProviderDriveMileage": "0.000",
+                        "rateClientDriveHourly": "0.00",
+                        "rateClientDriveMileage": "0.00"
+                    }
+                ],
+                "modifiers": [],
+                "pointers": [],
+                "notes": [
+                    {
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "description": "",
+                        "isRequired": false,
+                        "single": {
+                            "options": [
+                                "yes"
+                            ],
+                            "index": null
+                        },
+                        "answeredOn": "1900-01-01T00:00:00+00:00",
+                        "answeredBy": 0
+                    }
+                ],
+                "exceptions": [
+                    {
+                        "exceptionId": 150,
+                        "exception": "ServiceCodeRequiresAppointment",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Service line requires an appointment conversion.",
+                        "exceptionDate": "2020-04-02T17:42:38.7040526+00:00",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 108,
+                        "exception": "TotalTimeZero",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Total time worked is zero",
+                        "exceptionDate": "2020-04-02T17:42:38.7040526+00:00",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 109,
+                        "exception": "UnitsOfServiceZero",
+                        "exceptionSeverity": "Low",
+                        "exceptionText": "Units of service are zero",
+                        "exceptionDate": "2020-04-02T17:42:38.7040526+00:00",
+                        "exceptionOverride": false
+                    }
+                ],
+                "serviceLocationAddressId": "474552",
+                "resources": [],
+                "signatures": []
+            }
+        ],
+        "exceptions": []
+    }
+}

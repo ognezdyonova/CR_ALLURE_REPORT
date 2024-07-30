@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:08:08","requesttime":17,"fields":{"description":"","clientRate":25.00,"Id":68419134,"providerName":"Q. Therapy","code":"Code nameWtDAl","clientName":"M. Storm","client":353675,"customCodeId":303275,"providerRate":15.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:08:08","querytime":15,"result":"ok"}

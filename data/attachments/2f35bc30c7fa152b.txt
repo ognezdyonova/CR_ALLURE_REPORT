@@ -1,0 +1,9 @@
+{
+    "messageIds": [
+        {
+            "Id": "41541590"
+        }
+    ],
+    "flagName": "isArchived",
+    "setFlag": true
+}

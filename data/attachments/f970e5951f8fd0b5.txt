@@ -1,0 +1,239 @@
+{
+    "timesheet": {
+        "timesheetId": "1612",
+        "organizationContactId": "288525",
+        "schedulingEventId": "613294466",
+        "schedulingCourseId": "146874039",
+        "clientContactId": "353675",
+        "insuranceId": "2384284",
+        "referrerId": "288525",
+        "managerId": "0",
+        "billingId": "288525",
+        "locationId": "288525",
+        "providerSupplierId": "288525",
+        "status": "Draft",
+        "source": "mobile",
+        "rowVersion": "AAAAAAA+IC0=",
+        "creationDate": "2024-07-30T12:06:28.9230000Z",
+        "segments": [
+            {
+                "timesheetSegmentId": "1987",
+                "organizationContactId": "288525",
+                "providerContactId": "288525",
+                "schedulingSegmentId": "767110673",
+                "position": "null",
+                "serviceDateScheduled": "2024-07-30T00:00:00.0000000Z",
+                "serviceDate": "2024-07-30T00:00:00.0000000Z",
+                "startTimeScheduled": "63000",
+                "startTimeOriginal": "null",
+                "startTime": "63000",
+                "endTimeScheduled": "70200",
+                "endTimeOriginal": "null",
+                "endTime": "70200",
+                "driveTimeScheduled": "80",
+                "driveTime": "80",
+                "driveMileageScheduled": "45.7",
+                "driveMileage": "45.7",
+                "procedureCodeIdScheduled": "66865",
+                "procedureCodeId": "66865",
+                "serviceNote": "This is testing draft Timesheets - change",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "serviceLocationIdScheduled": "null",
+                "serviceLocationId": "-1",
+                "serviceLocationAddressIdScheduled": "null",
+                "serviceLocationAddressId": "null",
+                
+                
+                "rates": [
+                    {
+                        "unitsOfService": "1",
+                        "rateProvider": 19.123456,
+                        "rateClient": "2.58",
+                        "rateClientAgreed": "25.58",
+                        "rateProviderDriveHourly": "0",
+                        "rateClientDriveHourly": "52",
+                        "rateProviderDriveMileage": "0",
+                        "rateClientDriveMileage": "52"
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "modifier": "{{modifiers.id}}"
+                    }
+                ],
+                "pointers": [
+                    {
+                        "pointer": "{{pointers.id}}"
+                    }
+                ],
+                "signatures": [
+                    {
+                        "signatureIP": "195.181.169.108",
+                        "signatureSource": "mobile",
+                        "signatureName": "{{signatureName.id}}",
+                        "signatureType": "provider",
+                        "signatureDate": "{{signatureDate}}",
+                        "signatureContactId": 99879,
+                        "signature": "this is a provider signature"
+                    },
+                    {
+                        "signatureIP": "195.181.169.108",
+                        "signatureSource": "mobile",
+                        "signatureName": "Client Name",
+                        "signatureType": "client",
+                        "signatureDate": "2020-01-21T18:59:09.9200000Z",
+                        "signatureContactId": 146611,
+                        "signature": "this is a client signature"
+                    }
+                ],
+                "notes": [
+                    {
+                        "name": "{{name.id}}",
+                        "description": "{{description.id}}",
+                        "isRequired": true,
+                        "yesNo": {
+                            "value": true
+                        }
+                    },
+                    {
+                        "name": "named",
+                        "description": "descriptiond",
+                        "isRequired": true,
+                        "decimal": {
+                            "value": 12.345
+                        }
+                    },
+                    {
+                        "name": "namei",
+                        "description": "descriptioni",
+                        "isRequired": true,
+                        "integer": {
+                            "value": 12345
+                        }
+                    },
+                    {
+                        "name": "namedt",
+                        "description": "descriptiondt",
+                        "isRequired": false,
+                        "date": {
+                            "value": "2019-12-11T00:00:00.0000000Z"
+                        }
+                    },
+                    {
+                        "name": "namein",
+                        "description": "descriptionin",
+                        "isRequired": true,
+                        "input": {
+                            "value": "INPUT TEXT"
+                        }
+                    },
+                    {
+                        "name": "nametxt",
+                        "description": "descriptiontxt",
+                        "isRequired": true,
+                        "textArea": {
+                            "value": "<b>formatted text</b>"
+                        }
+                    },
+                    {
+                        "name": "names",
+                        "description": "descriptions",
+                        "isRequired": false,
+                        "single": {
+                            "options": [
+                                "a",
+                                "b",
+                                "c",
+                                "d",
+                                "e"
+                            ],
+                            "index": 2
+                        }
+                    },
+                    {
+                        "name": "namem",
+                        "description": "descriptionm",
+                        "isRequired": true,
+                        "multi": {
+                            "options": [
+                                "a",
+                                "b",
+                                "c",
+                                "d",
+                                "e"
+                            ],
+                            "indexes": [
+                                0,
+                                2,
+                                4
+                            ]
+                        }
+                    }
+                ],
+                "exceptions": [
+                    {
+                        "exceptionId": 40,
+                        "exception": "FeeScheduleRequired",
+                        "exceptionSeverity": "High",
+                        "exceptionText": "Service line [X] requires a fee schedule selection.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 27,
+                        "exception": "CopayMin",
+                        "exceptionSeverity": "High",
+                        "exceptionText": "Copay must be greater than 0.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 44,
+                        "exception": "SegmentStartModified",
+                        "exceptionSeverity": "Moderate",
+                        "exceptionText": "Service time has been modified from the captured values.  Please select a reason code to explain the modification.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 45,
+                        "exception": "SegmentEndModified",
+                        "exceptionSeverity": "Moderate",
+                        "exceptionText": "Service time has been modified from the captured values.  Please select a reason code to explain the modification.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 50,
+                        "exception": "ServiceAddressChange",
+                        "exceptionSeverity": "Moderate",
+                        "exceptionText": "Service Address has been changed from the captured values.  Please select a reason code to explain the change.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 51,
+                        "exception": "ServiceAddressNotValidated",
+                        "exceptionSeverity": "Moderate",
+                        "exceptionText": "The appointment service address has not been validated.  To avoid this error, please update the appointment service address.  Please review and enter an appropriate reason code.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    },
+                    {
+                        "exceptionId": 52,
+                        "exception": "LocationNotCaptured",
+                        "exceptionSeverity": "Moderate",
+                        "exceptionText": "Location was not captured on the mobile device.Please review and enter an appropriate reason code.",
+                        "exceptionDate": "2020-01-21T18:59:09.8730000Z",
+                        "exceptionOverride": false
+                    }
+                ]
+                
+                
+                
+            }
+        ]
+    }
+}
+

@@ -1,0 +1,14 @@
+{
+    "id": "4378",
+    "clientId": "3030850",
+    "clientName": "TEST TEST1",
+    "assessmentCount": 0,
+    "lastAssessmentDate": "",
+    "loaded": "",
+    "loading": true,
+    "questionCount": 0,
+    "assessments": [],
+    "datePretty": "Never",
+    "selectedAssessments": [],
+    "_utcOffsetMinutes": -180
+}

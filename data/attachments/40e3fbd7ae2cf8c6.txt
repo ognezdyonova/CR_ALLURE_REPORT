@@ -1,0 +1,14 @@
+{
+    "taskId": 6287162,
+    "assignedToContactId": 288525,
+    "_track": {
+        "channel": "tasks",
+        "action": "task/reassigned",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "isSupportTicket": false,
+    "_utcOffsetMinutes": 300
+}

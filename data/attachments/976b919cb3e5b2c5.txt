@@ -1,0 +1,14 @@
+{
+    "masterId": "350046573",
+    "scope": "private",
+    "price": "",
+    "license": "single-readonly",
+    "salesDescription": "",
+    "enforceProgression": "random",
+    "trackSession": "",
+    "categories": "",
+    "eventLevel": "",
+    "duration": "",
+    "instructorQualification": "",
+    "_utcOffsetMinutes": -180
+}

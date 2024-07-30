@@ -1,0 +1,10 @@
+{
+    "taskId": 6287162,
+    "sendCloseRequest": false,
+    "description": "qwe",
+    "attachmentIds": "175363526",
+    "isInternal": false,
+    "initialAttachments": false,
+    "isSupportTicket": false,
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Predicate","message":"lengthOfLunch should be between 30 and 60 and a multiple of 15","errors":[{"errorCode":"Predicate","fieldName":"LunchBreak.LengthOfLunch","message":"lengthOfLunch should be between 30 and 60 and a multiple of 15","meta":{"PropertyName":"LengthOfLunch","PropertyValue":"40"}}]},"failed":false,"cachedTime":0}

@@ -1,0 +1,45 @@
+{
+    "id": "",
+    "customCodeId": "303289",
+    "code": "",
+    "description": "",
+    "client": 353675,
+    "provider": 288525,
+    "clientRate": "25",
+    "providerRate": "15",
+    "clientName": "Matt Storm (Client ID: 353675)",
+    "providerName": "QA Therapy (Employee ID: 288525)",
+    "codeName": "Test30: ",
+    "selected": "",
+    "active": "",
+    "hovered": "",
+    "_dirty": true,
+    "isDirty": true,
+    "dirtySubscriptions": [
+        {
+            "da": "25",
+            "Hb": false
+        },
+        {
+            "da": "15",
+            "Hb": false
+        }
+    ],
+    "newCustomRateAlreadyExists": false,
+    "validation": {
+        "client": 353675,
+        "provider": 288525,
+        "clientRate": "25",
+        "providerRate": "15",
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/code/customrate/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": -180
+}

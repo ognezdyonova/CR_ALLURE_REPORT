@@ -1,0 +1,1 @@
+{"employees":[{"employeeId":317568,"contactName":"another test","isAlreadyInGroup":true,"hasHireDate":true}],"take":25,"offset":0,"totalCount":1,"result":"OK","failed":false,"cachedTime":0}

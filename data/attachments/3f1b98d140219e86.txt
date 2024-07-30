@@ -1,0 +1,20 @@
+{
+    "id": null,
+    "name": "new retirement plan JN80oXXA",
+    "typeId": 6,
+    "startDate": "2018-12-18T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "description": "new description G8I5El6ZAPqQf3147Z9PMa7Ho",
+    "url": "https://test.com",
+    "benefitGroups": [],
+    "coverageOptions": [],
+    "reimbursementInterval": null,
+    "reimbursementAmount": 0,
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "name": true,
+        "startDate": true,
+        "endDate": true,
+        "reimbursementAmount": true
+    }
+}

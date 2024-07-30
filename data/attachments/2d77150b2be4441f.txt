@@ -1,0 +1,6 @@
+{
+    "id": 194954,
+    "startDate": "2019-03-18",
+    "endDate": "",
+    "isHidden": false
+}

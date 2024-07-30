@@ -1,0 +1,1 @@
+{"cacheExpires":"07/30/2024 15:05:00","success":true,"requesttime":0,"cacheKey":"","mealTypes":[{"Code":"breakfast","Description":"Breakfast"},{"Code":"dinner","Description":"Dinner"},{"Code":"lunch","Description":"Lunch"},{"Code":"snack","Description":"Snack"}],"cacheDate":"07/30/2024 12:05:00","querytime":0,"result":"ok"}

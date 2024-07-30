@@ -1,0 +1,1 @@
+{"results":[{"contactId":288525,"gatewayId":1,"defaultIntegrationSettings":false,"statusCode":0,"createdOn":"0001-01-01T00:00:00.0000000Z","createdByContactId":0},{"contactId":288525,"gatewayId":6,"defaultIntegrationSettings":false,"statusCode":0,"createdOn":"0001-01-01T00:00:00.0000000Z","createdByContactId":0}],"result":"OK","failed":false,"cachedTime":1722340998343}

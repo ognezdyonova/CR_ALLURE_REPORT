@@ -1,0 +1,20 @@
+{
+    "id": "",
+    "code": "testAPI",
+    "description": "",
+    "deletedDate": "",
+    "deletedBy": "",
+    "isPresent": "",
+    "isExcused": "",
+    "isUnExcused": "",
+    "isOther": "",
+    "parentId": "",
+    "payors": [],
+    "children": [],
+    "editing": false,
+    "validation": {
+        "code": "testAPI",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,11 @@
+{
+    "Referer": "",
+    "accept": "application/json",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "23044e93-6551-48eb-99a0-276895b681fe",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "ss-id=MPIOHtuKd5MoU8HbONS7; ss-pid=1jkn6CgpVkbIq04yIAHC; ss-opt=temp"
+}

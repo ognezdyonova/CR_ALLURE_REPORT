@@ -1,0 +1,1 @@
+{"verificationInfo":{"verifiedBy":288525,"verifiedOn":"2024-07-30T12:05:18.9700000Z","verifiedByName":"QA Therapy","resourceName":"Test Client 3031052"},"result":"OK","failed":false,"cachedTime":0}

@@ -1,0 +1,11 @@
+{
+    "id": "49256",
+    "name": "New meta data field",
+    "groupId": "null",
+    "description": "",
+    "contactType": 572,
+    "type": "input",
+    "options": "",
+    "displayOnFacesheet": false,
+    "_utcOffsetMinutes": 240
+}

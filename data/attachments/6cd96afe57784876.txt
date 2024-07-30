@@ -1,0 +1,60 @@
+{
+    "contactForm": "partnersEmployeeForm L3Jbx",
+    "externalSystemId": partnersEmpExtIdS7mHIB,
+    "hireDate": 2024-07-30,
+    "terminationDate": "",
+    "firstName": "partnersEmpFNdiqMkQ",
+    "middleInitial": "K",
+    "lastName": "partnersEmpLNzGgPoE",
+    "chosenName": "partnersEmpCNQ6JVDb",
+    "primaryEmail": email5cdpBb@centralreach.com,
+    "title": "Mr",
+    "gender": "Male",
+    "addressLine1": "30 Applewood Ct",
+    "addressLine2": "address line 2test",
+    "city": "Metuchen",
+    "stateProvince": "NJ",
+    "zipPostalCode": "08843",
+    "phoneHome": "1212121212",
+    "phoneCell": "1313131313",
+    "dateOfBirth": "1990-04-07",
+    "language": "Polish",
+    "credentials": "BCBA, ABA",
+    "ssn": "908765435",
+    "npiNumber": "9876543210",
+    "medicaidId": "MedicaidIdTest",
+    "g2Number": "G2NumberTest",
+    "bhpnId": "BHPNIdTest",
+    "jobTitle": "JobTitleTest",
+    "payrollCompany": "PayrollCompanyTest",
+    "department": "Billing",
+    "payrollEmployeeNumber": "PayrollEmployeeNumberTest",
+    "company": "CompanyTest",
+    "employeeType": "PT",
+    "payTypes": [
+        {
+            "name": "Taxed",
+            "startDate": "2023-06-01",
+            "endDate": ""
+        },
+        {
+            "name": "Salary",
+            "startDate": "2023-07-01",
+            "endDate": ""
+        },
+        {
+            "name": "Drive time",
+            "startDate": "2023-07-01",
+            "endDate": ""
+        }
+    ],
+    "payCodes": [
+        {
+            "name": "Admin",
+            "rate": "16.56"
+        }
+    ],
+    "providerDriveTimeHourlyRate": "1234.46",
+    "providerMileageRate": "43.16",
+    "primaryOfficeLocation": ""
+}

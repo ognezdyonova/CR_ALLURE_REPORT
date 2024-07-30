@@ -1,0 +1,4 @@
+{
+    "BatchSize": 1,
+    "ConversionFormat": "pdf"
+}

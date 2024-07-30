@@ -1,0 +1,1 @@
+{"data":null,"errors":["\"query\" must NOT have fewer than 1 characters"],"meta":{"provider":"azure","providerStatusCode":400}}

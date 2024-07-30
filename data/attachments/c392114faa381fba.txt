@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'PostCriteriaTargetsRequest'","errors":[{"errorCode":"SerializationException","fieldName":"ItemId","message":"'{{learnDataBundlesItemId}}' is an Invalid value for 'ItemId'"}]}}

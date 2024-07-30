@@ -1,0 +1,22 @@
+{
+    "id": -1,
+    "name": "Name Employee formQDtLu",
+    "description": "",
+    "contactType": 572,
+    "formType": "Employee",
+    "isPublic": true,
+    "applyContactLabels": "",
+    "assignServiceCodesWithLabels": "",
+    "assignPermissionGroups": "",
+    "sharing": [],
+    "notifyContacts": "",
+    "giveLearningTrees": "",
+    "taskTemplates": [],
+    "files": [],
+    "fields": [],
+    "emailSubject": "",
+    "emailBody": "",
+    "sendWelcomeEmail": true,
+    "postSubmitRedirectURL": "",
+    "_utcOffsetMinutes": -180
+}

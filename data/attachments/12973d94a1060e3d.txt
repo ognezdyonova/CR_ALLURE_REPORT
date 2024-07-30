@@ -1,0 +1,1 @@
+{"cacheExpires":"07/30/2024 15:06:06","success":true,"requesttime":15,"cacheKey":"","list":[{"Id":688,"OrganizationId":288525,"DeletedDate":"","Description":"","Name":"Test template","CreationDate":"10/11/2016 19:14:24","IsGlobal":""}],"cacheDate":"07/30/2024 12:06:06","querytime":0,"result":"ok"}

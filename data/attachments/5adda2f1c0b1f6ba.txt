@@ -1,0 +1,7 @@
+level: log, messages: Export does not have organizationId
+level: log, messages: Export does not have contactId
+level: log, messages: Export does not have resourceId
+level: log, messages: Export does not have request
+level: log, messages: Export does not have creationDate
+level: log, messages: Export does not have cacheDays
+level: log, messages: Status sent for case: TR does not supported

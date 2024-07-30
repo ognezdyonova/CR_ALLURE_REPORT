@@ -1,0 +1,1 @@
+{"resource":{"id":21389445,"resourceId":175363556,"resourceName":"Test Client2 3031266","groupId":411,"groupName":"Employee Documentation","templateName":"I9 ","effectiveDate":"2018-11-11T00:00:00.0000000+00:00","noExpirationDate":true,"templateTypeId":3799,"resourceNumber":"string"},"result":"OK","failed":false,"cachedTime":0}

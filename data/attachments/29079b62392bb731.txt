@@ -1,0 +1,6 @@
+{
+    "codePackets": {
+        "measurementUnitDistanceTypes": "measurement-unit-distance"
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,13 @@
+{
+    "id": "",
+    "name": "externalEmployee7AppointmentTypeVI1ujS",
+    "description": "desc test",
+    "hours": "0",
+    "minutes": "30",
+    "secLength": 1800,
+    "validation": {
+        "name": "externalEmployee7AppointmentTypeVI1ujS",
+        "secLength": 1800,
+        "errors": []
+    }
+}

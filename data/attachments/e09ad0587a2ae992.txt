@@ -1,0 +1,44 @@
+{
+    "id": 2065,
+    "name": "New template 11111111111",
+    "description": "11111111111",
+    "questions": [],
+    "associations": [],
+    "_dirty": false,
+    "isDirty": false,
+    "dirtySubscriptions": [
+    ],
+    "loaded": false,
+    "newTemplateAssociationVm": {
+        "id": "",
+        "serviceCode": "",
+        "provider": "",
+        "client": "",
+        "serviceCodeId": "",
+        "providerId": "",
+        "clientId": ""
+    },
+    "isRequiredOptions": [
+        {
+            "display": "Is required",
+            "value": true
+        },
+        {
+            "display": "Is optional",
+            "value": false
+        }
+    ],
+    "validation": {
+        "questions": [],
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "notestemplates/template",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

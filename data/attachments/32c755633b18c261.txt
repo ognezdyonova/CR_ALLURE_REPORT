@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:09:29","requesttime":17,"fields":{"description":"","clientRate":"","Id":68419167,"providerName":"Q. Therapy","code":"Code nameePGHG","clientName":"n/a","client":"","customCodeId":303308,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:09:29","querytime":0,"result":"ok"}

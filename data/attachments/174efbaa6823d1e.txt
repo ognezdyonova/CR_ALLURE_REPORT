@@ -1,0 +1,89 @@
+{
+    "timesheet": {
+        "status": "Draft",
+        "organizationContactId": 288525,
+        "insuranceId": null,
+        "providerSupplierId": 288525,
+        "billingId": 288525,
+        "referrerId": 288525,
+        "locationId": 288525,
+        "segments": [
+            {
+                "timesheetSegmentId": 0,
+                "organizationContactId": 288525,
+                "providerContactId": 3031223,
+                "schedulingSegmentId": 767110654,
+                "serviceDateScheduled": "2024-07-31T00:00:00.0000000Z",
+                "serviceDate": "2024-07-31T00:00:00+00:00",
+                "timeZone": "America/New_York",
+                "startTimeScheduled": 36000,
+                "startTime": 36000,
+                "endTimeScheduled": 39600,
+                "endTime": 39600,
+                "driveTime": 0,
+                "driveMileage": 0,
+                "serviceNote": "",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false,
+                "rates": [
+                    {
+                        "feeScheduleId": 5380,
+                        "unitsOfService": 1,
+                        "copayAmount": 0,
+                        "rateProvider": "0.00",
+                        "rateClient": "100.00",
+                        "rateClientAgreed": "100.00",
+                        "rateProviderDriveHourly": "0.000",
+                        "rateProviderDriveMileage": "0.000",
+                        "rateClientDriveHourly": "12.00",
+                        "rateClientDriveMileage": "12.00"
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    }
+                ],
+                "pointers": [],
+                "signatures": [],
+                "resources": [],
+                "notes": [
+                    {
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "isRequired": true,
+                        "single": {
+                            "options": [
+                                "yes"
+                            ],
+                            "index": "0"
+                        },
+                        "answeredOn": "2024-07-31T07:10:36+00:00",
+                        "answeredBy": 288525,
+                        "billingNoteId": null
+                    }
+                ],
+                "sessionNotes": [],
+                "exceptions": [],
+                "eventPlaceOfServiceId": 0,
+                "authorizationId": null,
+                "procedureCodeId": 303259,
+                "serviceLocationId": 0
+            }
+        ],
+        "diagnosisCodes": [],
+        "exceptions": []
+    }
+}

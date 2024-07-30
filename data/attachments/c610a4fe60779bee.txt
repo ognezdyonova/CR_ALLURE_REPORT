@@ -1,0 +1,18 @@
+{
+    "template": {
+        "__validationConfigured": true,
+        "creationDate": null,
+        "description": "",
+        "id": null,
+        "name": "test",
+        "isShared": false,
+        "owner": "",
+        "sortOrder": "",
+        "templateItems": [],
+        "error": "",
+        "isPermanentlyShared": false,
+        "validationModifiedTracker": {
+            "name": true
+        }
+    }
+}

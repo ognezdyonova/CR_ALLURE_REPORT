@@ -1,0 +1,6 @@
+{
+    "providerId": 288525,
+    "search": "tes",
+    "skipPermitted": true,
+    "_utcOffsetMinutes": 300
+}

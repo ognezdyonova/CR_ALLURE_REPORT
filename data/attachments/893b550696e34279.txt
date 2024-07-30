@@ -1,0 +1,6 @@
+{
+    "name": "new bundle labeloOo2DCVA0w1K",
+    "parentId": 0,
+    "color": "999999|ffffff",
+    "isOrgLabel": false
+}

@@ -1,0 +1,5 @@
+{
+    "calendar": 288525,
+    "colors": "666666|ffffff",
+    "_utcOffsetMinutes": 300
+}

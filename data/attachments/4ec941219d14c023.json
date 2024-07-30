@@ -1,0 +1,16 @@
+{
+    "Date": "Tue, 30 Jul 2024 12:07:46 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Cache-Control": "max-age=5, must-revalidate, private",
+    "Last-Modified": "Tue, 30 Jul 2024 12:07:46 GMT",
+    "ETag": "4lEE4JhqF4FR59DwfSrK3MnG47sy73S8nHKa5a6EyNc=",
+    "Vary": "Accept",
+    "Server": "Microsoft-HTTPAPI/2.0",
+    "Access-Control-Allow-Origin": "https://beta-ent-dev-members.env.centralreach.com",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Allow-Methods": "POST, GET, DELETE, PATCH, PUT, OPTIONS",
+    "Access-Control-Allow-Headers": "X-Requested-With, X-Trace-QueryText, X-CrApi-AuthSecret, X-CrApi-Token, X-CrApi-ClientSource, X-CrApi-TimezoneOffset, X-ss-pid, X-ss-id, Content-Type",
+    "X-Powered-By": "ServiceStack/5.140 Net45/Windowsnetfx/NO"
+}

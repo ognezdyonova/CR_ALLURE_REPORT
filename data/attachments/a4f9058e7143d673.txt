@@ -1,0 +1,173 @@
+{
+  "timesheet": {
+    "status": "draft",
+    "organizationContactId": 288525,
+    "insuranceId": 1025305,
+    "providerSupplierId": 288525,
+    "billingId": 288525,
+    "referrerId": 288525,
+    "locationId": 288525,
+    "segments": [
+      {
+        "timeZone": "America/New_York",
+        "timesheetSegmentId": 0,
+        "organizationContactId": 288525,
+        "providerContactId": 288525,
+        "schedulingSegmentId": "767110711",
+        "serviceDateScheduled": "2020-04-01T00:00:00.0000000Z",
+        "serviceDate": "2020-04-01T00:00:00+00:00",
+        "startTimeScheduled": 63000,
+        "startTime": 19800,
+        "endTimeScheduled": 70200,
+        "endTime": 70200,
+        "driveTimeScheduled": 80,
+        "driveTime": 80,
+        "driveMileageScheduled": 45.7,
+        "driveMileage": 45.7,
+        "procedureCodeIdScheduled": 148734,
+        "procedureCodeId": 148734,
+        "serviceNote": "This is testing draft Timesheets 1qlFs",
+        "serviceNotePublic": false,
+        "adminNote": "",
+        "serviceLocationIdScheduled": 10,
+        "serviceLocationId": 10,
+        "serviceLocationAddressIdScheduled": 1184424,
+        "serviceLocationAddressId": 1159941,
+        "isLocked": false,
+        "isVoid": false,
+        "isDeleted": false,
+        "skipWarnings": false,
+        "rates": [
+          {
+            "feeScheduleId": null,
+            "unitsOfService": 28,
+            "copayAmount": null,
+            "rateProvider": 15,
+            "rateClient": 25,
+            "rateClientAgreed": 25,
+            "rateProviderDriveHourly": 0,
+            "rateProviderDriveMileage": 0,
+            "rateClientDriveHourly": 0,
+            "rateClientDriveMileage": 0
+          }
+        ],
+        "modifiers": [],
+        "pointers": [
+          {
+            "pointer": "1"
+          },
+          {
+            "pointer": "2"
+          },
+          {
+            "pointer": "3"
+          }
+        ],
+        "signatures": [],
+        "resources": [],
+        "notes": [
+          {
+            "name": "Do you certify that you have taken all rest breaks etc...",
+            "isRequired": false,
+            "single": {
+              "options": [
+                "yes"
+              ]
+            },
+            "answeredOn": "1900-01-01T00:00:00+00:00",
+            "answeredBy": 0
+          }
+        ],
+        "exceptions": [
+          {
+            "exceptionId": 1,
+            "exception": "Undefined",
+            "exceptionSeverity": "Fatal",
+            "exceptionText": "Insufficient permissions to modify Timesheet Segment property: 'Patient Responsibility'",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 37,
+            "exception": "ClientSignatureRequired",
+            "exceptionSeverity": "High",
+            "exceptionText": "Service line [1] requires a client signature.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 148,
+            "exception": "ClientSignatureNameRequired",
+            "exceptionSeverity": "High",
+            "exceptionText": "Please type client name when signing.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 38,
+            "exception": "ProviderSignatureRequired",
+            "exceptionSeverity": "High",
+            "exceptionText": "Please sign the timesheet where required.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 39,
+            "exception": "ProviderSignatureNameRequired",
+            "exceptionSeverity": "High",
+            "exceptionText": "Please type your name when signing.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 44,
+            "exception": "SegmentStartModified",
+            "exceptionSeverity": "Moderate",
+            "exceptionText": "Service time has been modified from the captured values.  Please select a reason code to explain the modification.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 50,
+            "exception": "ServiceAddressChange",
+            "exceptionSeverity": "Moderate",
+            "exceptionText": "Service Address has been changed from the captured values.  Please select a reason code to explain the change.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 52,
+            "exception": "LocationNotCaptured",
+            "exceptionSeverity": "Moderate",
+            "exceptionText": "Location was not captured on the mobile device.Please review and enter an appropriate reason code.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          },
+          {
+            "exceptionId": 43,
+            "exception": "DurationTooLong",
+            "exceptionSeverity": "Moderate",
+            "exceptionText": "The appointment duration is longer than the authorized appointment duration on the schedule.  Please review and enter an appropriate reason code.",
+            "exceptionDate": "2020-04-01T06:54:59.2244206+00:00",
+            "exceptionOverride": false
+          }
+        ],
+        "authorizationId": null
+      }
+    ],
+    "diagnosisCodes": [
+      {
+        "diagnosisCodeId": 31329,
+        "position": 1
+      },
+      {
+        "diagnosisCodeId": 21802,
+        "position": 2
+      },
+      {
+        "diagnosisCodeId": 38653,
+        "position": 3
+      }
+    ]
+  }
+}

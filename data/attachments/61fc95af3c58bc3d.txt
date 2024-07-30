@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'ClientPreferredProvidersQuery'","errors":[{"errorCode":"SerializationException","fieldName":"ClientId","message":"'testClientId' is an Invalid value for 'ClientId'"}]}}

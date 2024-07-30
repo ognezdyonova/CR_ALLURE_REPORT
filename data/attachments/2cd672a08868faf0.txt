@@ -1,0 +1,7 @@
+{
+    "providerId": "288525",
+    "providerType": "ClinicalDirector",
+    "startDate": "2019-03-18",
+    "endDate": "2019-11-31",
+    "isHidden": false
+}

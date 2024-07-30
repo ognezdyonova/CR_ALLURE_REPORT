@@ -1,0 +1,49 @@
+{
+    "id": null,
+    "name": "new health plan ziIrelHN",
+    "typeId": 1,
+    "startDate": "2018-12-18T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "description": "new description fwP5RtIxuhJiihMzxS2lQhYPu",
+    "url": "https://test.com",
+    "benefitGroups": [],
+    "coverageOptions": [
+        {
+            "coverageType": "Employee",
+            "coverageAmount": "76"
+        },
+        {
+            "coverageType": "EmployeeAndSpouse",
+            "coverageAmount": "76"
+        },
+        {
+            "coverageType": "EmployeeAndChild",
+            "coverageAmount": "76"
+        },
+        {
+            "coverageType": "EmployeeAndChildren",
+            "coverageAmount": "76"
+        },
+        {
+            "coverageType": "EmployeeAndFamily",
+            "coverageAmount": "76"
+        },
+        {
+            "coverageType": "FamilyOnly",
+            "coverageAmount": "76"
+        },
+        {
+            "coverageType": "TwoParty",
+            "coverageAmount": "76"
+        }
+    ],
+    "reimbursementInterval": null,
+    "reimbursementAmount": 0,
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "name": true,
+        "startDate": true,
+        "endDate": true,
+        "reimbursementAmount": true
+    }
+}

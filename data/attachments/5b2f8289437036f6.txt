@@ -1,0 +1,50 @@
+{
+  "payorType": "4",
+  "payorNickname": "primaryname1",
+  "Notes": "primarynotes1",
+  "Insurance": {
+    "companyId": "97", 
+    "planId":"2068" , 
+    "coverageFrom": "2023-01-10", 
+    "coverageTo": "2029-10-18",
+    "coPayType": "%", 
+    "coPayAmount": "5.67",
+    "coPayFrequency": "weekly",
+    "status": "1", 
+    "insuranceContactPhone": "1111111111",
+    "insuranceContactPerson": "contactpersontest",
+    "groupNumber": "gnumbertest",
+    "groupName": "gnametest",
+
+    "SubscriberInfo": {
+      "FirstName": "SFN1", 
+      "MiddleInitial": "K", 
+      "LastName": "SLN1", 
+      "BirthDate": "1990-09-03", 
+      "Gender": "f",
+      "SSN": "123456789",
+      "SubscriberId": "S13131313",
+      "Address": "91 Maple Ct", 
+      "AddressLine2": "addr2test", 
+      "City": "Highland Pk", 
+      "State": "NJ", 
+      "Zip": "08904"
+    },
+    
+    "PatientInfo": {
+      "FirstName": "PFN1", 
+      "MiddleInitial": "Z",
+      "LastName": "PLN1", 
+      "RelationType": "other relationship", 
+      "BirthDate": "1985-10-08", 
+      "Gender": "m", 
+      "SubscriberId": "S12345678",
+      "Address": "29 Vincent Behan Blvd", 
+      "AddressLine2": "sazsfsf",
+      "City": "Edison", 
+      "State": "NJ", 
+      "Zip": "08837" 
+    }
+    
+  }
+}

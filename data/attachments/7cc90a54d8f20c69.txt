@@ -1,0 +1,30 @@
+{
+    "contactId": 1084143,
+    "id": "",
+    "createdBy": "",
+    "createdByName": "",
+    "creationDate": "",
+    "deletedBy": "",
+    "deletedDate": "",
+    "modifiedBy": "",
+    "modifiedByName": "",
+    "dateTaken": "2022-02-01 05:53",
+    "note": "123",
+    "canEdit": "",
+    "privacy": "2",
+    "hideFromContact": "",
+    "noteInfo": false,
+    "dateTakenInvalid": false,
+    "dateTakenTime": "5:53 AM",
+    "dateTakenDate": "2022-02-01T10:53:16.754Z",
+    "measurementSite": "bust_circumference",
+    "measurementValue": "123",
+    "measurementUnit": "cm",
+    "validation": {
+        "dateTakenDate": "2022-02-01T10:53:16.754Z",
+        "measurementValue": "123",
+        "errors": []
+    },
+    "addedMeasurements": [],
+    "_utcOffsetMinutes": 300
+}

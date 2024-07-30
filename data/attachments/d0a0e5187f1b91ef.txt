@@ -1,0 +1,22 @@
+{
+    "id": -1,
+    "name": "Name Generic formMDQN6",
+    "description": "",
+    "contactType": 572,
+    "formType": "Generic",
+    "isPublic": true,
+    "applyContactLabels": "",
+    "assignServiceCodesWithLabels": "",
+    "assignPermissionGroups": "",
+    "sharing": [],
+    "notifyContacts": "",
+    "giveLearningTrees": "",
+    "taskTemplates": [],
+    "files": [],
+    "fields": [],
+    "emailSubject": "",
+    "emailBody": "",
+    "sendWelcomeEmail": true,
+    "postSubmitRedirectURL": "",
+    "_utcOffsetMinutes": -180
+}

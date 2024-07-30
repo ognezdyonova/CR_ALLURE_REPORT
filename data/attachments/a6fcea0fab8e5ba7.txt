@@ -1,0 +1,27 @@
+{
+    "nextPaymentDate": null,
+    "id": null,
+    "assetTypeId": "2",
+    "assetTypeName": null,
+    "assignedTo": 3031206,
+    "assignedToDisplayName": test test test test (Client ID: 3031206),
+    "brand": "",
+    "vendor": "",
+    "model": "",
+    "serialNumber": "",
+    "fixedCost": 0,
+    "recurringCost": 0,
+    "recurringCostIntervalPeriod": 0,
+    "recurringCostIntervalUnit": "Monthly",
+    "purchasedBy": "288525",
+    "purchasedByDisplayName": "QA Therapy",
+    "purchaseDate": "2019-04-22T07:50:16.888Z",
+    "labels": [],
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "fixedCost": true,
+        "recurringCost": true,
+        "purchasedBy": true,
+        "purchaseDate": true
+    }
+}

@@ -1,0 +1,1 @@
+{"activities":[],"activityTypes":[{"id":1,"name":"Other","organizationId":0}],"result":"OK","failed":false,"cachedTime":1722340986386}

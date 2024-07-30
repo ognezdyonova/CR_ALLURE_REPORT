@@ -1,0 +1,1 @@
+{"fields":{"color":"492146|ffffff","ownerContactId":288525,"isDeleted":false,"labelId":5804,"name":"new message labeli16cNMYWpNt8","parentLabelId":0},"result":"OK","failed":false,"cachedTime":0}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "id": "0",
+            "organizationId": 0,
+            "userId": "288525",
+            "startTimestamp": "2017-05-03",
+            "endTimestamp": "2018-11-16",
+            "elapsedMilliseconds": 0,
+            "ipAddress": "1.1.1.1",
+            "module": "test_module",
+            "action": "test_action",
+            "notificationType": "test_notify_type",
+            "notificationData": "test_notify_data OMMAM8WME6LIYZNKPD",
+            "notifiedContactIds": [],
+            "recordId": 0
+        }
+    ]
+}

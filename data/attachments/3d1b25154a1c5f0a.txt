@@ -1,0 +1,77 @@
+{
+    "masterId": "350047702",
+    "itemId": "350047703",
+    "testId": "2817140",
+    "totalToPass": "",
+    "totalCredits": "",
+    "requireLicenseNumber": "",
+    "requireCertNumber": "",
+    "requireMembershipNumber": "",
+    "certificateText": "",
+    "timedTest": "",
+    "questions": [
+        {
+            "id": 1,
+            "testid": "",
+            "name": "New Question 1",
+            "description": "sdfsdf",
+            "sortorder": 1,
+            "feedback": "",
+            "ref": "",
+            "masterId": "350047702",
+            "testanswers": [
+                {
+                    "id": 1,
+                    "questionid": 1,
+                    "name": "Test answer 1",
+                    "isright": true,
+                    "isanswer": "",
+                    "sortOrder": 0,
+                    "newAnswer": false
+                },
+                {
+                    "id": 2,
+                    "questionid": 1,
+                    "name": "Test answer 2",
+                    "isright": false,
+                    "isanswer": "",
+                    "sortOrder": 1,
+                    "newAnswer": false
+                }
+            ],
+            "isNameActive": false,
+            "isDescActive": false,
+            "activeStatus": "complete-QA",
+            "chosenAnswer": {
+                "id": "",
+                "questionid": "",
+                "name": "",
+                "isright": "",
+                "isanswer": "",
+                "sortOrder": "",
+                "newAnswer": true
+            },
+            "rightAnswer": {
+                "id": 1,
+                "questionid": 1,
+                "name": "Answer 2",
+                "isright": true,
+                "isanswer": "",
+                "sortOrder": 0,
+                "newAnswer": false
+            },
+            "chosenAnswerId": "",
+            "rightAnswerId": 1,
+            "questionIsRight": "",
+            "lackingCorrectAnswer": false,
+            "canMoveUp": false,
+            "canMoveDown": false,
+            "validation": {
+                "name": "New Question 2",
+                "errors": []
+            },
+            "sortedAnswerIds": "1,2"
+        }
+    ],
+    "_utcOffsetMinutes": -180
+}

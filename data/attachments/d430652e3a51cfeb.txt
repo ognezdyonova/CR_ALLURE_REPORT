@@ -1,0 +1,54 @@
+{
+    "id": 20234570,
+    "settingsId": 9069244,
+    "frequency": "monthly",
+    "serviceCode": "0368",
+    "serviceCodeDescription": "0368 Test Code",
+    "serviceCodeId": 66867,
+    "authorizedAmount": "12",
+    "authorizedUnits": "12",
+    "authorizedHours": "21",
+    "authorizedVisits": "12",
+    "totalAmount": "12",
+    "totalUnits": "12",
+    "totalHours": "12",
+    "totalVisits": "12",
+    "authorizedCode": "0368: 0368 Test Code",
+    "usageRestriction": "1",
+    "minMinutesPerUse": "30",
+    "maxMinutesPerUse": "30",
+    "sortOrder": 0,
+    "deletedDate": "",
+    "deletedBy": "",
+    "placeOfServiceId": "",
+    "clientAcceptedHours": "",
+    "clientAcceptedHoursFrequency": "weekly",
+    "firstDayOfWeek": "",
+    "isIdInHash": false,
+    "messageBus": {
+        "subscriptions": [{
+                "source": "*",
+                "messageName": "auth-codeSaved",
+                "active": true
+            }
+        ],
+        "trackedSubscriptions": []
+    },
+    "validation": {
+        "serviceCodeId": 66867,
+        "authorizedAmount": "12",
+        "authorizedUnits": "12",
+        "authorizedHours": "21",
+        "authorizedVisits": "12",
+        "totalAmount": "12",
+        "totalUnits": "12",
+        "totalHours": "12",
+        "totalVisits": "12",
+        "minMinutesPerUse": "30",
+        "maxMinutesPerUse": "30",
+        "clientAcceptedHours": "",
+        "clientAcceptedHoursFrequency": "weekly",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,12 @@
+{
+    "id": 10616,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "notestemplates/relation/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

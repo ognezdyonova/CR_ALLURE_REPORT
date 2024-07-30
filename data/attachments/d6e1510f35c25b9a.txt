@@ -1,0 +1,14 @@
+{
+  "masterId": 350047685,
+  "itemId": {{learnDataBundlesItemId}},
+  "goalId": {{learnDataItemGoalId}},
+  "dateInitiated": "2024-07-30",
+  "status": 1,
+  "assessmentId": "",
+  "domainId": 0,
+  "responsibilityId": 0,
+  "dateProgress": "2024-07-30",
+  "saveAll": false,
+  "skip": "",
+  "selectedFunctionIds": ""
+}

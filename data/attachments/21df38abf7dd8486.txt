@@ -1,0 +1,28 @@
+{
+    "id": 16178,
+    "name": "Copy of TEST",
+    "description": "log",
+    "createdBy": "",
+    "organizationId": 288525,
+    "isGlobal": false,
+    "questions": [],
+    "loaded": false,
+    "isProtected": false,
+    "isRequiredOptions": [
+        {
+            "display": "Is required",
+            "value": true
+        },
+        {
+            "display": "Is optional",
+            "value": false
+        }
+    ],
+    "validation": {
+        "name": "Copy of TEST",
+        "description": "log",
+        "questions": [],
+        "errors": []
+    },
+    "_utcOffsetMinutes": 240
+}

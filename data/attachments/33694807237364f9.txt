@@ -1,0 +1,10 @@
+{
+    "visibility": "",
+    "visibleToContact": false,
+    "activityTypeId": 1,
+    "activityDate": "",
+    "activityLength": "",
+    "name": "Name activity-types9Mez",
+    "description": "",
+    "labelIds": []
+}

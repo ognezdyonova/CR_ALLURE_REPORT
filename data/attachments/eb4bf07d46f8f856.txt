@@ -1,0 +1,30 @@
+{
+    "contactId": 1084143,
+    "id": "",
+    "createdBy": "",
+    "createdByName": "",
+    "creationDate": "",
+    "deletedBy": "",
+    "deletedDate": "",
+    "modifiedBy": "",
+    "modifiedByName": "",
+    "dateTaken": "2022-02-02 02:18",
+    "note": "2",
+    "canEdit": "",
+    "privacy": "2",
+    "hideFromContact": "",
+    "noteInfo": false,
+    "dateTakenInvalid": false,
+    "dateTakenTime": "2:18 AM",
+    "dateTakenDate": "2022-02-02T07:18:55.418Z",
+    "height": "100",
+    "inches": "",
+    "measurementType": "cm",
+    "validation": {
+        "dateTakenDate": "2022-02-02T07:18:55.418Z",
+        "height": "100",
+        "inches": "",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

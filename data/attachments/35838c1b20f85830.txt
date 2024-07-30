@@ -1,0 +1,114 @@
+{
+    "timesheet": {
+        "organizationContactId": "288525",
+        "schedulingEventId": "613294460",
+        "schedulingCourseId": "146874033",
+        "clientContactId": "353675",
+        "insuranceId": "2384284",
+        "referrerId": "288525",
+        "managerId": "0",
+        "billingId": "288525",
+        "locationId": "288525",
+        "providerSupplierId": "288525",
+        "status": "Draft",
+        "source": "mobile",
+        "creationDate": "2024-07-30T12:05:55.2805706Z",
+        "diagnosisCodes": [
+        	{
+                "diagnosisCodeId": 38653
+            },
+            {
+                "diagnosisCodeId": 21802
+            },
+            {
+                "diagnosisCodeId": 31329
+            }
+            ],
+        "segments": [
+            {
+                "timesheetSegmentId": "0",
+                "organizationContactId": "288525",
+                "providerContactId": "288525",
+                "schedulingSegmentId": "767110667" ,
+                "position": "null",
+                "serviceDateScheduled": "2024-07-30T00:00:00.0000000Z",
+                "serviceDate": "2024-07-30T00:00:00.0000000Z",
+                "startTimeScheduled": "63000",
+                "startTimeOriginal": "null",
+                "startTime": "68000",
+                "endTimeScheduled": "70200",
+                "endTimeOriginal": "null",
+                "endTime": "70200",
+                "driveTimeScheduled": "80",
+                "driveTime": "80",
+                "driveMileageScheduled": "45.7",
+                "driveMileage": "45.7",
+                "procedureCodeIdScheduled": "66865",
+                "procedureCodeId": "66865",
+                "serviceNote": "This is testing draft Timesheets - change",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "serviceLocationIdScheduled": "null",
+                "serviceLocationId": "null",
+                "serviceLocationAddressIdScheduled": "null",
+                "serviceLocationAddressIdOriginal": "null",
+                "serviceLocationAddressId": "null",
+                "rates": [
+                	{
+                		"feeScheduleId": 5373,
+                        "unitsOfService": "1",
+                        "copayAmount": 0,
+                        "rateProvider": "100",
+                        "rateClient": "2.58",
+                        "rateClientAgreed": "25.58",
+                        "rateProviderDriveHourly": "0",
+                        "rateClientDriveHourly": "52",
+                        "rateProviderDriveMileage": "0",
+                        "rateClientDriveMileage": "52"
+                    }
+                    ],
+                "modifiers": [],
+                "pointers": [
+                	{
+                        "pointer": "1"
+                    }
+                    ],
+                "signatures": [
+                	{
+                        "signatureIP": "123.45.67.89",
+                        "signatureSource": "mobile",
+                        "signatureName": "Provider Name",
+                        "signatureType": "provider",
+                        "signatureDate": "2024-07-30T00:00:00.0000000Z",
+                        "signatureContactId": "288525",
+                        "signature": "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"
+                    },
+                	{
+                		"signatureIP": "123.45.67.89",
+                        "signatureSource": "mobile",
+                        "signatureName": "Client Name",
+                        "signatureType": "client",
+                        "signatureDate": "2024-07-30T00:00:00.0000000Z",
+                        "signatureContactId": "353675",
+                        "signature": "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"
+          	}  ],
+                "resources": [],
+                "notes": [
+                	{
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "isRequired": false,
+                        "answeredBy": 0,
+                        "answeredOn": "1900-01-01T00:00:00.0000000Z",
+                        "single": {
+                            "options": [
+                                "yes"
+                            ]
+                        }
+                    }
+                	],
+                "exceptions": []
+            }
+        ],
+        "exceptions": []
+    }
+    }

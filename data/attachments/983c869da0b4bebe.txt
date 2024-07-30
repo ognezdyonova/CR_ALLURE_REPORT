@@ -1,0 +1,15 @@
+{
+    "connectContactId": 1084143,
+    "pageIndex": 1,
+    "page": 1,
+    "pageSize": 50,
+    "search": "",
+    "searchLabel": "",
+    "searchType": "",
+    "connectType": 1,
+    "contactLabelId": "",
+    "isDisconnect": false,
+    "includeGenerics": false,
+    "includeInactive": false,
+    "_utcOffsetMinutes": 300
+}

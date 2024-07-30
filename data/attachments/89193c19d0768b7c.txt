@@ -1,0 +1,13 @@
+{
+    "paycodes": "<paycodes><selected><paycode><id>869</id></paycode></selected></paycodes>",
+    "servicecodes": "<servicecodes><items><servicecode><id>67034</id></servicecode></items></servicecodes>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/paycodes/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

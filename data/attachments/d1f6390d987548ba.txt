@@ -1,0 +1,8 @@
+{
+    "labelId": 0,
+    "name": "TestLabel 3031265",
+    "color": "666666|ffffff",
+    "parentId": 0,
+    "isOrgLabel": false,
+    "_utcOffsetMinutes": 240
+}

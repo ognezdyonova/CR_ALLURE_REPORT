@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Availability for Employee4 - C9TQT",
+    "notes": "",
+    "startDate": "2024-07-30",
+    "endDate": "02/01/9999",
+    "startTs": 28800,
+    "endTs": 79200,
+    "location": 3595596,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 3031343,
+    "_utcOffsetMinutes": 240
+}

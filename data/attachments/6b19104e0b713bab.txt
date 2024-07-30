@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Predicate","message":"Unsupported optimization","errors":[{"errorCode":"Predicate","fieldName":"OptimizationType","message":"Unsupported optimization","meta":{"PropertyName":"OptimizationType","PropertyValue":"NewClient"}}]},"failed":false,"cachedTime":0}

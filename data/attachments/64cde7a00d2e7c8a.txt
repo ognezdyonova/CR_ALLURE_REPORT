@@ -1,0 +1,7 @@
+{
+    "clientId": 353675,
+    "providerId": 288525,
+    "dateOfService": "3/28/2022",
+    "segmentId": "",
+    "_utcOffsetMinutes": 300
+}

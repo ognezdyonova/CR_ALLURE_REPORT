@@ -1,0 +1,15 @@
+{
+    "entryId": 756630,
+    "name": "Availability for Employee4 - S0E00",
+    "notes": "",
+    "startDate": "07/30/2024",
+    "endDate": "07/30/2024",
+    "startTs": 32400,
+    "endTs": 36000,
+    "location": 3595612,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 3031379,
+    "_utcOffsetMinutes": 240
+}

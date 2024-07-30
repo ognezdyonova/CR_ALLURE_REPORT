@@ -1,0 +1,24 @@
+{
+    "id": "",
+    "name": "Name positionbZKGK",
+    "companyName": "Name company4ggwt",
+    "startMonth": "3",
+    "startYear": "2020",
+    "endMonth": "11",
+    "endYear": "2020",
+    "description": "Description positiont52ud",
+    "startDate": "3/1/2020",
+    "endDate": "11/1/2020",
+    "validation": {
+        "name": "Name positionbZKGK",
+        "companyName": "Name company4ggwt",
+        "startMonth": "3",
+        "startYear": "2020",
+        "endMonth": "11",
+        "endYear": "2020",
+        "description": "Description positiont52ud",
+        "errors": []
+    },
+    "contactId": "288525",
+    "_utcOffsetMinutes": 240
+}

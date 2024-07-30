@@ -1,0 +1,3 @@
+level: log, messages: send data to TR
+level: log, messages: [object Object]
+level: log, messages: Status sent for case: TR does not supported

@@ -1,0 +1,13 @@
+{
+    "filter": "all",
+    "isSupportTicket": "",
+    "sortBy": "created",
+    "sortDir": "desc",
+    "page": 1,
+    "pageSize": 50,
+    "queryType": "createdby",
+    "taskLabels": "",
+    "contactLabels": "",
+    "clientNow": "2021-12-22T03:14:55-05:00",
+    "_utcOffsetMinutes": 300
+}

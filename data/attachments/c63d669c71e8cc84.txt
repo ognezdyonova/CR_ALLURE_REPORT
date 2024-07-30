@@ -1,0 +1,20 @@
+{
+    "paymentReference": null,
+    "page": 1,
+    "pageSize": 100,
+    "startDate": "2019-02-28",
+    "endDate": "2024-7-30",
+    "voidedReason": "sdfsddsfsdfsdf",
+    "references": "<references><item><payor>531887</payor><payortype>2</payortype><paymenttype>1</paymenttype><reference>test reference GOpGLcy3dqOdTsTILycr68spBE4gO2</reference></item></references>",
+    "billingLabels": [],
+    "codeLabels": [],
+    "contactLabels": [],
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments/bulk/void",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

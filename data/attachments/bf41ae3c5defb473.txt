@@ -1,0 +1,6 @@
+{
+    "name": "new contact labelI4YZ5sGBIdWX",
+    "parentId": 0,
+    "color": "999999|ffffff",
+    "isOrgLabel": false
+}

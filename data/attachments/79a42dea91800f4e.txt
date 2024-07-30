@@ -1,0 +1,7 @@
+{
+    "item": {
+        "id": 0,
+        "name": "new nameGqn6Z",
+        "description": "new descriptionW1zkb"
+    }
+}

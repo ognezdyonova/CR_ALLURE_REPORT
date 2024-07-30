@@ -1,0 +1,51 @@
+{
+    "timesheet": {
+        "timesheetId": 5,
+        "organizationContactId": "288525",
+        "schedulingEventId": "613294464",
+        "schedulingCourseId": "146874037",
+        "clientContactId": "353675",
+        "insuranceId": "2384284",
+        "referrerId": "288525",
+        "managerId": "0",
+        "billingId": "288525",
+        "locationId": "288525",
+        "providerSupplierId": "288525",
+        "status": "Draft",
+        "source": "mobile",
+        "rowVersion": "AAAAAAA+ICc=",
+        "creationDate": "2024-07-30T12:06:25.2730000Z",
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "timesheetSegmentId": "1986",
+                "organizationContactId": "288525",
+                "providerContactId": "364908",
+                "schedulingSegmentId": "767110671",
+                "position": "null",
+                "serviceDateScheduled": "2024-07-30T00:00:00.0000000Z",
+                "serviceDate": "2024-07-30T00:00:00.0000000Z",
+                "startTimeScheduled": "63000",
+                "startTimeOriginal": "null",
+                "startTime": "63000",
+                "endTimeScheduled": "63000",
+                "endTimeOriginal": "null",
+                "endTime": "63000",
+                "driveTimeScheduled": "80",
+                "driveTime": "80",
+                "driveMileageScheduled": "45.7",
+                "driveMileage": "45.7",
+                "procedureCodeIdScheduled": "null",
+                "procedureCodeId": "null",
+                "serviceNote": "This is testing draft Timesheets - change",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "serviceLocationIdScheduled": "null",
+                "serviceLocationId": "-1",
+                "serviceLocationAddressIdScheduled": "null",
+                "serviceLocationAddressId": "null"
+            }
+        ]
+    }
+}
+

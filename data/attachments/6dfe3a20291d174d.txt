@@ -1,0 +1,8 @@
+{
+    "items": [
+        {
+            "contactId": "1026079",
+            "role": "Member"
+        }
+    ]
+}

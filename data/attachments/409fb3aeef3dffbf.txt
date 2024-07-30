@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:05:02","requesttime":49,"fields":{"description":"","clientRate":"","Id":68419120,"providerName":"Q. Therapy","code":"Code nameS4B2p","clientName":"n/a","client":"","customCodeId":303255,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:05:02","querytime":15,"result":"ok"}

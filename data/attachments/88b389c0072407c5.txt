@@ -1,0 +1,8 @@
+{
+    "filter": "1",
+    "sortBy": "created",
+    "sortDir": "desc",
+    "page": 1,
+    "pageSize": 50,
+    "_utcOffsetMinutes": -180
+}

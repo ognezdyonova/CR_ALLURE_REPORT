@@ -1,0 +1,1 @@
+{"invoicePackets":[{"invoiceId":822389,"clientId":290555,"reminderCount":0,"reminderSentDate":"0001-01-01T00:00:00.0000000Z","canViewInClientPortal":true,"canPayInClientPortal":false,"canSendInvoiceEmail":false,"canPartialPayInClientPortal":false,"updateStatus":"PDF Not Generated"}],"result":"OK","failed":false,"cachedTime":0}

@@ -1,0 +1,6 @@
+{
+    "codePackets": {
+        "irregularHeartbeatTypes": "irregular-heartbeat"
+    },
+    "_utcOffsetMinutes": 300
+}

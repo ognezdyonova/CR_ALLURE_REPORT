@@ -1,0 +1,23 @@
+{
+    "addressLine1": "address 1",
+    "addressLine2": "address 2",
+    "city": "NY",
+    "company": "test company",
+    "email": "test@tets.com",
+    "firstName": "test first name",
+    "lastName": "test last name",
+    "gender": "Male",
+    "notes": "some notes",
+    "otherType": "",
+    "zipPostalCode": "12121212",
+    "relationType": "Work",
+    "phoneCell": "",
+    "phoneHome": "1111111111",
+    
+    "phoneFax": "",
+    "phoneWork": "",
+    "phoneWorkExt": "",
+    "stateProvince": "Alaska",
+    "country": "United States",
+    "metadata": []
+}

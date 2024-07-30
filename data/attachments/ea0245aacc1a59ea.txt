@@ -1,0 +1,1 @@
+{"results":[{"eventTypeId":2,"serviceCodeId":202284,"adminClientId":2998715},{"eventTypeId":6,"serviceCodeId":202284,"adminClientId":2998715}],"result":"OK","failed":false,"cachedTime":1722340969426}

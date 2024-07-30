@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/30/2024 15:04:19","success":true,"defaultTimeslot":7200,"requesttime":0,"types":[{"description":"","name":"generic","id":715544,"secLength":3600}],"cacheDate":"07/30/2024 12:04:19","querytime":0,"result":"ok"}

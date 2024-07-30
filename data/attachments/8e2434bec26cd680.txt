@@ -1,0 +1,13 @@
+{
+    "billingEntryIds": "224492875",
+    "signType": "provider",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "timesheets/signatures",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

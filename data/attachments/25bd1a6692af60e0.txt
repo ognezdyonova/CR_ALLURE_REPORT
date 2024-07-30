@@ -1,0 +1,92 @@
+{
+    "timesheet": {
+        "status": "Draft",
+        "organizationContactId": 288525,
+        "insuranceId": null,
+        "providerSupplierId": 288525,
+        "billingId": 288525,
+        "referrerId": 288525,
+        "locationId": 288525,
+        "segments": [
+            {
+                "timesheetSegmentId": 0,
+                "organizationContactId": 288525,
+                "providerContactId": 3031176,
+                "schedulingSegmentId": 767110626,
+                "serviceDateScheduled": "2024-08-01T00:00:00.0000000Z",
+                "serviceDate": "2024-08-01T00:00:00+00:00",
+                "timeZone": "America/New_York",
+                "startTimeScheduled": 39600,
+                "startTime": 39600,
+                "endTimeScheduled": 43200,
+                "endTime": 43200,
+                "driveTime": 0,
+                "driveMileage": 0,
+                "procedureCodeIdScheduled": 303250,
+                "procedureCodeId": 303250,
+                "serviceNote": "123123123123",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "serviceLocationIdScheduled": 1,
+                "serviceLocationId": 1,
+                "serviceLocationAddressIdScheduled": 3595524,
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false,
+                "rates": [
+                    {
+                        "feeScheduleId": 5380,
+                        "unitsOfService": 1,
+                        "copayAmount": 0,
+                        "rateProvider": 0,
+                        "rateClient": 100,
+                        "rateClientAgreed": 100,
+                        "rateProviderDriveHourly": 0,
+                        "rateProviderDriveMileage": 0,
+                        "rateClientDriveHourly": 12,
+                        "rateClientDriveMileage": 12
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    },
+                    {
+                        "modifier": ""
+                    }
+                ],
+                "pointers": [],
+                "signatures": [],
+                "resources": [],
+                "notes": [
+                    {
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "isRequired": true,
+                        "single": {
+                            "options": [
+                                "yes"
+                            ],
+                            "index": "0"
+                        },
+                        "answeredOn": "2024-08-01T07:39:01+00:00",
+                        "answeredBy": 288525,
+                        "billingNoteId": null
+                    }
+                ],
+                "sessionNotes": [],
+                "exceptions": [],
+                "eventPlaceOfServiceId": 0,
+                "authorizationId": null
+            }
+        ],
+        "diagnosisCodes": [],
+        "exceptions": []
+    }
+}

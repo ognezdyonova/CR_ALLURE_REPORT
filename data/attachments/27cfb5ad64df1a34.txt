@@ -1,0 +1,1 @@
+{"conflicts":[],"placeOfServiceConflicts":false,"credentials":[],"blackoutDateConflicts":[],"serializedBlackoutDateConflicts":[],"isAllAuthorizedDatesBlackedOut":false,"startDateConsideringBlackouts":"2024-07-30","geolocationValidationError":false,"eventSeriesExceedsDateLimit":false,"result":"OK","failed":false,"cachedTime":0}

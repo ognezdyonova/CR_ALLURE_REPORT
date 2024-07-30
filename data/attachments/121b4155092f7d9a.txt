@@ -1,0 +1,2 @@
+level: log, messages: Contact does not have property imgProfile
+level: log, messages: Status sent for case: TR does not supported

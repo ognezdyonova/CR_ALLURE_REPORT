@@ -1,0 +1,20 @@
+{
+    "id": "",
+    "name": "externalFeeScheduleName1djJqKk",
+    "description": "Description",
+    "isDefault": false,
+    "isActive": true,
+    "validation": {
+        "name": "externalFeeScheduleName1djJqKk",
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "feeschedules/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

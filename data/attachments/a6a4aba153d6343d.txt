@@ -1,0 +1,17 @@
+level: log, messages: claims does not have property __type
+level: log, messages: claims does not have property payerName
+level: log, messages: claims does not have property payerAddress1
+level: log, messages: claims does not have property payerCity
+level: log, messages: claims does not have property payerZip
+level: log, messages: claims does not have property payerState
+level: log, messages: claims does not have property payeeName
+level: log, messages: claims does not have property payeeAddress1
+level: log, messages: claims does not have property payeeCity
+level: log, messages: claims does not have property payeeZip
+level: log, messages: claims does not have property payeeState
+level: log, messages: claims does not have property paymentMethod
+level: log, messages: claims does not have property senderAccountNo
+level: log, messages: claims does not have property receivingBankNo
+level: log, messages: claims does not have property receiverAccountNo
+level: log, messages: claims does not have property checkNumber
+level: log, messages: Status sent for case: TR does not supported

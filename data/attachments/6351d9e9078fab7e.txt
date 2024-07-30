@@ -1,0 +1,1 @@
+{"template":{"id":11025,"createdBy":0,"organizationId":0,"isGlobal":false,"criteria":[{"id":60061,"templateId":0,"sortOrder":0,"isOrdered":false,"isCurrent":false,"sessions":0}]},"result":"OK","failed":false,"cachedTime":0}

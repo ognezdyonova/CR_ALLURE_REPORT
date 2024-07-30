@@ -1,0 +1,16 @@
+{
+    "id": 768245,
+    "rate": "123",
+    "rateAgreed": "123",
+    "startDate": "12/01/2021",
+    "endDate": "12/31/2021",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/code/defaultraterange/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

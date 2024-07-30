@@ -1,0 +1,4 @@
+{
+    "MessageType": 2,
+    "NotificationMedium": 1
+}

@@ -1,0 +1,4 @@
+{
+    "JSON": "NewPlan{id=null, name='Edited HSA name [KG9FLS5JKREO2VG7NX]', typeId=7, startDate='2018-11-21T00:00:00.000Z', endDate='2018-12-10T00:00:00.000Z', description='Edited description ZGHY7MSGU1105GQR3U', url='https://membersdev.centralreach.com/TFJDTOWNG9G5YGJ92M', benefitGroups=null, coverageOptions=[], reimbursementInterval=null, reimbursementAmount=0, validationConfigured=true, validationModifiedTracker=ValidationModifiedTracker{name=true, startDate=true, endDate=true, reimbursementAmount=true}}",
+    "Section": "O9U1NF2ASJE1Q65977"
+}

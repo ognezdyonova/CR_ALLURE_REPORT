@@ -1,0 +1,3 @@
+level: log, messages: Total Duration by Provider:,[object Object]
+level: log, messages: Duration by Day and Provider:,[object Object]
+level: log, messages: Status sent for case: TR does not supported

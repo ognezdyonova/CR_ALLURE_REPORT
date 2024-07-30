@@ -1,0 +1,16 @@
+{
+    "attestationStatementId": "432",
+    "billingEntryIds": "224492891",
+    "savedSignatureId" : null,
+    "signType": "provider",
+    "signature": "8W000Z22645443412600000Y3145587a8957433210000Z1400Y14327656433110000Z2100Y31210000Z1100Y2345444443212000003243332_q69aabcabaa7745Z1h886667787665541412Y454c8855Z4799523433212Y544h6653Z456Y245475655Z786477643333Y264585a5Z8e54533Y3",
+    "signatureName": "Test",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "timesheets/signatures/apply",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

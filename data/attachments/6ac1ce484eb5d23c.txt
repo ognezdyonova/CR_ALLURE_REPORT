@@ -1,0 +1,12 @@
+{
+    "data": "<customrates><items><customrate><id>3525928</id><clientrate>81</clientrate><providerrate>100</providerrate></customrate></items></customrates>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/customrates/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

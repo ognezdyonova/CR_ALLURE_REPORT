@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"This Payor is not archived.","errors":[]},"failed":false,"cachedTime":0}

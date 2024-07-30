@@ -1,0 +1,1 @@
+{"assessmentTotals":[{"assessmentId":38,"assessmentName":"Achenbach Child Behavior Checklist (ACBC)","count":78},{"assessmentId":39,"assessmentName":"Analysis of Sensory Behavior Inventory (Rev. ed.)(ASBI-R)","count":4},{"assessmentId":0,"assessmentName":"None","count":34}],"result":"OK","failed":false,"cachedTime":1722340968863}

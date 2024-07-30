@@ -1,0 +1,79 @@
+{
+  "timesheet": {
+    "clientContactId": "{{billingClientId}}",
+    "insuranceId": 1393199,
+    "referrerId": "288525",
+    "billingId": "288525",
+    "locationId": "288525",
+    "providerSupplierId": "288525",
+    "status": "Converted",
+    "source": "",
+    "diagnosisCodes": [],
+    "segments": [
+      {
+        "providerContactId": "288525",
+        "serviceDate": "2020-10-08T00:00:00+00:00",
+        "startTime": 0,
+        "endTime": 0,
+        "timeZone": "America/New_York",
+        "driveTime": 0,
+        "driveMileage": 0,
+        "authorizationId": null,
+        "procedureCodeId": "303262",
+        "serviceLocationId": 0,
+        "rates": [
+          {
+            "feeScheduleId": 5373,
+            "unitsOfService": 0,
+            "copayAmount": null,
+            "rateProvider": "100.00",
+            "rateClient": "25.58",
+            "rateClientAgreed": "25.58",
+            "rateProviderDriveHourly": "0.000",
+            "rateProviderDriveMileage": "0.000",
+            "rateClientDriveHourly": "0.00",
+            "rateClientDriveMileage": "0.00"
+          }
+        ],
+        "modifiers": [
+          {
+            "modifier": ""
+          },
+          {
+            "modifier": ""
+          },
+          {
+            "modifier": ""
+          },
+          {
+            "modifier": ""
+          }
+        ],
+        "pointers": [],
+        "notes": [],
+        "exceptions": [
+          {
+            "exceptionId": 108,
+            "exception": "TotalTimeZero",
+            "exceptionSeverity": "Low",
+            "exceptionText": "Total time worked is zero",
+            "exceptionDate": "2020-10-08T13:03:52.0363054+00:00",
+            "exceptionOverride": true
+          },
+          {
+            "exceptionId": 109,
+            "exception": "UnitsOfServiceZero",
+            "exceptionSeverity": "Low",
+            "exceptionText": "Units of service are zero",
+            "exceptionDate": "2020-10-08T13:03:52.0363054+00:00",
+            "exceptionOverride": true
+          }
+        ],
+        "resources": [],
+        "signatures": []
+      }
+    ],
+    "exceptions": [],
+    "isPendingConversion": false
+  }
+}

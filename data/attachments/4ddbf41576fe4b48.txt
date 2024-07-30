@@ -1,0 +1,1 @@
+{"cacheExpires":"07/30/2024 15:04:43","success":true,"educations":[{"Id":6402,"Name":"Name educationwwS3z"},{"Id":6406,"Name":"Name educationqHTBB"},{"Id":6399,"Name":"Test"}],"requesttime":0,"cacheKey":"","cacheDate":"07/30/2024 12:04:43","querytime":0,"result":"ok"}

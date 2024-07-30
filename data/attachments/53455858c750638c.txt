@@ -1,0 +1,1 @@
+{"contactId":3031278,"scheduleSettings":[{"placeOfService":2,"id":399126,"startDate":"2024-01-01T00:00:00.0000000Z","endDate":"2028-02-20T00:00:00.0000000Z","startTs":36600,"endTs":54900,"name":"externalClient7AvailabilityNamewXFC46","location":1784672,"notes":"test notes","days":[{"offset":0},{"offset":6}]}],"result":"OK","failed":false,"cachedTime":0}

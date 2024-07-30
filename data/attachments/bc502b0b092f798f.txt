@@ -1,0 +1,1 @@
+{"report":{"id":0,"reportId":26,"isDashboard":false,"isDynamic":false,"isExportable":false,"isFree":false,"isViewable":false,"isVisible":false,"name":"Prospective","groupId":0,"isFeatured":false,"isActive":false,"contactId":0},"result":"OK","failed":false,"cachedTime":0}

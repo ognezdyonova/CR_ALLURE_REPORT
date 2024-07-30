@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"Reduce Travel Time optimization type requires weeksRecurring to equal 1.","errors":[]},"failed":false,"cachedTime":0}

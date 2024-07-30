@@ -1,0 +1,7 @@
+{
+  "Type": "1",
+  "Name": "testAPI learn tree NCo38T",
+  "Scope": "private",
+  "License": "multi-modify",
+  "Price": 100
+}

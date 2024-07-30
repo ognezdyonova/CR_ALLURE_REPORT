@@ -1,0 +1,13 @@
+{
+    "Id": "37730",
+    "Item": {
+        "Id": 0,
+        "OrganizationId": 0,
+        "Name": "edited namesnmyP",
+        "Description": "edited descriptionagEWR",
+        "IsTemplate": true,
+        "NumContacts": 0,
+        "IsCurrentUserAdmin": true,
+        "IsOrgDefaultGroup": true
+    }
+}

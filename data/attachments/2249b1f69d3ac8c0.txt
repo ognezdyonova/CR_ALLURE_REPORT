@@ -1,0 +1,42 @@
+{
+    "draftName": "Optimisation draft name -  Pc6m2 Cancellation",
+    "optimizationType": "EmployeeCancellationCoverage",
+    "startDate": "2024-07-31T00:00:00",
+    "endDate": "2024-08-05T23:59:59",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 180,
+        "lengthOfLunch": 60
+    },
+    "locationTimeZone": "America/New_York",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595618
+        ],
+        "selectedContactIds": []
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595618
+        ],
+        "selectedContactIds": [],
+        "includeGenerics": false
+    },
+    "employeeCancellationDetails": [
+        {
+            "providerId": 3031408,
+            "isAllDay": true,
+            "reasonId": 2,
+            "additionalNotes": "test additional notes",
+            "includeLabelIds": [],
+            "excludeLabelIds": [],
+            "selectedContactIds": [],
+            "startDateTime": "2024-07-31T00:00:00",
+            "endDateTime": "2024-08-05T23:59:59"
+        }
+    ]
+}

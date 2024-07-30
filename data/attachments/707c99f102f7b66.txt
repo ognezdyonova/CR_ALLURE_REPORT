@@ -1,0 +1,63 @@
+{
+    "ContactBasics": {
+        "id": "3031303",
+        "typeId": 20,
+        "isActive": true,
+        "isClient": 1,
+        "isMe": 0,
+        "isEmployee": false,
+        "firstName": "ClientFirstNameVossU",
+        "middleInitial": "1",
+        "lastName": "ClientLastNameVzXlG",
+        "maritalStatus": "Single",
+        "birthDateDay": "1",
+        "birthDateMonth": "1",
+        "birthDateYear": "2020",
+        "company": "Central Reach",
+        "email": "emailST5Vo@centralreach.com",
+        "guardianFirstName": "Guardian First Name",
+        "guardianLastName": "Guardian Last Name",
+        "gender": "Male",
+        "lastLoginDate": "",
+        "npiNumber": "",
+        "socialSecurityNumber": "",
+        "occupation": "",
+        "postFix": "Msc, Phd, ABC",
+        "taxId": "",
+        "title": "Dr.",
+        "website": "",
+        "type": "",
+        "credential0": "",
+        "credential1": "",
+        "credential2": "",
+        "credential3": "",
+        "credential4": "",
+        "guarantorFirstName": "Guardian First Name",
+        "guarantorLastName": "Guardian Last Name",
+        "isGuarantorSameAsGuardian": false,
+        "terminationDate": "2024-07-30",
+        "externalSystemId": "",
+        "formChooserModalIsOpen": false,
+        "loading": false,
+        "contactId": "3031303",
+        "statusHide": 0,
+        "basicsValidation": {
+            "firstName": "ClientFirstNameVossU",
+            "lastName": "ClientLastNameVzXlG",
+            "email": "",
+            "terminationDate": "2024-07-30",
+            "validation": {
+                "firstName": "ClientFirstNameVossU",
+                "lastName": "ClientLastNameVzXlG",
+                "email": "",
+                "terminationDate": "2024-07-30",
+                "errors": []
+            }
+        },
+        "contactFormsVm": {
+            "newContactForms": []
+        },
+        "guardianFirstNameLabel": "Guardian First Name",
+        "guardianLastNameLabel": "Guardian Last Name"
+    }
+}

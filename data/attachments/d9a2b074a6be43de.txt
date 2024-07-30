@@ -1,0 +1,1 @@
+{"contactId":3031277,"appointmentTypes":[{"appointmentTypeId":10447877,"name":"externalEmployee6AppointmentTypehaEjAc","description":"desc test","secLength":1800}],"result":"OK","failed":false,"cachedTime":0}

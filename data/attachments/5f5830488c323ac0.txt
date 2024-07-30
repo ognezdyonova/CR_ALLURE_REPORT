@@ -1,0 +1,16 @@
+{
+    "course": 146874128,
+    "date": "2024-07-31",
+    "reason": 1,
+    "reasonName": "Client Cancellation",
+    "note": "",
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

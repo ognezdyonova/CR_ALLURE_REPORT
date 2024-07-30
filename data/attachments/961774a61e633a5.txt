@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Predicate","message":"RecurrenceEndsOn should be a valid date","errors":[{"errorCode":"Predicate","fieldName":"RecurrenceEndsOn","message":"RecurrenceEndsOn should be a valid date","meta":{"PropertyName":"RecurrenceEndsOn","PropertyValue":"08-2024-01"}}]},"failed":false,"cachedTime":0}

@@ -1,0 +1,1 @@
+{"creationSuccess":false,"id":0,"result":"OK","responseStatus":{"errorCode":"ArgumentException","message":"Unable to identify a valid client rate for the given service code. There may not be a custom client rate setup for this code, or no default fee schedule associated with the selected payor.","errors":[]},"failed":false,"cachedTime":0}

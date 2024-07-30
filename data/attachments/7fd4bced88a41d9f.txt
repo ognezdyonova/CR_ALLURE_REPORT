@@ -1,0 +1,6 @@
+{
+  "Channel": "resources",
+  "Action": "upload",
+  "ResourceId": "175363535",
+  "ETag": "string"
+}

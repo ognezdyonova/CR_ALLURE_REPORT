@@ -1,0 +1,10 @@
+{
+  "ResourceId": "175363457",
+  "EffectiveDate": "string",
+  "ExpirationDate": "string",
+  "NoExpiration": true,
+  "TemplateTypeId": "3799",
+  "ResourceNumber": "string",
+  "OverridePermissionCheck": true,
+  "index": "string"
+}

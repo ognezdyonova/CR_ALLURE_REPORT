@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message-center-new-message",
+        "name": "New message",
+        "allowEmailDelivery": true,
+        "allowSMSDelivery": true,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "scheduling-appointment-added",
+        "name": "New appointment was added",
+        "allowEmailDelivery": true,
+        "allowSMSDelivery": false,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "scheduling-appointment-modified",
+        "name": "Appointment was modified",
+        "allowEmailDelivery": true,
+        "allowSMSDelivery": false,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "scheduling-appointment-cancelled",
+        "name": "Appointment was cancelled",
+        "allowEmailDelivery": true,
+        "allowSMSDelivery": false,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "payroll-submittimeoffrequest",
+        "name": "New time off request was submitted",
+        "allowEmailDelivery": true,
+        "allowSMSDelivery": false,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "payroll-approvedenytimeoffrequest",
+        "name": "Time off request was approved or denied",
+        "allowEmailDelivery": true,
+        "allowSMSDelivery": false,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "tasks-assigned",
+        "name": "Task was assigned to you",
+        "allowEmailDelivery": false,
+        "allowSMSDelivery": true,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "tasks-modified",
+        "name": "Task was modified",
+        "allowEmailDelivery": false,
+        "allowSMSDelivery": true,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    },
+    {
+        "type": "tasks-completed-deleted",
+        "name": "Task was completed or deleted",
+        "allowEmailDelivery": false,
+        "allowSMSDelivery": true,
+        "deliverByEmail": 0,
+        "deliverBySMS": 0
+    }
+]

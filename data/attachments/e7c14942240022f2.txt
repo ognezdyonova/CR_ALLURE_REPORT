@@ -1,0 +1,1 @@
+{"appointmentType":{"description":"","id":10447871,"name":"Appointment-types nameF7L3V","secLength":3600,"deletedOn":"","deletedBy":"","provider":288525},"result":"OK","failed":false,"cachedTime":0}

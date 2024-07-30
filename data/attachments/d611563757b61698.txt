@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:09:06","requesttime":15,"fields":{"description":"","clientRate":"","Id":68419156,"providerName":"Q. Therapy","code":"2.04.2020/2","clientName":"n/a","client":"","customCodeId":303297,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:09:06","querytime":16,"result":"ok"}

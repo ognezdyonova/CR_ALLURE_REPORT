@@ -1,0 +1,1 @@
+{"itemId":350047713,"lastGraphedOn":"0001-01-01T00:00:00.0000000Z","lastGraphedData":0,"commentCount":0,"trials":0,"minTrials":0,"allowComments":true,"actionId":1,"description":"Lear tree api item description","graphValues":[],"comments":[],"notes":[],"result":"OK","failed":false,"cachedTime":0}

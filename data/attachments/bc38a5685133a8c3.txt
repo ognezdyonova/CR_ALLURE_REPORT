@@ -1,0 +1,1 @@
+{"appointmentType":{"description":"desc test","id":10447878,"name":"externalEmployee7AppointmentTypeVI1ujS","secLength":1800,"deletedOn":"","deletedBy":"","provider":3031279},"result":"OK","failed":false,"cachedTime":0}

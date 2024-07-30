@@ -1,0 +1,23 @@
+{
+    "clientId": "{{billingClientId}}",
+    "billingEntryId": "0",
+    "date": "2020-10-08T13:32:19.142Z",
+    "payorId": 1393199,
+    "reference": "500",
+    "resourceId": "",
+    "isCopay": "",
+    "notes": "",
+    "amount": "100",
+    "originalAmount": "",
+    "paymentType": 0,
+    "paymentStatus": 0,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/entry/payment/add",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

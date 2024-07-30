@@ -1,0 +1,646 @@
+{
+    "addressId": "3586373",
+    "organizationId": "",
+    "organizationName": "",
+    "contactId": 1111842,
+    "typeId": "",
+    "name": "",
+    "firstName": "",
+    "middleName": "",
+    "suffix": "",
+    "lastName": "test - 712",
+    "company": "",
+    "addressLine1": "",
+    "addressLine2": "",
+    "city": "",
+    "county": "",
+    "zipPostalCode": "",
+    "country": "United States",
+    "phoneWork": "",
+    "phoneFax": "",
+    "phoneWorkExt": "",
+    "email": "",
+    "npiNumber": "",
+    "taxId": "",
+    "socialSecurityNumber": "",
+    "specialty": "",
+    "specialtyDescription": "",
+    "contact": "",
+    "intlRegion": "",
+    "facilityCodes": [{
+            "code": "01",
+            "description": "01 - Pharmacy"
+        }, {
+            "code": "02",
+            "description": "02 - Telehealth Provided Other than in Patient's Home"
+        }, {
+            "code": "03",
+            "description": "03 - School"
+        }, {
+            "code": "04",
+            "description": "04 - Homeless Shelter"
+        }, {
+            "code": "05",
+            "description": "05 - Indian Health Service Free-standing Facility"
+        }, {
+            "code": "06",
+            "description": "06 - Indian Health Service Provider-based Facility"
+        }, {
+            "code": "07",
+            "description": "07 - Tribal 638 Free-standing Facility"
+        }, {
+            "code": "08",
+            "description": "08 - Tribal 638 Provider-based Facility"
+        }, {
+            "code": "09",
+            "description": "09 - Prison/Correctional Facility"
+        }, {
+            "code": "11",
+            "description": "11 - Office"
+        }, {
+            "code": "12",
+            "description": "12 - Home"
+        }, {
+            "code": "13",
+            "description": "13 - Assisted Living Facility"
+        }, {
+            "code": "14",
+            "description": "14 - Group Home"
+        }, {
+            "code": "15",
+            "description": "15 - Mobile Unit"
+        }, {
+            "code": "16",
+            "description": "16 - Temporary Lodging"
+        }, {
+            "code": "17",
+            "description": "17 - Walk-in Retail Health Clinic"
+        }, {
+            "code": "18",
+            "description": "18 - Place of Employment-Worksite"
+        }, {
+            "code": "19",
+            "description": "19 - Off Campus-Outpatient Hospital"
+        }, {
+            "code": "20",
+            "description": "20 - Urgent Care Facility"
+        }, {
+            "code": "21",
+            "description": "21 - Inpatient Hospital"
+        }, {
+            "code": "22",
+            "description": "22 - On Campus-Outpatient Hospital"
+        }, {
+            "code": "23",
+            "description": "23 - Emergency Room - Hospital"
+        }, {
+            "code": "24",
+            "description": "24 - Ambulatory Surgical Center"
+        }, {
+            "code": "25",
+            "description": "25 - Birthing Center"
+        }, {
+            "code": "26",
+            "description": "26 - Military Treatment Facility"
+        }, {
+            "code": "31",
+            "description": "31 - Skilled Nursing Facility"
+        }, {
+            "code": "32",
+            "description": "32 - Nursing Facility"
+        }, {
+            "code": "33",
+            "description": "33 - Custodial Care Facility"
+        }, {
+            "code": "34",
+            "description": "34 - Hospice"
+        }, {
+            "code": "41",
+            "description": "41 - Ambulance - Land"
+        }, {
+            "code": "42",
+            "description": "42 - Ambulance - Air or Water"
+        }, {
+            "code": "49",
+            "description": "49 - Independent Clinic"
+        }, {
+            "code": "50",
+            "description": "50 - Federally Qualified Health Center"
+        }, {
+            "code": "51",
+            "description": "51 - Inpatient Psychiatric Facility"
+        }, {
+            "code": "52",
+            "description": "52 - Psychiatric Facility-Partial Hospitalization"
+        }, {
+            "code": "53",
+            "description": "53 - Community Mental Health Center"
+        }, {
+            "code": "54",
+            "description": "54 - Intermediate Care Facility/Individuals with Intellectual Disabilities"
+        }, {
+            "code": "55",
+            "description": "55 - Residential Substance Abuse Treatment Facility"
+        }, {
+            "code": "56",
+            "description": "56 - Psychiatric Residential Treatment Center"
+        }, {
+            "code": "57",
+            "description": "57 - Non-residential Substance Abuse Treatment Facility"
+        }, {
+            "code": "58",
+            "description": "58 - Non-residential Opioid Treatment Facility"
+        }, {
+            "code": "60",
+            "description": "60 - Mass Immunization Center"
+        }, {
+            "code": "61",
+            "description": "61 - Comprehensive Inpatient Rehabilitation Facility"
+        }, {
+            "code": "62",
+            "description": "62 - Comprehensive Outpatient Rehabilitation Facility"
+        }, {
+            "code": "65",
+            "description": "65 - End-Stage Renal Disease Treatment Facility"
+        }, {
+            "code": "71",
+            "description": "71 - Public Health Clinic"
+        }, {
+            "code": "72",
+            "description": "72 - Rural Health Clinic"
+        }, {
+            "code": "81",
+            "description": "81 - Independent Laboratory"
+        }, {
+            "code": "99",
+            "description": "99 - Other Place of Service"
+        }
+    ],
+    "fullName": "",
+    "identifierManager": {
+        "contactId": 1111842,
+        "contactIdentifierValues": [],
+        "contactIdentifiers": [{
+                "id": 1,
+                "qualifier": "UCI",
+                "description": "UCI - UCI Number"
+            }, {
+                "id": 2,
+                "qualifier": "Vendor #",
+                "description": "Vendor # - Vendor Number"
+            }, {
+                "id": 3,
+                "qualifier": "StudentId",
+                "description": "StudentId - Student Id"
+            }, {
+                "id": 4,
+                "qualifier": "CAQH #",
+                "description": "CAQH # - CAQH Number"
+            }, {
+                "id": 5,
+                "qualifier": "0B",
+                "description": "0B - State License Number"
+            }, {
+                "id": 6,
+                "qualifier": "1A",
+                "description": "1A - Blue Cross Provider Number"
+            }, {
+                "id": 7,
+                "qualifier": "1B",
+                "description": "1B - Blue Shield Provider Number"
+            }, {
+                "id": 8,
+                "qualifier": "1C",
+                "description": "1C - Medicare Provider Number"
+            }, {
+                "id": 9,
+                "qualifier": "1D",
+                "description": "1D - Medicaid Provider Number"
+            }, {
+                "id": 10,
+                "qualifier": "1G",
+                "description": "1G - Provider UPIN Number"
+            }, {
+                "id": 11,
+                "qualifier": "1H",
+                "description": "1H - CHAMPUS ID"
+            }, {
+                "id": 12,
+                "qualifier": "1J",
+                "description": "1J - Facility ID Number"
+            }, {
+                "id": 13,
+                "qualifier": "B3",
+                "description": "B3 - PPO Number"
+            }, {
+                "id": 14,
+                "qualifier": "BQ",
+                "description": "BQ - HMO Number"
+            }, {
+                "id": 15,
+                "qualifier": "EI",
+                "description": "EI - Employer ID"
+            }, {
+                "id": 16,
+                "qualifier": "FH",
+                "description": "FH - Clinic Number"
+            }, {
+                "id": 17,
+                "qualifier": "G2",
+                "description": "G2 - Provider Commercial Number"
+            }, {
+                "id": 18,
+                "qualifier": "G3",
+                "description": "G3 - Predetermination of Benefits ID"
+            }, {
+                "id": 19,
+                "qualifier": "G5",
+                "description": "G5 - Provider Site Number"
+            }, {
+                "id": 20,
+                "qualifier": "LU",
+                "description": "LU - Location Number"
+            }, {
+                "id": 21,
+                "qualifier": "N5",
+                "description": "N5 - Plan Network Number"
+            }, {
+                "id": 22,
+                "qualifier": "TJ",
+                "description": "TJ - Federal taxpayer's Identification Number"
+            }, {
+                "id": 23,
+                "qualifier": "X4",
+                "description": "X4 - Clinical Laboratory Improvement Amendment Number"
+            }, {
+                "id": 24,
+                "qualifier": "X5",
+                "description": "X5 - State Industrial Accident Provider Number"
+            }, {
+                "id": 25,
+                "qualifier": "the BHPN - Vendor ID (Direct)",
+                "description": "the BHPN - Vendor ID (Direct) - the BHPN - Vendor ID (Direct)"
+            }, {
+                "id": 26,
+                "qualifier": "the BHPN - Vendor ID (Indirect)",
+                "description": "the BHPN - Vendor ID (Indirect) - the BHPN - Vendor ID (Indirect)"
+            }, {
+                "id": 27,
+                "qualifier": "the BHPN - Vendor Name (Direct)",
+                "description": "the BHPN - Vendor Name (Direct) - the BHPN - Vendor Name (Direct)"
+            }, {
+                "id": 28,
+                "qualifier": "the BHPN - Vendor Name (Indirect)",
+                "description": "the BHPN - Vendor Name (Indirect) - the BHPN - Vendor Name (Indirect)"
+            }, {
+                "id": 29,
+                "qualifier": "the BHPN - Rendering Provider ID",
+                "description": "the BHPN - Rendering Provider ID - the BHPN - Rendering Provider ID"
+            }, {
+                "id": 31,
+                "qualifier": "Location",
+                "description": "Location - Location for Invoice"
+            }, {
+                "id": 32,
+                "qualifier": "ATAP Vendor #",
+                "description": "ATAP Vendor # - ATAP - Vendor Number"
+            }, {
+                "id": 33,
+                "qualifier": "ATAP Care Manager",
+                "description": "ATAP Care Manager - ATAP - Care Manager"
+            }, {
+                "id": 34,
+                "qualifier": "the BHPN - Vendor ID (Telehealth)",
+                "description": "the BHPN - Vendor ID (Telehealth) - the BHPN - Vendor ID (Telehealth)"
+            }, {
+                "id": 35,
+                "qualifier": "the BHPN - Vendor Name (Telehealth)",
+                "description": "the BHPN - Vendor Name (Telehealth) - the BHPN - Vendor Name (Telehealth)"
+            }
+        ],
+        "identifierForNew": {
+            "id": 5,
+            "qualifier": "0B",
+            "description": "0B - State License Number"
+        },
+        "idValueMissingForNew": false,
+        "idForNew": "",
+        "notesForNew": "",
+        "unusedIdentifiers": [{
+                "id": 5,
+                "qualifier": "0B",
+                "description": "0B - State License Number"
+            }, {
+                "id": 6,
+                "qualifier": "1A",
+                "description": "1A - Blue Cross Provider Number"
+            }, {
+                "id": 7,
+                "qualifier": "1B",
+                "description": "1B - Blue Shield Provider Number"
+            }, {
+                "id": 8,
+                "qualifier": "1C",
+                "description": "1C - Medicare Provider Number"
+            }, {
+                "id": 9,
+                "qualifier": "1D",
+                "description": "1D - Medicaid Provider Number"
+            }, {
+                "id": 10,
+                "qualifier": "1G",
+                "description": "1G - Provider UPIN Number"
+            }, {
+                "id": 11,
+                "qualifier": "1H",
+                "description": "1H - CHAMPUS ID"
+            }, {
+                "id": 12,
+                "qualifier": "1J",
+                "description": "1J - Facility ID Number"
+            }, {
+                "id": 33,
+                "qualifier": "ATAP Care Manager",
+                "description": "ATAP Care Manager - ATAP - Care Manager"
+            }, {
+                "id": 32,
+                "qualifier": "ATAP Vendor #",
+                "description": "ATAP Vendor # - ATAP - Vendor Number"
+            }, {
+                "id": 13,
+                "qualifier": "B3",
+                "description": "B3 - PPO Number"
+            }, {
+                "id": 14,
+                "qualifier": "BQ",
+                "description": "BQ - HMO Number"
+            }, {
+                "id": 4,
+                "qualifier": "CAQH #",
+                "description": "CAQH # - CAQH Number"
+            }, {
+                "id": 15,
+                "qualifier": "EI",
+                "description": "EI - Employer ID"
+            }, {
+                "id": 16,
+                "qualifier": "FH",
+                "description": "FH - Clinic Number"
+            }, {
+                "id": 17,
+                "qualifier": "G2",
+                "description": "G2 - Provider Commercial Number"
+            }, {
+                "id": 18,
+                "qualifier": "G3",
+                "description": "G3 - Predetermination of Benefits ID"
+            }, {
+                "id": 19,
+                "qualifier": "G5",
+                "description": "G5 - Provider Site Number"
+            }, {
+                "id": 31,
+                "qualifier": "Location",
+                "description": "Location - Location for Invoice"
+            }, {
+                "id": 20,
+                "qualifier": "LU",
+                "description": "LU - Location Number"
+            }, {
+                "id": 21,
+                "qualifier": "N5",
+                "description": "N5 - Plan Network Number"
+            }, {
+                "id": 3,
+                "qualifier": "StudentId",
+                "description": "StudentId - Student Id"
+            }, {
+                "id": 29,
+                "qualifier": "the BHPN - Rendering Provider ID",
+                "description": "the BHPN - Rendering Provider ID - the BHPN - Rendering Provider ID"
+            }, {
+                "id": 25,
+                "qualifier": "the BHPN - Vendor ID (Direct)",
+                "description": "the BHPN - Vendor ID (Direct) - the BHPN - Vendor ID (Direct)"
+            }, {
+                "id": 26,
+                "qualifier": "the BHPN - Vendor ID (Indirect)",
+                "description": "the BHPN - Vendor ID (Indirect) - the BHPN - Vendor ID (Indirect)"
+            }, {
+                "id": 34,
+                "qualifier": "the BHPN - Vendor ID (Telehealth)",
+                "description": "the BHPN - Vendor ID (Telehealth) - the BHPN - Vendor ID (Telehealth)"
+            }, {
+                "id": 27,
+                "qualifier": "the BHPN - Vendor Name (Direct)",
+                "description": "the BHPN - Vendor Name (Direct) - the BHPN - Vendor Name (Direct)"
+            }, {
+                "id": 28,
+                "qualifier": "the BHPN - Vendor Name (Indirect)",
+                "description": "the BHPN - Vendor Name (Indirect) - the BHPN - Vendor Name (Indirect)"
+            }, {
+                "id": 35,
+                "qualifier": "the BHPN - Vendor Name (Telehealth)",
+                "description": "the BHPN - Vendor Name (Telehealth) - the BHPN - Vendor Name (Telehealth)"
+            }, {
+                "id": 22,
+                "qualifier": "TJ",
+                "description": "TJ - Federal taxpayer's Identification Number"
+            }, {
+                "id": 1,
+                "qualifier": "UCI",
+                "description": "UCI - UCI Number"
+            }, {
+                "id": 2,
+                "qualifier": "Vendor #",
+                "description": "Vendor # - Vendor Number"
+            }, {
+                "id": 23,
+                "qualifier": "X4",
+                "description": "X4 - Clinical Laboratory Improvement Amendment Number"
+            }, {
+                "id": 24,
+                "qualifier": "X5",
+                "description": "X5 - State Industrial Accident Provider Number"
+            }
+        ]
+    },
+    "states": [{
+            "value": "",
+            "display": ""
+        }, {
+            "value": "AK",
+            "display": "Alaska"
+        }, {
+            "value": "AL",
+            "display": "Alabama"
+        }, {
+            "value": "AR",
+            "display": "Arkansas"
+        }, {
+            "value": "AZ",
+            "display": "Arizona"
+        }, {
+            "value": "CA",
+            "display": "California"
+        }, {
+            "value": "CO",
+            "display": "Colorado"
+        }, {
+            "value": "CT",
+            "display": "Connecticut"
+        }, {
+            "value": "DC",
+            "display": "District of Columbia"
+        }, {
+            "value": "DE",
+            "display": "Delaware"
+        }, {
+            "value": "FL",
+            "display": "Florida"
+        }, {
+            "value": "GA",
+            "display": "Georgia"
+        }, {
+            "value": "HI",
+            "display": "Hawaii"
+        }, {
+            "value": "IA",
+            "display": "Iowa"
+        }, {
+            "value": "ID",
+            "display": "Idaho"
+        }, {
+            "value": "IL",
+            "display": "Illinois"
+        }, {
+            "value": "IN",
+            "display": "Indiana"
+        }, {
+            "value": "KS",
+            "display": "Kansas"
+        }, {
+            "value": "KY",
+            "display": "Kentucky"
+        }, {
+            "value": "LA",
+            "display": "Louisiana"
+        }, {
+            "value": "MA",
+            "display": "Massachusetts"
+        }, {
+            "value": "MD",
+            "display": "Maryland"
+        }, {
+            "value": "ME",
+            "display": "Maine"
+        }, {
+            "value": "MI",
+            "display": "Michigan"
+        }, {
+            "value": "MN",
+            "display": "Minnesota"
+        }, {
+            "value": "MO",
+            "display": "Missouri"
+        }, {
+            "value": "MS",
+            "display": "Mississippi"
+        }, {
+            "value": "MT",
+            "display": "Montana"
+        }, {
+            "value": "NC",
+            "display": "North Carolina"
+        }, {
+            "value": "ND",
+            "display": "North Dakota"
+        }, {
+            "value": "NE",
+            "display": "Nebraska"
+        }, {
+            "value": "NH",
+            "display": "New Hampshire"
+        }, {
+            "value": "NJ",
+            "display": "New Jersey"
+        }, {
+            "value": "NM",
+            "display": "New Mexico"
+        }, {
+            "value": "NV",
+            "display": "Nevada"
+        }, {
+            "value": "NY",
+            "display": "New York"
+        }, {
+            "value": "OH",
+            "display": "Ohio"
+        }, {
+            "value": "OK",
+            "display": "Oklahoma"
+        }, {
+            "value": "OR",
+            "display": "Oregon"
+        }, {
+            "value": "PA",
+            "display": "Pennsylvania"
+        }, {
+            "value": "RI",
+            "display": "Rhode Island"
+        }, {
+            "value": "SC",
+            "display": "South Carolina"
+        }, {
+            "value": "SD",
+            "display": "South Dakota"
+        }, {
+            "value": "TN",
+            "display": "Tennessee"
+        }, {
+            "value": "TX",
+            "display": "Texas"
+        }, {
+            "value": "UT",
+            "display": "Utah"
+        }, {
+            "value": "VA",
+            "display": "Virginia"
+        }, {
+            "value": "VI",
+            "display": "Virgin Islands"
+        }, {
+            "value": "VT",
+            "display": "Vermont"
+        }, {
+            "value": "WA",
+            "display": "Washington"
+        }, {
+            "value": "WI",
+            "display": "Wisconsin"
+        }, {
+            "value": "WV",
+            "display": "West Virginia"
+        }, {
+            "value": "WY",
+            "display": "Wyoming"
+        }
+    ],
+    "countries": ["", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Anguilla", "Antarctica", "Antigua And Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bermuda", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", "Bouvet Island", "Brazil", "British Indian Ocean Territory", "Brunei Darussalam", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia", "Cameroon", "Canada", "Cape Verde", "Cayman Islands", "Central African Republic", "Chad", "Chile", "China", "Christmas Island", "Cocos (Keeling) Islands", "Colombia", "Comoros", "Congo", "Congo, the Democratic Republic of the", "Cook Islands", "Costa Rica", "Cote dIvoire", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic", "East Timor", "Ecuador", "Egypt", "El Salvador", "England", "Equatorial Guinea", "Eritrea", "Espana", "Estonia", "Ethiopia", "Falkland Islands", "Faroe Islands", "Fiji", "Finland", "France", "French Guiana", "French Polynesia", "French Southern Territories", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Gibraltar", "Great Britain", "Greece", "Greenland", "Grenada", "Guadeloupe", "Guam", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti", "Heard and Mc Donald Islands", "Honduras", "Hong Kong", "Hungary", "Iceland", "India", "Indonesia", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea (South)", "Korea, Republic of", "Kuwait", "Kyrgyzstan", "Lao Peoples Democratic Republic", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "Macau", "Macedonia", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta", "Marshall Islands", "Martinique", "Mauritania", "Mauritius", "Mayotte", "Mexico", "Micronesia, Federatd States of", "Moldova, Republic of", "Monaco", "Mongolia", "Montserrat", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal", "Netherlands", "Netherlands Antilles", "New Caledonia", "New Zealand", "Nicaragua", "Niger", "Nigeria", "Niue", "Norfolk Island", "Northern Ireland", "Northern Mariana Islands", "Norway", "Oman", "Pakistan", "Palau", "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Pitcairn", "Poland", "Portugal", "Puerto Rico", "Qatar", "Reunion", "Romania", "Russia", "Russian Federation", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa (Independent)", "San Marino", "Sao Tome and Principe", "Saudi Arabia", "Scotland", "Senegal", "Serbia and Montenegro", "Seychelles", "Sierra Leone", "Singapore", "Slovakia", "Slovenia", "Solomon Islands", "Somalia", "South Africa", "South Korea", "Spain", "Sri Lanka", "St. Helena", "St. Pierre and Miquelon", "Suriname", "Svalbard and Jan Mayen Islands", "Swaziland", "Sweden", "Switzerland", "Taiwan", "Tajikistan", "Tanzania", "Thailand", "Togo", "Tokelau", "Tonga", "Trinidad", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", "Turks and Caicos Islands", "Tuvalu", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "United States Minor Outlying Islands", "Uruguay", "Uzbekistan", "Vanuatu", "Vatican City State (Holy See)", "Venezuela", "Viet Nam", "Virgin Islands (British)", "Virgin Islands (U.S.)", "Wales", "Wallis and Futuna Islands", "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"],
+    "specialtySearch": "",
+    "zipWithDash": "",
+    "validating": true,
+    "isUserOrg": false,
+    "usAddress": true,
+    "validation": {
+        "lastName": "test - ",
+        "zipPostalCode": "",
+        "phoneWork": "",
+        "phoneFax": "",
+        "npiNumber": "",
+        "taxId": "",
+        "socialSecurityNumber": "",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

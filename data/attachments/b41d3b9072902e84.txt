@@ -1,0 +1,1 @@
+{"intervals":[{"windowStart":"0008-07-01T00:00:00.0000000Z","totalHours":38.00000}],"result":"OK","failed":false,"cachedTime":0}

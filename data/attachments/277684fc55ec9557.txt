@@ -1,0 +1,50 @@
+{
+    "id": -1,
+    "name": "Name Employee form3D0jj",
+    "description": "",
+    "contactType": 572,
+    "formType": "Employee",
+    "isPublic": false,
+    "applyContactLabels": "",
+    "assignServiceCodesWithLabels": "",
+    "assignPermissionGroups": "",
+    "sharing": [],
+    "notifyContacts": "",
+    "giveLearningTrees": "",
+    "taskTemplates": [],
+    "files": [],
+    "fields": [
+        {
+            "name": "First Name",
+            "type": "input",
+            "required": true,
+            "text": "",
+            "sortOrder": "",
+            "columnName": "FirstName",
+            "metaDataFieldId": ""
+        },
+        {
+            "name": "Last Name",
+            "type": "input",
+            "required": true,
+            "text": "",
+            "sortOrder": "",
+            "columnName": "LastName",
+            "metaDataFieldId": ""
+        },
+        {
+            "name": "Email",
+            "type": "input",
+            "required": true,
+            "text": "Your login information will be sent to this address",
+            "sortOrder": "",
+            "columnName": "Email",
+            "metaDataFieldId": ""
+        }
+    ],
+    "emailSubject": "",
+    "emailBody": "",
+    "sendWelcomeEmail": true,
+    "postSubmitRedirectURL": "",
+    "_utcOffsetMinutes": -180
+}

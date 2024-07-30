@@ -1,0 +1,11 @@
+{
+    "noteTemplate": {
+        "templateId": "",
+        "name": "testAPI",
+        "description": "",
+        "isSystem": false,
+        "changeReasonRequired": false,
+        "sections": [],
+        "optional": 0
+    }
+}

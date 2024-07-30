@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"SqlException","message":"Cannot insert the value NULL into column 'Modifier', table 'crlive.dbo.Timesheet_Segment_Modifier'; column does not allow nulls. INSERT fails.\r\nThe statement has been terminated.","errors":[]},"failed":false,"cachedTime":0}

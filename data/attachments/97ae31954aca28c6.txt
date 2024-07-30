@@ -1,0 +1,1 @@
+{"cacheExpires":"07/30/2024 15:05:10","success":true,"requesttime":15,"cacheKey":"","login":{"PinCode":"","Id":288525,"canEditSecurityQuestions":1,"lastLoginDate":"07/30/2024 12:04:56","Username":"CRautomation"},"cacheDate":"07/30/2024 12:05:10","querytime":0,"result":"ok"}

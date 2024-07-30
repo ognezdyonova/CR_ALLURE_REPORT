@@ -1,0 +1,1 @@
+{"providerGoalLabel":"QA Therapy Goal Library","organizationGoalLabel":"QA Therapy Goal Library","clientGoalLabel":"QA Therapy Goals","hasProviderGoals":true,"hasOrganizationGoals":true,"hasClientGoals":false,"result":"OK","failed":false,"cachedTime":1722341035830}

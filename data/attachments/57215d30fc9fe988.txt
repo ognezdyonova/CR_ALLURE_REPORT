@@ -1,0 +1,17 @@
+{
+    "page": 1,
+    "pageSize": 100,
+    "startDate": "2020-09-23",
+    "endDate": "2020-10-08",
+    "paymentTypeIds": "0,1,3,4",
+    "paymentTypeIdIncluded": "0,1,3,4",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

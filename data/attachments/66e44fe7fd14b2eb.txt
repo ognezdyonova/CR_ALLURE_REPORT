@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"ArgumentException","message":"Associated Scheduling Course does not exist.","errors":[]},"failed":false,"cachedTime":0}

@@ -1,0 +1,6 @@
+{
+    "chapter": 0,
+    "section": 0,
+    "clientId": "3030850",
+    "_utcOffsetMinutes": -180
+}

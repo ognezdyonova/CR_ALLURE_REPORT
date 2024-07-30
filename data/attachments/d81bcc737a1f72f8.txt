@@ -1,0 +1,20 @@
+{
+    "scheduleValidation": "0",
+    "requireChangeNote": "0",
+    "showAuthWarnings": "0",
+    "setEndTimeFromAppointmentType": "1",
+    "lockDate": "Invalid date",
+    "allowHiddenAppointments": "0",
+    "hiddenAppointmentsResolution": "MakeVisible",
+    "geolocationValidation": "0",
+    "maxDailyEmployeeHours": "6",
+    "maxWeeklyEmployeeHours": "25.5",
+    "_track": {
+        "channel": "scheduling",
+        "action": "settings/provider/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

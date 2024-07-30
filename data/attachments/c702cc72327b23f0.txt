@@ -1,0 +1,7 @@
+{
+    "ResourceId": "175363457",
+    "Association": {
+        "EntityId": 1,
+        "AssociationType": "string"
+    }
+}

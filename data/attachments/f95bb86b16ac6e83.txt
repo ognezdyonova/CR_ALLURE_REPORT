@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:05:59","requesttime":0,"fields":{"description":"","clientRate":"","Id":68419124,"providerName":"Q. Therapy","code":"Code nameIPrPu","clientName":"n/a","client":"","customCodeId":303262,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/30/2024 12:05:59","querytime":0,"result":"ok"}

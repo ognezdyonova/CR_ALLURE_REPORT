@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "id": 110,
+            "selected": true
+        },
+        {
+            "id": 102,
+            "selected": true
+        }
+    ]
+}

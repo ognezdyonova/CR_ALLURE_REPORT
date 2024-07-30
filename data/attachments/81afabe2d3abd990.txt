@@ -1,0 +1,19 @@
+{
+    "requests": [
+        {
+            "segment": 767110602,
+            "present": true,
+            "excused": false,
+            "other": false
+        }
+    ],
+    "_track": {
+        "channel": "scheduling",
+        "action": "attendance/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

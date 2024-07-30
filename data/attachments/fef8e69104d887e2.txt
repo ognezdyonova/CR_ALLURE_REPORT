@@ -1,0 +1,1 @@
+{"items":[{"id":350046577,"timerMin":0,"timerSec":0,"trials":0,"dataCount":0,"sessionType":0,"total":0,"hasGoal":false,"goalStatus":"Disabled"}],"result":"OK","failed":false,"cachedTime":0}

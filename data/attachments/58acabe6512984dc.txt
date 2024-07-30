@@ -1,0 +1,4 @@
+{
+    "notes": "",                   // Optional,
+    "billingPaymentId": null      // Only used on Refund billing entry payment, must not be set on client deposit
+}

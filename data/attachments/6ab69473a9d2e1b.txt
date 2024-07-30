@@ -1,0 +1,5 @@
+{
+    "cancelEventsWithoutCoverage": true,
+    "draftType": "balanced",
+    "actions": []
+}

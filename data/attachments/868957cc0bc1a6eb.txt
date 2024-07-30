@@ -1,0 +1,14 @@
+{
+  "ContactId": "3031172}",
+  "ActivityId": 0,
+  "Visibility": 1,
+  "VisibleToContact": true,
+  "ActivityTypeId": 1,
+  "ActivityDate": "2018-11-16T07:06:39.736Z",
+  "ActivityLength": 120,
+  "Name": "edited aactivitykCMUL",
+  "Description": "edited Description7srO7fhTQzFmH3P6WK31ljLIE",
+  "LabelIds": [
+    0
+  ]
+}

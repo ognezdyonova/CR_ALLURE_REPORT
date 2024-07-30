@@ -1,0 +1,33 @@
+{
+    "draftName": "Office Location 1 - 4Txfw",
+    "optimizationType": "Existing",
+    "locationTimeZone": "America/New_York",
+    "startDate": "2024-07-31T17:00:00.000Z",
+    "endDate": "2024-07-31T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": "highImpact",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 300,
+        "lengthOfLunch": 30
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595587
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595587
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "testAPI SmQJV",
+    "parentId": 0,
+    "color": "999999|ffffff",
+    "isOrgLabel": false,
+    "_utcOffsetMinutes": 300
+}

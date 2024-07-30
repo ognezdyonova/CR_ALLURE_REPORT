@@ -1,0 +1,1 @@
+{"policy":{"id":1233,"name":"new policy [API] GeSUvr","typeId":1,"carryoverMonth":1,"carryoverDay":1,"accrueOnPeriodStart":false,"usePayPeriods":true,"proRateAccruals":false,"accrualPeriodCount":30,"accrualPeriodUnit":"Day","basedOnHoursWorked":true,"levels":[{"delayCount":1,"delayUnit":"Day","hoursAccrued":1.000,"maxCarryover":1}]},"result":"OK","failed":false,"cachedTime":0}

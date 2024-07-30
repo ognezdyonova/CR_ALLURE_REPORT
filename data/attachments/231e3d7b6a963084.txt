@@ -1,0 +1,25 @@
+{
+    "op": "addcourse",
+    "startDate": "2024-07-30",
+    "startTime": 28800,
+    "endTime": 32400,
+    "principal1": "288525",
+    "principal2": "3031203",
+    "participants": "",
+    "billing": "<a><s><l>3600</l><c></c><a>0</a></s></a>",
+    "eventLabels": "",
+    "courseLabels": "",
+    "hidden": false,
+    "placeOfServiceId": "",
+    "name": "Fee Schedule",
+    "qualificationWarningsOverridden": false,
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": -180
+}

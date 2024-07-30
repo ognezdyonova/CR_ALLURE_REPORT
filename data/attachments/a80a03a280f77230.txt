@@ -1,0 +1,1 @@
+{"dateProto":"01/02/1999 03:04:05","success":true,"cacheExpires":"07/30/2024 15:05:19","requesttime":0,"cacheKey":"","items":[{"Id":1,"Name":"NET"},{"Id":2,"Name":"Pinned"}],"cacheDate":"07/30/2024 12:05:19","querytime":0,"result":"ok"}

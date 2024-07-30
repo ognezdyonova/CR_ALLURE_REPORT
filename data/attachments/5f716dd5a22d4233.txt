@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"Exception","message":"Invalid attestation statement","errors":[]},"failed":false,"cachedTime":0}

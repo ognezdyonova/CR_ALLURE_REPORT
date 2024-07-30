@@ -1,0 +1,45 @@
+{
+    "id": "",
+    "customCodeId": 303316,
+    "code": "",
+    "description": "",
+    "client": 3031354,
+    "provider": 3031350,
+    "clientRate": "1",
+    "providerRate": "1",
+    "clientName": "Client1",
+    "providerName": "Employee1",
+    "codeName": "Service Code 303316: Description",
+    "selected": "",
+    "active": "",
+    "hovered": "",
+    "_dirty": true,
+    "isDirty": true,
+    "dirtySubscriptions": [
+        {
+            "da": "1",
+            "Hb": false
+        },
+        {
+            "da": "1",
+            "Hb": false
+        }
+    ],
+    "newCustomRateAlreadyExists": false,
+    "validation": {
+        "client": 3031354,
+        "provider": 3031350,
+        "clientRate": "1",
+        "providerRate": "1",
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/code/customrate/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

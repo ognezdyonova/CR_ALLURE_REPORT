@@ -1,0 +1,16 @@
+{
+    "clientId": 3031237,
+    "providerId": 3031240,
+    "clientRate": "123",
+    "providerRate": "123",
+    "data": "<servicecodes><items><servicecode><id>67034</id></servicecode></items></servicecodes>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/defaultrates/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

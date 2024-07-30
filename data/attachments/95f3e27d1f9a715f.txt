@@ -1,0 +1,86 @@
+{
+    "contact": {
+        "firstName": "Client1 First Name6784X",
+        "lastName": "Client1 First NameHZf49",
+        "type": "client",
+        "email": "testoOdP1@test.t",
+        "noemail": true,
+        "dateOfBirth": "1988-08-08T00:00:00.000Z",
+        "id": "",
+        "error": "",
+        "permissions": {
+            "userCanAddClients": true,
+            "userCanAddClientsDefault": true,
+            "userCanAddEmployees": true,
+            "userCanAddEmployeesDefault": true,
+            "userCanAddGenerics": true,
+            "userCanAddGenericsDefault": true,
+            "userCanAddProviders": true,
+            "userCanEditEmployees": true,
+            "userCanManageContactLabels": true,
+            "userCanManageOrgLabels": true,
+            "userCanCopyNotes": true,
+            "importemp": true,
+            "importclient": true,
+            "export": true,
+            "emptoclient": true,
+            "emptoemp": true,
+            "metadatasettings": true,
+            "forms": true,
+            "userCanEditMetaData": true,
+            "userIsOrganization": true
+        },
+        "contactTypes": [
+            {
+                "display": "Employee",
+                "value": "employee",
+                "description": "Who works for you. Connect to employees, general contacts and network providers."
+            },
+            {
+                "display": "Client",
+                "value": "client",
+                "description": "Who you bill and provide services to. Connect to employees, general contacts and network providers."
+            },
+            {
+                "display": "Provider",
+                "value": "provider",
+                "description": "Organization or contact with whom you would like to share information with."
+            },
+            {
+                "display": "Generic",
+                "value": "generic",
+                "description": "General contact in your account. Immediately added to your network. Connect to employees, general contacts, network providers."
+            }
+        ],
+        "contactTypesAvailableToAdd": [
+            {
+                "display": "Employee",
+                "value": "employee",
+                "description": "Who works for you. Connect to employees, general contacts and network providers."
+            },
+            {
+                "display": "Client",
+                "value": "client",
+                "description": "Who you bill and provide services to. Connect to employees, general contacts and network providers."
+            },
+            {
+                "display": "Provider",
+                "value": "provider",
+                "description": "Organization or contact with whom you would like to share information with."
+            },
+            {
+                "display": "Generic",
+                "value": "generic",
+                "description": "General contact in your account. Immediately added to your network. Connect to employees, general contacts, network providers."
+            }
+        ],
+        "description": "Who works for you. Connect to employees, general contacts and network providers.",
+        "validation": {
+            "firstName": "Client1 First Name6784X",
+            "lastName": "Client1 First NameHZf49",
+            "email": "testoOdP1@test.t",
+            "errors": []
+        },
+        "IsNew": 1
+    }
+}

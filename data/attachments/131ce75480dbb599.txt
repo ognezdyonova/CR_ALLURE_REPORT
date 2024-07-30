@@ -1,0 +1,14 @@
+{
+    "clientId": 288525,
+    "billingEntryId": 224492891,
+    "search": "",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/entry/payments",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

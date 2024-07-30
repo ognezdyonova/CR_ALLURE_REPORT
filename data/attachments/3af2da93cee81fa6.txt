@@ -1,0 +1,1 @@
+{"entryDetails":{"name":"test","id":399107,"client":3031205,"org":288525,"orgName":"QA Therapy (ID: 288525)","notes":"","endTs":61200,"endDate":"9999-02-01T00:00:00.0000000Z","startTs":32400,"startDate":"2024-07-30T00:00:00.0000000Z","placeOfService":1},"entryOffsets":[{"offset":1},{"offset":2},{"offset":3},{"offset":4},{"offset":5}],"result":"OK","failed":false,"cachedTime":0}

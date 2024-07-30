@@ -1,0 +1,17 @@
+{
+    "positionId": "",
+    "contactId": 3031215,
+    "name": "{{schedulingEmployeeFirstName}} {{schedulingEmployeeLastName}}",
+    "companyName": "",
+    "startDate": "12/13/2021",
+    "endDate": "12/14/2021",
+    "description": "test",
+    "organizationId": 288525,
+    "deletedDate": "",
+    "deletedBy": "",
+    "deletedByName": "",
+    "deleted": false,
+    "expired": false,
+    "info": "",
+    "_utcOffsetMinutes": 300
+}

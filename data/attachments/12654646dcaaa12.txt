@@ -1,0 +1,6 @@
+{
+    "contactId": 1111842,
+    "grantee": 288525,
+    "policy": "2",
+    "_utcOffsetMinutes": 300
+}

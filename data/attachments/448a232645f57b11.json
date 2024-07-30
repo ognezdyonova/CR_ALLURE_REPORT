@@ -1,0 +1,15 @@
+{
+    "authority": "beta-ent-dev-members.env.centralreach.com",
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "authorization": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IkFBOEJEMEQzMjUwODlEQTcxNzUxNEEwMUUxNEVFMDk0N0NCQTc3NjlSUzI1NiIsInR5cCI6ImF0K2p3dCIsIng1dCI6InFvdlEweVVJbmFjWFVVb0I0VTdnbEh5NmQyayJ9.eyJpc3MiOiJodHRwczovL2xvZ2luLmRldi5lbnYuY2VudHJhbHJlYWNoLmNvbSIsIm5iZiI6MTY2NDI5ODAxNCwiaWF0IjoxNjY0Mjk4MDE0LCJleHAiOjE2NjQzMDE2MTQsInNjb3BlIjpbIm9wZW5pZCIsIm9mZmxpbmVfYWNjZXNzIl0sImFtciI6WyJwd2QiXSwiY2xpZW50X2lkIjoib2lkYyIsInN1YiI6IjJjODRiZDQ4LTI5Y2UtNDc3Mi1iMjc4LTNkOGQyMmJmN2JhMyIsImF1dGhfdGltZSI6MTY2NDI5ODAxMywiaWRwIjoibG9jYWwiLCJ1c2VyaWQiOiIyYzg0YmQ0OC0yOWNlLTQ3NzItYjI3OC0zZDhkMjJiZjdiYTMiLCJvcmdpZHMiOlsiNGI5ZTRjY2EtNzE3Mi00MjdmLTlkMjMtNTE0NzI0NWNlYzE0IiwiMDY0MjIzZmQtMTY3Yi00NmExLWI4YzAtMWIzZmU5MmJjMzkzIiwiMDI5MDVjYzctZjI3Yi00OWQxLWFjOGQtM2E0NTJmYTNiZDlkIl0sInRpbWVvdXQiOjE1LCJvcmdpZCI6IjRiOWU0Y2NhLTcxNzItNDI3Zi05ZDIzLTUxNDcyNDVjZWMxNCIsIm9yZ2NvZGUiOiJxdWFsaXR5aW5jIiwib3JnIjp7ImZlYXR1cmVzIjpbIkVudGVycHJpc2UiXSwicm9sZXMiOlsiQWRtaW5pc3RyYXRvciJdfSwicm9sZXMiOltdLCJzaWQiOiI4NDQxODIyNjFCOURCQTk2OTM5ODVBRDY1QUIyODczOSIsImp0aSI6Ijg4REJFOEJCNERGMkNFOUI0OURCMEJDN0I3QTI3MENDIn0.Ch-NKL_Ftq9pIeJ69qhSuaUvJKkJr-G_7Mi1UOWqhLBhp1J-D7Ez-RDTCMGJ02_Vri9xOISoERtNFhUWydYviWwTEqZWzEtek9Apqbzk_4k_kwpJK_MlnJVv1gbNOhtOI1IKssyV96wn86ymfOiD8MyLRzOR-gsWubt4cqNL4o6O3pcwWPVnrQ0Z_K0zD6IqMeHTuSXLnh69XbQXSS4Rb_b4-MEHgAtp4aIxNYs9QzrjeUfFEzUiTKqjw-BiGS1wGZU9rQFzXtNAXMi7yLVCVWoHfPezHRXLSAanwebbnL9ufd0wEi-nefOvOS7eMunoSNnVGOJDv0-m5QUxOEXMJw",
+    "content-type": "application/json; charset=UTF-8",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "d1afdebb-e8ce-4bd9-8e17-bb6ec7c26067",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "26",
+    "Cookie": "ss-id=IjbUNOkTxZpvZaQCKIk4; ss-pid=yZtIpj3SjGbsLXJ7B2vU; ss-opt=temp"
+}

@@ -1,0 +1,7 @@
+{
+    "contactId": 3031266,
+    "name": "Test Client2 3031266",
+    "description": "Description",
+    "isAuthorization": true,
+    "_utcOffsetMinutes": 240
+}

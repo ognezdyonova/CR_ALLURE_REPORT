@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"'ProviderContactId' must not be empty.","errors":[{"errorCode":"NotEmpty","fieldName":"Timesheet.Segments[0].ProviderContactId","message":"'ProviderContactId' must not be empty.","meta":{"PropertyName":"ProviderContactId","PropertyValue":"0","CollectionIndex":"0"}}]},"failed":false,"cachedTime":0}

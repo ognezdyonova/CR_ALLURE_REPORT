@@ -1,0 +1,1 @@
+{"responsibilityTotals":[{"responsibilityId":2,"responsibilityName":"Client","count":78},{"responsibilityId":0,"responsibilityName":"None","count":25},{"responsibilityId":3,"responsibilityName":"Parent/Caregiver","count":4},{"responsibilityId":1,"responsibilityName":"Service Provider","count":9}],"result":"OK","failed":false,"cachedTime":1722340989990}

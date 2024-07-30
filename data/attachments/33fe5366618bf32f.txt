@@ -1,0 +1,12 @@
+{
+    "name": "test11",
+    "cancellationType": "Other",
+    "_track": {
+        "channel": "scheduling",
+        "action": "settings/cancellationreasons/reason/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

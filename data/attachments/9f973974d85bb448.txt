@@ -1,0 +1,1 @@
+{"fields":{"color":"999999|ffffff","ownerContactId":288525,"isDeleted":false,"labelId":10774,"name":"new bundle labelbxU4EImgjf7f","parentLabelId":0},"result":"OK","failed":false,"cachedTime":0}

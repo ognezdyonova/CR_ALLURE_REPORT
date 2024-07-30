@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"'Pointer' must not be empty.","errors":[{"errorCode":"NotEmpty","fieldName":"Timesheet.Segments[0].Pointers[0].Pointer","message":"'Pointer' must not be empty.","meta":{"PropertyName":"Pointer","PropertyValue":"","CollectionIndex":"0"}}]},"failed":false,"cachedTime":0}

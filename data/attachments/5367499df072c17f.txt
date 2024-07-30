@@ -1,0 +1,1 @@
+{"results":{"canManage":1,"canManageOthers":1,"requireChangeNote":0,"showAuthWarnings":0,"setEndTimeFromAppointmentType":1,"allowCancellation":1,"userTypeId":572,"allowHiddenAppointments":false,"scheduleValidation":0,"geolocationValidation":false,"maxDailyEmployeeHours":8,"maxWeeklyEmployeeHours":40},"result":"OK","failed":false,"cachedTime":1722341110596}

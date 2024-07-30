@@ -1,0 +1,20 @@
+{
+    "Action": "string",
+    "Ext": "Test export",
+    "ExportParams": {
+        "FileExtension": "test",
+        "Delimiter": "sdfsdf",
+        "TrimFields": true,
+        "ExportSettingsId": "291",
+        "DwReportId": "string",
+        "HistoryId": "110415",
+        "ReportName": "string",
+        "ReportDescription": "string",
+        "Page": 1,
+        "PageSize": 1,
+        "Desc": true,
+        "After": "string",
+        "Offset": 0,
+        "Take": 0
+    }
+}

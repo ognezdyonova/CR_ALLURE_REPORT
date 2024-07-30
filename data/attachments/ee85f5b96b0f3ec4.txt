@@ -1,0 +1,5 @@
+{
+    "name": "Test grpoup by API",
+    "sessions": "836437",
+    "_utcOffsetMinutes": -180
+}

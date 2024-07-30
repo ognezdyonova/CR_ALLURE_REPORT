@@ -1,0 +1,34 @@
+{
+    "locationTimeZone": "America/New_York",
+    "draftName": "Office Location 1 - DfeDJ",
+    "optimizationType": "FillClientHours",
+    "optimizeBy": "balanced",
+    "startDate": "2024-07-31T17:00:00.000Z",
+    "endDate": "2024-07-31T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 300,
+        "lengthOfLunch": 30
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595584
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595584
+        ],
+        "includeGenerics": true
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

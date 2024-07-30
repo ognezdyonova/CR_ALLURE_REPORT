@@ -1,0 +1,27 @@
+{
+    "contactId": 1084143,
+    "id": "",
+    "createdBy": "",
+    "createdByName": "",
+    "creationDate": "",
+    "deletedBy": "",
+    "deletedDate": "",
+    "modifiedBy": "",
+    "modifiedByName": "",
+    "dateTaken": "2022-02-02 04:58",
+    "note": "123",
+    "canEdit": "",
+    "privacy": "2",
+    "hideFromContact": "",
+    "noteInfo": false,
+    "dateTakenInvalid": false,
+    "dateTakenTime": "4:58 AM",
+    "dateTakenDate": "2022-02-02T09:58:18.355Z",
+    "firstDayOfPeriod": true,
+    "flowAmount": "4",
+    "validation": {
+        "dateTakenDate": "2022-02-02T09:58:18.355Z",
+        "errors": []
+    },
+    "_utcOffsetMinutes": 300
+}

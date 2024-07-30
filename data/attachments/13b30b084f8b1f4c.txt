@@ -1,0 +1,25 @@
+{
+    "location": {
+        "locationId": false,
+        "principal": 3031308,
+        "name": "street",
+        "addressLine1": "1800 Southwest 3rd Avenue",
+        "addressLine2": "",
+        "city": "Miami",
+        "stateProvince": "FL",
+        "zipPostalCode": "33129",
+        "country": "United States",
+        "latitude": 25.76076,
+        "longitude": -80.20106,
+        "timeZone": "America/New_York",
+        "typeId": 20,
+        "_track": {
+            "channel": "scheduling",
+            "action": "address/add",
+            "source": "Desktop",
+            "latitude": 0,
+            "longitude": 0,
+            "metric": 0
+        }
+    }
+}

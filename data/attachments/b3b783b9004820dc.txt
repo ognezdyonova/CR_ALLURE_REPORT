@@ -1,0 +1,12 @@
+{
+    "id": -1,
+    "avgCostMin": "55",
+    "avgCostMax": "95",
+    "acceptCreditCard": "",
+    "acceptInsurance": "",
+    "slidingScale": true,
+    "freeFaceToFaceConsult": "",
+    "freePhoneConsult": "",
+    "contactId": "288525",
+    "_utcOffsetMinutes": 240
+}

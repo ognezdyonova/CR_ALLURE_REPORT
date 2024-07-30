@@ -1,0 +1,227 @@
+{
+    "__validationConfigured": true,
+    "name": "edited group yh9NN6SK7L",
+    "deductionOccurrence": "Daily",
+    "plans": [
+        {
+            "benefitTypeId": 2,
+            "benefitType": {
+                "id": 2,
+                "name": "Dental",
+                "hasCoverageOptions": true,
+                "costOptions": "Fixed",
+                "icon": "smile"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 10,
+            "benefitType": {
+                "id": 10,
+                "name": "Disability",
+                "hasCoverageOptions": false,
+                "costOptions": "None",
+                "icon": "wheelchair"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 8,
+            "benefitType": {
+                "id": 8,
+                "name": "FSA",
+                "hasCoverageOptions": false,
+                "costOptions": "None",
+                "icon": "money-bill-alt"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 7,
+            "benefitType": {
+                "id": 7,
+                "name": "HSA",
+                "hasCoverageOptions": false,
+                "costOptions": "None",
+                "icon": "money-bill-alt"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 1,
+            "benefitType": {
+                "id": 1,
+                "name": "Health",
+                "hasCoverageOptions": true,
+                "costOptions": "Fixed",
+                "icon": "stethoscope"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 9,
+            "benefitType": {
+                "id": 9,
+                "name": "Life",
+                "hasCoverageOptions": false,
+                "costOptions": "None",
+                "icon": "life-ring"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 12,
+            "benefitType": {
+                "id": 12,
+                "name": "Reimbursement",
+                "hasCoverageOptions": false,
+                "costOptions": "Reimbursement",
+                "icon": "dollar-sign"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 6,
+            "benefitType": {
+                "id": 6,
+                "name": "Retirement",
+                "hasCoverageOptions": false,
+                "costOptions": "None",
+                "icon": "dollar-sign"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 5,
+            "benefitType": {
+                "id": 5,
+                "name": "Supplemental Health",
+                "hasCoverageOptions": true,
+                "costOptions": "Fixed",
+                "icon": "medkit"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 4,
+            "benefitType": {
+                "id": 4,
+                "name": "Variable Rate Health",
+                "hasCoverageOptions": true,
+                "costOptions": "Variable",
+                "icon": "medkit"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 3,
+            "benefitType": {
+                "id": 3,
+                "name": "Vision",
+                "hasCoverageOptions": true,
+                "costOptions": "Fixed",
+                "icon": "eye"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        },
+        {
+            "benefitTypeId": 11,
+            "benefitType": {
+                "id": 11,
+                "name": "Other",
+                "hasCoverageOptions": false,
+                "costOptions": "None",
+                "icon": "check"
+            },
+            "availablePlans": [],
+            "benefitPlanId": null,
+            "eligibilityIsBasedOnHireDate": false,
+            "eligibilityDelayCount": 0,
+            "eligibilityDelayUnit": "Day",
+            "eligibilityIsAtNextMonth": false,
+            "coverageCosts": [],
+            "isEditing": false
+        }
+    ],
+    "validationModifiedTracker": {
+        "name": true,
+        "deductionOccurrence": true
+    }
+}

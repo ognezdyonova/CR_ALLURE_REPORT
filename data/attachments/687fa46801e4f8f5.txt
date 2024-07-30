@@ -1,0 +1,6 @@
+{
+    "filter": "clients",
+    "pageSize": "50",
+    "sortBy": "new",
+    "page": 1
+}

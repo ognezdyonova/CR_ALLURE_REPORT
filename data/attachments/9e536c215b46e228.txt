@@ -1,0 +1,5 @@
+{
+    "providerId": 1111842,
+    "timeslot": 4500,
+    "_utcOffsetMinutes": 300
+}

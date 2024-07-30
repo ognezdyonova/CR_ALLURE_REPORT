@@ -1,0 +1,98 @@
+{
+    "timesheet": {
+        "status": "Draft",
+        "organizationContactId": 288525,
+        "insuranceId": 1025305,
+        "providerSupplierId": 288525,
+        "billingId": 288525,
+        "referrerId": 288525,
+        "locationId": 288525,
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "timesheetSegmentId": 0,
+                "organizationContactId": 288525,
+                "providerContactId": 288525,
+                "schedulingSegmentId": "767110710",
+                "serviceDateScheduled": "2020-04-01T00:00:00.0000000Z",
+                "serviceDate": "2020-04-01T00:00:00+00:00",
+                "startTimeScheduled": "63000",
+                "startTime": "63000",
+                "endTimeScheduled": "70200",
+                "endTime": "70200",
+                "driveTime": "80",
+                "driveMileage": "80",
+                "procedureCodeIdScheduled": "303292",
+                "procedureCodeId": "303292",
+                "serviceNote": "his is testing draft Timesheets 25ZCD",
+                "serviceNotePublic": false,
+                "adminNote": "",
+                "serviceLocationIdScheduled": 1,
+                "serviceLocationId": 1,
+                "serviceLocationAddressIdScheduled": "1784672",
+                "serviceLocationAddressId": "1784672",
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false,
+                "rates": [
+                    {
+                        "feeScheduleId": null,
+                        "unitsOfService": 1,
+                        "copayAmount": null,
+                        "rateProvider": 15,
+                        "rateClient": 25,
+                        "rateClientAgreed": 25,
+                        "rateProviderDriveHourly": 0,
+                        "rateProviderDriveMileage": 0,
+                        "rateClientDriveHourly": 0,
+                        "rateClientDriveMileage": 0
+                    }
+                ],
+                "modifiers": [],
+                "pointers": [
+                    {
+                        "pointer": "1"
+                    },
+                    {
+                        "pointer": "2"
+                    },
+                    {
+                        "pointer": "3"
+                    }
+                ],
+                "signatures": [],
+                "resources": [],
+                "notes": [
+                    {
+                        "name": "Do you certify that you have taken all rest breaks etc...",
+                        "isRequired": false,
+                        "single": {
+                            "options": [
+                                "yes"
+                            ]
+                        },
+                        "answeredOn": "1900-01-01T00:00:00+00:00",
+                        "answeredBy": 0
+                    }
+                ],
+                "exceptions": [],
+                "authorizationId": null
+            }
+        ],
+        "diagnosisCodes": [
+            {
+                "diagnosisCodeId": 31329,
+                "position": 1
+            },
+            {
+                "diagnosisCodeId": 21802,
+                "position": 2
+            },
+            {
+                "diagnosisCodeId": 38653,
+                "position": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "codePackets": {
+        "flowAmountTypes": "menstruation-flow"
+    },
+    "_utcOffsetMinutes": 300
+}

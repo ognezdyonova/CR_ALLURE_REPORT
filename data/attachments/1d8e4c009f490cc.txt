@@ -1,0 +1,13 @@
+{
+    "type": "EVENT_UPDATE",
+    "payload": {
+        "draftId": "288525-optimizations-1722341396919|66a8d81b2d627100118a3853",
+        "serviceLines": [
+            {
+                "serviceCodeId": 303312,
+                "authorizationId": 175363563
+            }
+        ]
+    },
+    "useDynamoDb": true
+}

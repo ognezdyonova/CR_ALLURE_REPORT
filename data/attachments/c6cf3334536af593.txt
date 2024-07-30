@@ -1,0 +1,1 @@
+{"gatewayPayors":[{"gatewayId":0,"name":"Generic"},{"gatewayId":1,"name":"Office Ally"},{"gatewayId":2,"name":"ZirMed"},{"gatewayId":4,"name":"Medistream"},{"gatewayId":5,"name":"Internal QA"},{"gatewayId":6,"name":"Change Healthcare"},{"gatewayId":7,"name":"Tellus"}],"result":"OK","failed":false,"cachedTime":0}

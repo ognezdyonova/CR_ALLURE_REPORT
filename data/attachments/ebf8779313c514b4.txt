@@ -1,0 +1,6 @@
+{
+    "id": 288525,
+    "isAdmin": true,
+    "modules": [],
+    "ticketTypes": []
+}

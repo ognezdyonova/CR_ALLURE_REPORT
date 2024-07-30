@@ -1,0 +1,11 @@
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: resources does not have property labels
+level: log, messages: Status sent for case: TR does not supported

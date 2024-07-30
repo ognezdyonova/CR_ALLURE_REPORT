@@ -1,0 +1,29 @@
+{
+    "id": "",
+    "isPrimary": false,
+    "country": "United States",
+    "state": "MD",
+    "name": "Name educationV3vHJ",
+    "degree": "",
+    "fieldsOfStudy": "Test",
+    "startYear": "2020",
+    "endYear": "2020",
+    "activities": "",
+    "description": "",
+    "degreeId": 1073,
+    "startDate": "1/1/2020",
+    "endDate": "1/1/2020",
+    "usAddress": true,
+    "validation": {
+        "country": "United States",
+        "name": "Name educationV3vHJ",
+        "degree": "",
+        "fieldsOfStudy": "Test",
+        "startYear": "2020",
+        "endYear": "2020",
+        "degreeId": 1073,
+        "errors": []
+    },
+    "contactId": "288525",
+    "_utcOffsetMinutes": 240
+}

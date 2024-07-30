@@ -1,0 +1,14 @@
+{
+    "accountId": "304",
+    "name": "test y996s",
+    "startDate": "04/24/2019",
+    "endDate": "04/25/2019",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments/batches/import",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

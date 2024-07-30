@@ -1,0 +1,8 @@
+{
+    "resourceIds": "175363531",
+    "authGroupIds": "9069239",
+    "startDate": "01/07/2024 00:00:00",
+    "endDate": "31/07/2024 00:00:00",
+    "templateId": 18,
+    "_utcOffsetMinutes": 300
+}

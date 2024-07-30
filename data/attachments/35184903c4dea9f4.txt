@@ -1,0 +1,18 @@
+{
+    "id": "",
+    "typeId": "651",
+    "certification": "",
+    "certificationNumber": "5",
+    "description": "DescriptionYJ3G4",
+    "expirationDate": "09/30/2020",
+    "certificationDate": "1/1/2020",
+    "validation": {
+        "typeId": "651",
+        "description": "DescriptionYJ3G4",
+        "certificationDate": "1/1/2020",
+        "expirationDate": "09/30/2020",
+        "errors": []
+    },
+    "contactId": "288525",
+    "_utcOffsetMinutes": 240
+}

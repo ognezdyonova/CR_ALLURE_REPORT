@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Test658",
+    "notes": "test",
+    "startDate": "11/2024/16",
+    "endDate": "11/2024/17",
+    "startTs": 32400,
+    "endTs": 61200,
+    "location": 3592709,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 1111842,
+    "_utcOffsetMinutes": 300
+}

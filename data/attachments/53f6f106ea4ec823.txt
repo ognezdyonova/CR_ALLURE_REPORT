@@ -1,0 +1,1 @@
+{"connected":[{"contact":{"id":3031296,"firstname":"Employee1 First NameutP9W","lastname":"Employee1 Last NameKNPCf"},"type":"employee","permissions":{"documents":true,"notes":true,"authorizations":true,"clinicalSessions":true,"learningTrees":"write"},"status":"active"}],"disconnected":[],"labels":[],"result":"OK","failed":false,"cachedTime":0}

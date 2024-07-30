@@ -1,0 +1,28 @@
+{
+	"Id": 0,
+	"Name": "name note templatec9aWa",
+	"DynamicName": "d_name templateZBEgu",
+	"FormMode": true,
+	"RequiresClient": true,
+	"RequiresProvider": true,
+	"RequiresPayor": true,
+	"RequiresBillingEntry": true,
+  "Sections": [
+    {
+      "TemplateId": 0,
+      "Ref": "string",
+      "Body": "string",
+      "Name": "string",
+      "Ordinal": 0,
+      "DeleteFlag": true,
+      "IsRequired": true,
+      "AddPageBreakAfter": true,
+      "IsHeader": true,
+      "IsFooter": true,
+      "HeaderAllPages": true,
+      "HeaderBottomBorder": true,
+      "FooterBottomBorder": true,
+      "FooterPageNumber": 0
+    }
+  ]
+}

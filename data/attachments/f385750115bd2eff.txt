@@ -1,0 +1,12 @@
+{
+    "data": "<notestemplate><name>New template Test8.10</name></notestemplate>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "notestemplates/template/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

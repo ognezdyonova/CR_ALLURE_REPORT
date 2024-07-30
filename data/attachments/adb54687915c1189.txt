@@ -1,0 +1,6 @@
+{
+    "primaryLocation": "3595596",
+    "sortBy": "firstname",
+    "page": 1,
+    "pageSize": 500
+}

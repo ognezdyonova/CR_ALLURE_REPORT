@@ -1,0 +1,8 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "draftId": "288525-optimizations-1722341032505|66a8d6af34acad001354f84c",
+        "addressId": 3595529
+    },
+    "type": "EVENT_UPDATE"
+}

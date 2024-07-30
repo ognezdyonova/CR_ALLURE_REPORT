@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/30/2024 15:05:52","requesttime":0,"fields":{"Id":671,"MileageRate":52.000,"ProviderId":288525,"HourlyRate":52.000},"cacheKey":"","cacheDate":"07/30/2024 12:05:52","querytime":0,"result":"ok"}

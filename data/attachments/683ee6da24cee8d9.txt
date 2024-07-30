@@ -1,0 +1,42 @@
+{
+    "name": "test",
+    "description": "test",
+    "criteria": [
+        {
+            "id": -1,
+            "valueType": "baseline",
+            "sortOrder": 1,
+            "isOrdered": true,
+            "sessions": "",
+            "prompts": [
+                {
+                    "id": "Simultaneous Imitation",
+                    "name": "Simultaneous Imitation"
+                },
+                {
+                    "id": "Contextual Cue",
+                    "name": "Contextual Cue"
+                },
+                {
+                    "id": "Phonemic Cue",
+                    "name": "Phonemic Cue"
+                }
+            ],
+            "labels": [
+                {
+                    "labelId": 2916,
+                    "labelName": "new bundle label GSPoBkDjhK50"
+                },
+                {
+                    "labelId": 2914,
+                    "labelName": "new bundle label 0XpOjxlkAdzL"
+                },
+                {
+                    "labelId": 2908,
+                    "labelName": "label for removing"
+                }
+            ],
+            "targets": []
+        }
+    ]
+}

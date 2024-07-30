@@ -1,0 +1,20 @@
+{
+    "startDate": "2024-07-29",
+    "endDate": "2024-07-31",
+    "text": "",
+    "contactId": "",
+    "contactLabelIds": "",
+    "zip": "",
+    "radius": 20,
+    "pageSize": 15,
+    "page": 1,
+    "_track": {
+        "channel": "scheduling",
+        "action": "clients",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "firstName": "111111734",
+        "lastName": "22222275",
+        "type": "client",
+        "email": "",
+        "dateOfBirth": "2022-02-07T00:00:00.000Z",
+        "noemail": true,
+        "id": "",
+        "error": "",
+        "permissions": {
+            "userCanAddClients": true,
+            "userCanAddClientsDefault": true,
+            "userCanAddEmployees": true,
+            "userCanAddEmployeesDefault": true,
+            "userCanAddGenerics": true,
+            "userCanAddGenericsDefault": true,
+            "userCanAddProviders": true,
+            "userCanEditEmployees": true,
+            "userCanManageContactLabels": true,
+            "userCanManageOrgLabels": true,
+            "userCanCopyNotes": true,
+            "importemp": true,
+            "importclient": true,
+            "export": true,
+            "emptoclient": true,
+            "emptoemp": true,
+            "metadatasettings": true,
+            "forms": true,
+            "userCanEditMetaData": true,
+            "userIsOrganization": true,
+            "userCanAddNetworkProviders": false
+        },
+        "loading": false,
+        "contactTypes": [{
+                "display": "Employee",
+                "value": "employee",
+                "description": "Who works for you. Connect to employees, general contacts and network providers."
+            }, {
+                "display": "Client",
+                "value": "client",
+                "description": "Who you bill and provide services to. Connect to employees, general contacts and network providers."
+            }, {
+                "display": "Generic",
+                "value": "generic",
+                "description": "General contact in your account. Immediately added to your network. Connect to employees, general contacts, network providers."
+            }
+        ],
+        "contactTypesAvailableToAdd": [{
+                "display": "Employee",
+                "value": "employee",
+                "description": "Who works for you. Connect to employees, general contacts and network providers."
+            }, {
+                "display": "Client",
+                "value": "client",
+                "description": "Who you bill and provide services to. Connect to employees, general contacts and network providers."
+            }, {
+                "display": "Generic",
+                "value": "generic",
+                "description": "General contact in your account. Immediately added to your network. Connect to employees, general contacts, network providers."
+            }
+        ],
+        "description": "Who you bill and provide services to. Connect to employees, general contacts and network providers.",
+        "validation": {
+            "firstName": "111111",
+            "lastName": "222222",
+            "email": "",
+            "dateOfBirth": "02/07/2022",
+            "errors": []
+        },
+        "IsNew": 1
+    }
+}

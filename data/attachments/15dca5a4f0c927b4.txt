@@ -1,0 +1,7 @@
+{
+    "subdomain": "members",
+    "username": "CRautomation",
+    "password": "Password1!",
+    "x": "",
+    "_utcOffsetMinutes": -120
+}

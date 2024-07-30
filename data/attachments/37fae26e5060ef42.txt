@@ -1,0 +1,6 @@
+{
+    "clientId": "288525",
+    "pageSize": 20,
+    "page": 1,
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"Invalid Draft Schedule Status - Publish available only for unpublished Draft Schedules, current status: noChanges","errors":[]},"failed":false,"cachedTime":0}

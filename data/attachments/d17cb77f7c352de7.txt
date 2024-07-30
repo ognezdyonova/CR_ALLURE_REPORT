@@ -1,0 +1,8 @@
+{
+    "labelId": 0,
+    "name": "test",
+    "color": "999999|ffffff",
+    "parentId": 0,
+    "isOrgLabel": false,
+    "_utcOffsetMinutes": 300
+}

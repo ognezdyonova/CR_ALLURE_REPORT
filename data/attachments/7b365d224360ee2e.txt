@@ -1,0 +1,15 @@
+{
+    "serviceCodeId": 67034,
+    "clientId": 3031237,
+    "providerId": 3031240,
+    "templateId": 2065,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "notestemplates/relation/add",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

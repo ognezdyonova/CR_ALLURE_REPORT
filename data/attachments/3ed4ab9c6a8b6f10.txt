@@ -1,0 +1,14 @@
+{
+    "billingEntryId": 224492891,
+    "paymentId": 237623634,
+    "resourceId": 175363544,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "billing/entry/payment/resource/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

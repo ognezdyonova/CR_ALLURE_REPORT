@@ -1,0 +1,7 @@
+{
+    "filter": "clients",
+    "search": "",
+    "sortBy": "firstname",
+    "page": 1,
+    "pageSize": 5
+}

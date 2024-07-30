@@ -1,0 +1,1 @@
+{"id":-1,"result":"OK","responseStatus":{"errorCode":"NotEmpty","message":"'OrganizationId' must not be empty.","errors":[{"errorCode":"NotEmpty","fieldName":"ServiceCode.OrganizationId","message":"'OrganizationId' must not be empty.","meta":{"PropertyName":"OrganizationId","PropertyValue":"0"}}]},"failed":false,"cachedTime":0}

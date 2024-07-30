@@ -1,0 +1,16 @@
+{
+    "action": "rcm",
+    "ext": "csv",
+    "exportParams": {
+        "sortMode": "payor",
+        "startDate": "2023-01-01",
+        "endDate": "2024-01-01",
+        "contactLabelIds": [],
+        "procedureCodeLabelIds": [],
+        "billingLabelIds": [],
+        "contactLabelIdsExcluded": [],
+        "procedureCodeLabelIdsExcluded": [],
+        "billingLabelIdsExcluded": [],
+        "exportType": "rcm_csv"
+    }
+}

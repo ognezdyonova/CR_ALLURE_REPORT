@@ -1,0 +1,1 @@
+{"location":{"id":3595540,"name":"Test","contactId":288525,"typeId":0,"formattedAddress":"Test Test Test, Test 123456 Algeria","contactAddressId":0,"addressLine1":"Test","addressLine2":"Test","city":"Test","latitude":0,"longitude":0,"stateProvince":"Test","country":"Algeria","zipPostalCode":"123456"},"result":"OK","failed":false,"cachedTime":0}

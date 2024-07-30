@@ -1,0 +1,18 @@
+{
+  "id": 2147493395,
+  "criteriaId": 189301576,
+  "calcType": ">",
+  "timeFrame": 2,
+  "timeFrameType": "1",
+  "value": 80,
+  "addPhaseChange": false,
+  "progressNext": false,
+  "completeGoal": false,
+  "progressTo": "data",
+  "phaseChangeLabel": "",
+  "labelCurrentPhase": true,
+  "holdBranch": false,
+  "requireTwoProviders": false,
+  "masterId": 350045411,
+  "itemId": 350045412
+}

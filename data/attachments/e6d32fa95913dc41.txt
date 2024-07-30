@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"Invalid request body - cancellation details dates should be a valid date time format","errors":[]},"failed":false,"cachedTime":0}

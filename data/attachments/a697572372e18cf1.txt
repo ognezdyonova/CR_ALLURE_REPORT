@@ -1,0 +1,1 @@
+{"results":[{"permissionId":181,"hasPermission":false},{"permissionId":369,"hasPermission":false}],"result":"OK","failed":false,"cachedTime":1722340999493}

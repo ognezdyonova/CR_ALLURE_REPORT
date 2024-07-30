@@ -1,0 +1,21 @@
+{
+    "id": "",
+    "typeId": 1444,
+    "certification": "",
+    "certificationNumber": "",
+    "description": "",
+    "certificationMonth": "1",
+    "certificationYear": "2019",
+    "expirationDate": "",
+    "certificationDate": "1/1/2019",
+    "validation": {
+        "typeId": 1444,
+        "description": "",
+        "certificationMonth": "1",
+        "certificationYear": "2019",
+        "expirationDate": "",
+        "errors": []
+    },
+    "contactId": 3031241,
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,14 @@
+{
+    "principal1": "288525",
+    "principal2": "288525",
+    "events": [
+        {
+            "startTimeSecondsFromMidnight": 1,
+            "eventLengthInSeconds": 3600,
+            "eventName": "Test schedule events",
+            "eventDate": "2024-07-30",
+            "segments": []
+        }
+    ],
+    "timeZone": "America/New_York"
+}

@@ -1,0 +1,18 @@
+{
+    "hourlyRate": 52,
+    "mileageRate": 52,
+    "validation": {
+        "hourlyRate": 52,
+        "mileageRate": 52,
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "driverates/default/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

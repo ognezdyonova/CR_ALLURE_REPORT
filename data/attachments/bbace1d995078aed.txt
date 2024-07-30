@@ -1,0 +1,1 @@
+{"result":"OK","responseStatus":{"errorCode":"ValidationException","message":"Validation failed: \r\n -- PayorType: Invalid payor type.","errors":[{"errorCode":"Custom","fieldName":"PayorType","message":"Invalid payor type.","meta":{}}]},"failed":false,"cachedTime":0}

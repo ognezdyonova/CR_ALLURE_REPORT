@@ -1,0 +1,7 @@
+{
+    "templateGroupId": 61631,
+    "id": "",
+    "name": "qwe",
+    "importance": 1,
+    "_utcOffsetMinutes": 300
+}

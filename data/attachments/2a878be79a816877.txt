@@ -1,0 +1,74 @@
+{
+    "draftName": "Office Location 6 - JaSGb",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "EmployeeCancellationCoverage",
+    "startDate": "2024-07-31T00:00:00",
+    "endDate": "2024-08-06T23:59:59",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595602
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3595602
+        ],
+        "includeGenerics": false
+    },
+    "employeeCancellationDetails": [
+        {
+            "providerId": 3031350,
+            "startDateTime": "2024-07-31T00:00:00",
+            "endDateTime": "2024-08-06T23:59:59",
+            "isAllDay": true,
+            "reasonId": 1,
+            "additionalNotes": "API test",
+            "coverageLabels": [],
+            "includeLabelIds": [],
+            "excludeLabelIds": []
+        },
+        {
+            "providerId": 3031351,
+            "startDateTime": "2024-07-31T00:00:00",
+            "endDateTime": "2024-08-06T23:59:59",
+            "isAllDay": true,
+            "reasonId": 1,
+            "additionalNotes": "API test",
+            "coverageLabels": [],
+            "includeLabelIds": [],
+            "excludeLabelIds": []
+        },
+        {
+            "providerId": 3031352,
+            "startDateTime": "2024-07-31T00:00:00",
+            "endDateTime": "2024-08-06T23:59:59",
+            "isAllDay": true,
+            "reasonId": 1,
+            "additionalNotes": "API test",
+            "coverageLabels": [],
+            "includeLabelIds": [],
+            "excludeLabelIds": []
+        },
+        {
+            "providerId": 3031353,
+            "startDateTime": "2024-07-31T00:00:00",
+            "endDateTime": "2024-08-06T23:59:59",
+            "isAllDay": true,
+            "reasonId": 1,
+            "additionalNotes": "API test",
+            "coverageLabels": [],
+            "includeLabelIds": [],
+            "excludeLabelIds": []
+        }
+    ]
+}

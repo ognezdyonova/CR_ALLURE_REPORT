@@ -1,0 +1,1 @@
+{"credentialsByRequestedIds":[{"feeScheduleRateId":768244,"credentialGroups":[{"displayOrder":0,"certifications":[{"certificateId":1448}]}]}],"result":"OK","failed":false,"cachedTime":0}

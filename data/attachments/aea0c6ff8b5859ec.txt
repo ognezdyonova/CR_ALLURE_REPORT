@@ -1,0 +1,1 @@
+{"dateProto":"01/02/1999 03:04:05","success":true,"cacheExpires":"07/30/2024 15:05:34","requesttime":505,"cacheKey":"","url":"https://s3.amazonaws.com/ent-dev-docs.centralreach.com/7/30/288525-12-5-33-certificate-1.pdf?AWSAccessKeyId=AKIAJWWGOJJ755LSWULA&Expires=1722342034&Signature=iO2EgC%2Bh%2F5NPPTPzsD7YvGOoLA8%3D","cacheDate":"07/30/2024 12:05:34","querytime":0,"result":"ok"}

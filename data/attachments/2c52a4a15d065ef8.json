@@ -1,0 +1,12 @@
+{
+    "Authorization": "Bearer Q55mkDUQd1E94UcT8XDWu9GDWLKETOsEmM6XVdh2vOkTvIIyEzunZeKfu9UDa2Buytn5AuyZCLFB2ci/l3dIORkiMBMAqhieqjgHJ3iXIrqWP+GrGpgv1KpcohimQWW60hcNlaOuYygxJl7XbmKYx0gSJDX44bBgE7yCMhM7p2U37ctJ847RrjEmXtduYpjHhDTgViWf69rPjk8pxp24y90f1KQMTFrpoM1secCVeL8v53rrwwwCZPJkHAOeK9ztZUHwRjAoW+8SJ5ukB3AUH9lnwnlSleyknqFyLWEKDa4=",
+    "x-cr-auth-scheme": "Enterprise",
+    "User-Agent": "PostmanRuntime/7.29.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "694d4ace-74a1-4b58-80a6-aaafd1272576",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "ss-id=E5OJVAp3E1NmsjATYkVO; ss-pid=0wvibUCMCT4FMgLFTMLq; ss-opt=temp"
+}

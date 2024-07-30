@@ -1,0 +1,15 @@
+{
+    "connectContactId": "3031322",
+    "pageIndex": 1,
+    "page": 1,
+    "pageSize": 50,
+    "search": "",
+    "searchLabel": "",
+    "searchType": "",
+    "connectType": 3,
+    "contactLabelId": "",
+    "isDisconnect": true,
+    "includeGenerics": false,
+    "includeInactive": false,
+    "_utcOffsetMinutes": -180
+}

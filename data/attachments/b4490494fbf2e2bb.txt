@@ -1,0 +1,11 @@
+{
+    "_track": {
+        "channel": "billingmanager",
+        "action": "notestemplates",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

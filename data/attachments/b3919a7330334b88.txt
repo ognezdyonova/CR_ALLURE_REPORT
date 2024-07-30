@@ -1,0 +1,14 @@
+{
+    "sourceId": "288525",
+    "employeeIds": [
+        "3031187"
+    ],
+    "_track": {
+        "channel": "scheduling",
+        "action": "settings/syncappointmenttypes",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

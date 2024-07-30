@@ -1,0 +1,1 @@
+{"id":2385461,"copayAmount":0.00,"copayAmountType":0,"copayFrequency":0,"payorName":"Primary:  A+ Arts Academy > Standard (Labeled: test)","isCreditCard":false,"result":"OK","failed":false,"cachedTime":0}

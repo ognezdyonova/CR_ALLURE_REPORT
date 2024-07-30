@@ -1,0 +1,18 @@
+{
+    "templateItem": {
+        "__validationConfigured": true,
+        "id": null,
+        "name": "test",
+        "description": "",
+        "dueDateOffset": 0,
+        "taskLabelsSelected": null,
+        "dueDateOffsetTimeOfDay": 1020,
+        "sortOrder": 0,
+        "templateId": 5231,
+        "error": "",
+        "labelIds": "",
+        "validationModifiedTracker": {
+            "name": true
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "timesheet": {
+        "timesheetId": "1616",
+        "organizationContactId": "288525",
+        "schedulingEventId": "613294470",
+        "schedulingCourseId": "146874043",
+        "clientContactId": "353675",
+        "insuranceId": "2384284",
+        "referrerId": "288525",
+        "managerId": "null",
+        "billingId": "288525",
+        "locationId": "288525",
+        "providerSupplierId": "288525",
+        "status": "draft",
+        "source": "mobile",
+        "rowVersion": "AAAAAAA+IKE=",
+        "creationDate": "2024-07-30T12:07:37.8530000Z",
+        "segments": [
+            {
+                "timeZone": "America/New_York",
+                "timesheetSegmentId": "1991",
+                "organizationContactId": "288525",
+                "providerContactId": "288525",
+                "schedulingSegmentId": "767110677",
+                "serviceDateScheduled": "2024-07-30T00:00:00.0000000Z",
+                "serviceDate": "2024-07-30T00:00:00.0000000Z",
+                "startTimeScheduled": "18000",
+                "startTimeOriginal": "null",
+                "startTime": "18000",
+                "endTimeScheduled": "25200",
+                "endTimeOriginal": "null",
+                "endTime": "25200",
+                "driveTimeScheduled": "80",
+                "driveTime": "80",
+                "driveMileageScheduled": "80",
+                "driveMileage": "45.7",
+                "procedureCodeIdScheduled": "303268",
+                "procedureCodeId": "303268",
+                "serviceNote": "This is testing draft Timesheets - change",
+                "serviceNotePublic": "false",
+                "adminNote": "",
+                "serviceLocationIdScheduled": "10",
+                "serviceLocationId": "10",
+                "serviceLocationAddressIdScheduled": "null",
+                "serviceLocationAddressId": "null",
+                "isLocked": false,
+                "isVoid": false,
+                "isDeleted": false,
+                "skipWarnings": false
+            }
+        ]
+    }
+}

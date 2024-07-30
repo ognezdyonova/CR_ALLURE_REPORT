@@ -1,0 +1,1 @@
+{"sessionInfo":{"id":836433,"name":"new session to user by api","creationDate":"2024-07-30T00:00:00.0000000Z","isComplete":false,"assignedToId":1025789,"authorId":288525,"contactName":"Q. Therapy","assignedName":"1. Test","lastAccessed":"2024-07-30T00:00:00.0000000Z"},"lastActivityId":57967946,"result":"OK","failed":false,"cachedTime":0}

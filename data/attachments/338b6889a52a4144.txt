@@ -1,0 +1,1 @@
+{"chatEnabled":true,"chatLogin":"","chatPassword":"","fullName":"QA Therapy","qbId":288525,"imgProfile":"9c7bd18c9f074fc0805ce211f7d0e896","typeId":572,"loginErrors":"","result":"OK","failed":false,"cachedTime":1722341018056}

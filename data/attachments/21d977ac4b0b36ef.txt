@@ -1,0 +1,5 @@
+{
+    "search": "",
+    "allowGeneric": false,
+    "_utcOffsetMinutes": 240
+}

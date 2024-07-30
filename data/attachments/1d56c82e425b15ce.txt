@@ -1,0 +1,1 @@
+{"id":0,"total":0,"results":[{"id":161212900,"sessionStart":"2024-07-30T12:05:25.3970000Z","sessionEnd":"0001-01-01T00:00:00.0000000Z","contactId":288525,"contactName":"Q. Therapy"}],"result":"OK","failed":false,"cachedTime":0}

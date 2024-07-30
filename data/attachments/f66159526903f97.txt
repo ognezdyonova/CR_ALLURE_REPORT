@@ -1,0 +1,12 @@
+{
+    "data": "<driverates><items><driverate><id>75162</id><providerhourlyrate>0</providerhourlyrate><providermileagerate>0.7</providermileagerate></driverate></items></driverates>",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "driverates/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

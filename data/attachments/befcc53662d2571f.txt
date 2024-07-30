@@ -1,0 +1,26 @@
+level: log, messages: Goal 3751860does not have parent param.
+level: log, messages: Goal 3752054does not have progress param.
+level: log, messages: Goal 3752174does not have progress param.
+level: log, messages: Goal 3752214does not have parent param.
+level: log, messages: Goal 3752250does not have initiated param.
+level: log, messages: Goal 3752250does not have progress param.
+level: log, messages: Goal 3752285does not have parent param.
+level: log, messages: Goal 3752285does not have progress param.
+level: log, messages: Goal 4207474does not have parent param.
+level: log, messages: Goal 4207474does not have progress param.
+level: log, messages: Goal 4518475does not have parent param.
+level: log, messages: Goal 4518475does not have progress param.
+level: log, messages: Goal 5418516does not have parent param.
+level: log, messages: Goal 5418516does not have progress param.
+level: log, messages: Goal 5595853does not have parent param.
+level: log, messages: Goal 5595854does not have initiated param.
+level: log, messages: Goal 5595854does not have progress param.
+level: log, messages: Goal 5595855does not have initiated param.
+level: log, messages: Goal 5595855does not have progress param.
+level: log, messages: Goal 6510512does not have parent param.
+level: log, messages: Goal 12932053does not have progress param.
+level: log, messages: Goal 12932056does not have progress param.
+level: log, messages: Goal 12932057does not have progress param.
+level: log, messages: Goal 7441044does not have parent param.
+level: log, messages: Goal 8505198does not have parent param.
+level: log, messages: Status sent for case: TR does not supported

@@ -1,0 +1,14 @@
+{
+    "id": "",
+    "typeId": "1053",
+    "number": "5",
+    "expirationDate": "1/1/2021",
+    "validation": {
+        "typeId": "1053",
+        "number": "5",
+        "expirationDate": "1/1/2021",
+        "errors": []
+    },
+    "contactId": "288525",
+    "_utcOffsetMinutes": 240
+}

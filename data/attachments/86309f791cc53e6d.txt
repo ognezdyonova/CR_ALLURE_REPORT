@@ -1,0 +1,12 @@
+{
+    "_continuousPaging": true,
+    "searchProperty": "authTemplateSearch",
+    "pageIndex": 1,
+    "pageSize": 20,
+    "search": "",
+    "filterCount": 0,
+    "dirtyProperties": [],
+    "isDirty": 0,
+    "queryDirty": false,
+    "_utcOffsetMinutes": 300
+}

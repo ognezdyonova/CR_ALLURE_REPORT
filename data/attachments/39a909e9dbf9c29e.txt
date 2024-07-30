@@ -1,0 +1,1 @@
+{"inProgress":false,"id":0,"taskId":0,"contactId":0,"totalSecondsWorked":0,"deleted":false,"result":"OK","failed":false,"cachedTime":0}

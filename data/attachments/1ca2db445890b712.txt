@@ -1,0 +1,1 @@
+{"policyTypes":[{"id":813,"name":"new policy [API]  1CHKyd"},{"id":1062,"name":"new policy [API] p7ch1X"},{"id":579,"name":"Test"},{"id":581,"name":"test 3463546"}],"result":"OK","failed":false,"cachedTime":0}

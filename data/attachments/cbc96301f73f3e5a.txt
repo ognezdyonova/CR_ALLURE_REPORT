@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "externalEmployee7AvailabilityName10OW7k",
+    "notes": "test avail notes",
+    "startDate": "07/12/2024",
+    "endDate": "07/29/2028",
+    "startTs": 36600,
+    "endTs": 54900,
+    "location": "1784672",
+    "visibility": "0",
+    "types": "10447878",
+    "days": "6,0",
+    "providerId": "3031279",
+    "_utcOffsetMinutes": 240
+}

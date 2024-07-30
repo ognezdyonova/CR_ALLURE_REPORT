@@ -1,0 +1,38 @@
+{
+    "contactId": 1084143,
+    "id": "",
+    "createdBy": "",
+    "createdByName": "",
+    "creationDate": "",
+    "deletedBy": "",
+    "deletedDate": "",
+    "modifiedBy": "",
+    "modifiedByName": "",
+    "dateTaken": "2022-02-02 05:17",
+    "note": "17",
+    "canEdit": "",
+    "privacy": "2",
+    "hideFromContact": "",
+    "noteInfo": false,
+    "dateTakenInvalid": false,
+    "dateTakenTime": "5:17 AM",
+    "dateTakenDate": "2022-02-02T10:17:23.765Z",
+    "pef": "12",
+    "fev1": "13",
+    "fev6": "14",
+    "measurementFlag": "15",
+    "additionalMeasurementFlags": [{
+            "value": "16"
+        }
+    ],
+    "advancedInfo": false,
+    "validation": {
+        "dateTakenDate": "2022-02-02T10:17:23.765Z",
+        "pef": "12",
+        "fev1": "13",
+        "fev6": "14",
+        "errors": []
+    },
+    "measurementFlagsArray": ["15", "16"],
+    "_utcOffsetMinutes": 300
+}

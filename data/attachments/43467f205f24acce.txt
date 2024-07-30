@@ -1,0 +1,1 @@
+{"responseStatus":{"errorCode":"SerializationException","message":"Unable to bind to request 'TestResult'","errors":[{"errorCode":"SerializationException","fieldName":"TestId","message":"'{{learnTestNewTestId}}' is an Invalid value for 'TestId'"}]}}

@@ -1,0 +1,5 @@
+{
+    "contactId": 1084143,
+    "isFavorite": true,
+    "_utcOffsetMinutes": 300
+}

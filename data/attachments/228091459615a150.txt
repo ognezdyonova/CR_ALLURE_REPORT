@@ -1,0 +1,32 @@
+{
+    "op": "addcourse",
+    "startDate": "2024-07-30",
+    "startTime": 63000,
+    "endTime": 70200,
+    "principal1": 361275,
+    "principal2": 355707,
+    "participants": "",
+    "billing": "<a><s><l>7200</l><c>66865</c><a>6387469</a></s></a>",
+    "eventLabels": "",
+    "courseLabels": "",
+    "hidden": false,
+    "placeOfServiceId": "{{placeOfServiceId}}",
+    "name": "Fee Schedule",
+    "locationId": "288525",
+    "driveTimeInMinutes": 80,
+    "mileage": "45.7",
+    "description": "This is testing draft TimesheetslNIft",
+    "qualificationWarningsOverridden": false,
+    "feeScheduleRateIds": [
+        82818
+    ],
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

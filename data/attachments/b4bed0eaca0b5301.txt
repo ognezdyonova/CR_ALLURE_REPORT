@@ -1,0 +1,18 @@
+{
+    "id": "7171",
+    "batchId": "7171",
+    "description": "edited description j3shg",
+    "reference": "Test",
+    "transactionDate": "2019-04-24",
+    "depositDate": "2019-04-25",
+    "payer": "edited payer MiA9Z",
+    "amount": "77",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments/transactions/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

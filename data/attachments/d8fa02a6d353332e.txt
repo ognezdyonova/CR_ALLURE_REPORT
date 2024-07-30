@@ -1,0 +1,10 @@
+{
+    "Transaction": 1,
+    "ReconPayments": [
+        {
+            "PayorType": 0,
+            "Payor": 1,
+            "Reference": "string"
+        }
+    ]
+}
